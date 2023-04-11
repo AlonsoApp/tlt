@@ -1,0 +1,655 @@
+Instrucciones
+A continuación verás 30 frases acompañadas de una tabla y su título (de la tabla). Las frases dicen algo de la tabla y tendrás que decir si lo que dice es cierto (t) o falso (f) en base a la información presente en la tabla y el título. 
+Si lo que se dice en la frase no está respaldado por ningún dato de la tabla o del título, la frase se considerará falsa. 
+Si la frase menciona información que pueda ser deducida de la tabla como resultado de de sumas, restas, medias, etc... la frase se considerará correcta.
+Puede que algunas frases estén mal escritas o que digan obviedades como 'in the 1975 formula one season, the race on march 1st was the only one to take place on march 1st'. En estos casos, si la frase se puede entender y lo que dice sigue siendo cierto, se considerarán ciertas (t).
+Hay casos extremos en los que las frases pueden no tener ningún sentido y sea imposible valorar si lo que dicen es cierto o falso. En estos casos la respuesta debe ser 'n' de nonsense.
+Escribe tu respuesta t, f o n en 'Answer [t/f/n]: ' por ejemplo para una frase correcta -> Answer [t/f/n]: t
+Cuando termines, guarda el archivo de texto y evíamelo de vuelta a me@email.com o por el canal que más fácil te resulte (Telegram, etc...)
+Si tienes alguna duda durante la evaluación preguntame sin problema :)
+Te agradezco mucho la ayuda ^^
+
+PARA VER BIEN LAS TABLAS: Si usas Sublime Text (cosa que recomiendo), vete a View y desactiva Word Wrap. Así, las tablas que no quepan en horizontal no pasarán a la siguiente línea (haciéndolas muy difíciles de leer).
+Si usas otro editor y quieres saber cómo desactivarlo, busca cómo desabilitar el 'line wrap' en google o pregúntame a mí.
+
+
+# 1/30
+id: 489d19643ba2f65d2fbed249936e3ddd66c2daf9 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: ana timotić
++----+-----------+----------------------------------+-----------+---------------+---------------+-----------+-------------------+-----------+-----------------------+
+|    |   edition | zone                             | round     | date          | against       | surface   | opponent          | outcome   | result                |
+|----+-----------+----------------------------------+-----------+---------------+---------------+-----------+-------------------+-----------+-----------------------|
+|  0 |      2005 | europe / africa group i c        | 1r        | 21 april 2005 | slovenia      | clay      | tina pisnik       | loss      | 6 - 0 , 6 - 1         |
+|  1 |      2005 | europe / africa group i c        | 2r        | 22 april 2005 | great britain | clay      | elena baltacha    | win       | 5 - 7 , 6 - 3 , 6 - 0 |
+|  2 |      2005 | europe / africa group play - off | semifinal | 23 april 2005 | israel        | clay      | shahar pe'er      | loss      | 6 - 4 , 4 - 6 , 6 - 3 |
+|  3 |      2006 | europe / africa group i b        | 1r        | 18 april 2006 | slovenia      | clay      | polona reberšak   | loss      | 6 - 3 , 6 - 2         |
+|  4 |      2006 | europe / africa group i b        | 3r        | 20 april 2006 | denmark       | clay      | eva dyrberg       | win       | 2 - 6 , 6 - 4 , 6 - 4 |
+|  5 |      2006 | europe / africa group i          | semifinal | 22 april 2006 | israel        | clay      | anna smashnova    | win       | 5 - 7 , 4 - 5 ret     |
+|  6 |      2007 | europe / africa group i c        | 1r        | 20 april 2007 | slovenia      | clay      | maša zec peškirič | loss      | 6 - 3 , 4 - 6 , 6 - 0 |
+|  7 |      2007 | europe / africa group i c        | semifinal | 21 april 2007 | romania       | clay      | mădălina gojnea   | loss      | 1 - 6 , 6 - 4 , 6 - 3 |
++----+-----------+----------------------------------+-----------+---------------+---------------+-----------+-------------------+-----------+-----------------------+
+Frase: in most of the games that ana timotić participated in , the clay surface was used .
+Answer [t/f/n]: t
+
+
+# 2/30
+id: 8ef5f530d717f1822faa48175192664026115a66 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: northern nevada 4a region
++----+-----------------+-----------+----------------------+-------------+--------------+
+|    | school          | mascot    | location             | league      |   enrollment |
+|----+-----------------+-----------+----------------------+-------------+--------------|
+|  0 | carson          | senators  | carson city , nevada | sierra      |         2503 |
+|  1 | damonte ranch   | mustangs  | reno , nevada        | sierra      |         1253 |
+|  2 | douglas         | tigers    | minden , nevada      | sierra      |         1522 |
+|  3 | galena          | grizzlies | reno , nevada        | sierra      |         1510 |
+|  4 | hug             | hawks     | reno , nevada        | high desert |         1266 |
+|  5 | manogue         | miners    | reno , nevada        | sierra      |          650 |
+|  6 | mcqueen         | lancers   | reno , nevada        | high desert |         1945 |
+|  7 | north valleys   | panthers  | reno , nevada        | high desert |         2227 |
+|  8 | reed            | raiders   | sparks , nevada      | high desert |         2464 |
+|  9 | reno            | huskies   | reno , nevada        | high desert |         1896 |
+| 10 | spanish springs | cougars   | sparks , nevada      | high desert |         2186 |
+| 11 | wooster         | colts     | reno , nevada        | sierra      |         1519 |
++----+-----------------+-----------+----------------------+-------------+--------------+
+Frase: 6 schools in the northern nevada 4a region play in the high desert league .
+Answer [t/f/n]: t
+
+
+# 3/30
+id: d8dcaf50fc291ad4d4b8e8a763d1e63a7cd7cd34 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: eurovision song contest 1963
++----+--------+------------------+-------------------------+---------------------------------+-----------------------------+---------+----------+
+|    |   draw | language         | artist                  | song                            | english translation         |   place |   points |
+|----+--------+------------------+-------------------------+---------------------------------+-----------------------------+---------+----------|
+|  0 |     01 | english          | ronnie carroll          | say wonderful things            | -                           |       4 |       28 |
+|  1 |     02 | dutch            | annie palmen            | een speeldoos                   | a musical box               |      13 |        0 |
+|  2 |     03 | german           | heidi brühl             | marcel                          | -                           |       9 |        5 |
+|  3 |     04 | german , english | carmela corren          | vielleicht geschieht ein wunder | maybe a miracle will happen |       7 |       16 |
+|  4 |     05 | norwegian        | anita thallaug          | solhverv                        | solstice                    |      13 |        0 |
+|  5 |     06 | italian          | emilio pericoli         | uno per tutte                   | one for all                 |       3 |       37 |
+|  6 |     07 | finnish          | laila halme             | muistojeni laulu                | the song of my memories     |      13 |        0 |
+|  7 |     08 | danish           | grethe & jørgen ingmann | dansevise                       | dance ballad                |       1 |       42 |
+|  8 |     09 | croatian         | vice vukov              | brodovi                         | ships                       |      11 |        3 |
+|  9 |     10 | french           | esther ofarim           | t ' en va pas                   | do n't go away              |       2 |       40 |
+| 10 |     11 | french           | alain barrière          | elle était si jolie             | she was so pretty           |       5 |       25 |
+| 11 |     12 | spanish          | josé guardiola          | algo prodigioso                 | something marvellous        |      12 |        2 |
+| 12 |     13 | swedish          | monica zetterlund       | en gång i stockholm             | once in stockholm           |      13 |        0 |
+| 13 |     14 | dutch            | jacques raymond         | waarom                          | why                         |      10 |        4 |
+| 14 |     15 | french           | françoise hardy         | l'amour s ' en va               | love goes away              |       5 |       25 |
+| 15 |     16 | french           | nana mouskouri          | à force de prier                | by the might of prayer      |       8 |       13 |
++----+--------+------------------+-------------------------+---------------------------------+-----------------------------+---------+----------+
+Frase: ronnie carroll had 12 more points than carmela corren .
+Answer [t/f/n]: t
+
+
+# 4/30
+id: 23646d39a036714cb1042b78667dd76981c60a90 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 2007 - 08 fis ski jumping world cup
++----+--------+-----------------------+---------------+-------------+-------------+----------+------------------------------+
+|    |   rank | name                  | nationality   |   1st ( m ) |   2nd ( m ) |   points | overall wc points ( rank )   |
+|----+--------+-----------------------+---------------+-------------+-------------+----------+------------------------------|
+|  0 |      1 | thomas morgenstern    | aut           |       132   |       128.5 |    272.4 | 1555 ( 1 )                   |
+|  1 |      2 | gregor schlierenzauer | aut           |       130.5 |       129   |    268.1 | 919 ( 2 )                    |
+|  2 |      3 | andreas kã ¼ ttel     | sui           |       128   |       130.5 |    260.8 | 584 ( 7 )                    |
+|  3 |      4 | janne ahonen          | fin           |       127.5 |       128.5 |    258.8 | 895 ( 3 )                    |
+|  4 |      5 | anders bardal         | nor           |       124.5 |       129.5 |    255.7 | 592 ( 6 )                    |
++----+--------+-----------------------+---------------+-------------+-------------+----------+------------------------------+
+Frase: thomas morgenstern had the most points in the 2007 - 08 fis ski jumping world cup .
+Answer [t/f/n]: t
+
+
+# 5/30
+id: ea73d7e8d65e1fd8e650d3e0020681f051a6f77e - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 2007 u.s. women 's open golf championship
++----+---------+-----------------+---------------+-------------------------+----------+---------+
+|    | place   | player          | country       | score                   | to par   |   money |
+|----+---------+-----------------+---------------+-------------------------+----------+---------|
+|  0 | 1       | cristie kerr    | united states | 71 + 72 + 66 + 70 = 279 | - 5      |  560000 |
+|  1 | t2      | angela park     | brazil        | 68 + 69 + 74 + 70 = 281 | - 3      |  271022 |
+|  2 | t2      | lorena ochoa    | mexico        | 71 + 71 + 68 + 71 = 281 | - 3      |  271022 |
+|  3 | t4      | se ri pak       | south korea   | 74 + 72 + 68 + 68 = 282 | - 2      |  130549 |
+|  4 | t4      | inbee park      | south korea   | 69 + 73 + 71 + 69 = 282 | - 2      |  130549 |
+|  5 | 6       | jiyai shin      | south korea   | 70 + 69 + 71 + 74 = 284 | e        |  103581 |
+|  6 | 7       | jee young lee   | south korea   | 72 + 71 + 71 + 71 = 285 | + 1      |   93031 |
+|  7 | t8      | mi hyun kim     | south korea   | 71 + 75 + 70 + 70 = 286 | + 2      |   82464 |
+|  8 | t8      | jeong jang      | south korea   | 72 + 71 + 70 + 73 = 286 | + 2      |   82464 |
+|  9 | t10     | ai miyazato     | japan         | 73 + 73 + 72 + 69 = 287 | + 3      |   66177 |
+| 10 | t10     | kyeong bae      | south korea   | 74 + 71 + 72 + 70 = 287 | + 3      |   66177 |
+| 11 | t10     | julieta granada | paraguay      | 70 + 69 + 75 + 73 = 287 | + 3      |   66177 |
+| 12 | t10     | morgan pressel  | united states | 71 + 70 + 69 + 77 = 287 | + 3      |   66177 |
++----+---------+-----------------+---------------+-------------------------+----------+---------+
+Frase: in the 2007 u.s. women 's open , the total number of strokes to par was 2 .
+Answer [t/f/n]: t
+
+
+# 6/30
+id: e4a31c1422b206ffd3d49f2531c89a8307ed4d40 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: united states house of representatives elections , 1816
++----+---------------------------------------------+-----------------+-------------------------+-----------------+--------------------------------------+---------------------------------------------------------+
+|    | district                                    | incumbent       | party                   |   first elected | result                               | candidates                                              |
+|----+---------------------------------------------+-----------------+-------------------------+-----------------+--------------------------------------+---------------------------------------------------------|
+|  0 | pennsylvania 4                              | hugh glasgow    | democratic - republican |            1812 | retired democratic - republican hold | jacob spangler ( dr ) 67.1 % jacob hay ( f ) 32.9 %     |
+|  1 | pennsylvania 6 plural district with 2 seats | samuel d ingham | democratic - republican |            1812 | re - elected                         | john ross ( dr ) 50.8 % samuel d ingham ( dr ) 49.2 %   |
+|  2 | pennsylvania 6 plural district with 2 seats | john ross       | democratic - republican |            1814 | re - elected                         | john ross ( dr ) 50.8 % samuel d ingham ( dr ) 49.2 %   |
+|  3 | pennsylvania 8                              | william piper   | democratic - republican |            1810 | retired democratic - republican hold | alexander ogle ( dr ) 99.7 %                            |
+|  4 | pennsylvania 12                             | aaron lyle      | democratic - republican |            1808 | retired democratic - republican hold | thomas patterson ( dr ) 87.2 % john hughes ( f ) 12.8 % |
+|  5 | pennsylvania 14                             | john woods      | federalist              |            1814 | retired democratic - republican gain | henry baldwin ( dr ) 61.6 % walter lowrie ( dr ) 38.4 % |
++----+---------------------------------------------+-----------------+-------------------------+-----------------+--------------------------------------+---------------------------------------------------------+
+Frase: william piper was the only incumbent who retired in the 1816 house of representatives elections .
+Answer [t/f/n]: f
+
+
+# 7/30
+id: fb7000b3aa5eb3cd47562eaf853c2b296dff35ad - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: india at the 2010 asian games
++----+--------------------+---------------------------+-------------------------------------------+--------------------------------------------------+---------------------------------+-----------------+
+|    | athlete            | event                     | round of 32                               | round of 16                                      | quarterfinals                   | semifinals      |
+|----+--------------------+---------------------------+-------------------------------------------+--------------------------------------------------+---------------------------------+-----------------|
+|  0 | sunil kumar        | finweight ( - 54 kg )     | lakpa tashi sherpa ( bhu ) w pts 12 - 5   | abdulrahim abdulhameed ( brn ) l pts 2 - 8       | did not advance                 | did not advance |
+|  1 | surendra bhandari  | bantamweight ( - 63 kg )  | darkhan kassymkulov ( kaz ) l pts 7 - 8   | did not advance                                  | did not advance                 | did not advance |
+|  2 | chandan lakra      | featherweight ( - 68 kg ) | afifuddin omar sidek ( mas ) w pts 6 - 2  | naranchimegiin erdenebaatar ( mgl ) l pts 7 - 19 | did not advance                 | did not advance |
+|  3 | jasvant            | lightweight ( - 74 kg )   | sawatvilay phimmasone ( lao ) w pts 9 - 7 | yulius fernando ( ina ) l pts 5 - 6              | did not advance                 | did not advance |
+|  4 | anand pandia rajan | welterweight ( - 80 kg )  | bye                                       | eisa al - shammeri ( kuw ) w dsq                 | nabil talal ( jor ) l pts 3 - 3 | did not advance |
++----+--------------------+---------------------------+-------------------------------------------+--------------------------------------------------+---------------------------------+-----------------+
+Frase: most of the athletes at the 2010 asian games did not advance to the quarterfinals .
+Answer [t/f/n]: t
+
+
+# 8/30
+id: e1d87486ff3b2ea5003fcb14be351618d0aa456f - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: deccan chargers
++----+----------+--------+----------+--------+---------+
+|    | played   | wins   | losses   | tied   | win %   |
+|----+----------+--------+----------+--------+---------|
+|  0 | ipl      | ipl    | ipl      | ipl    | ipl     |
+|  1 | 14       | 2      | 12       | 0      | 14 %    |
+|  2 | 16       | 9      | 7        | 0      | 56 %    |
+|  3 | 16       | 8      | 8        | 0      | 50 %    |
+|  4 | 14       | 6      | 8        | 0      | 42 %    |
+|  5 | 15       | 4      | 11       | 0      | 26.67 % |
+|  6 | 75       | 29     | 46       | 0      | 38.67 % |
+|  7 | 2        | 0      | 2        | 0      | 0 %     |
+|  8 | 77       | 29     | 48       | 0      | 37.67 % |
++----+----------+--------+----------+--------+---------+
+Frase: the deccan chargers played 16 games during the season .
+Answer [t/f/n]: n
+
+
+# 9/30
+id: 7627738b57e48911bbc6f9054f251edd85e824e5 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: list of south american countries by gdp ( ppp ) per capita
++----+-----------------------+--------------+-----------+----------------+-------------------------+
+|    |   south american rank |   world rank | nation    |   2011 ( imf ) |   2008 ( cia factbook ) |
+|----+-----------------------+--------------+-----------+----------------+-------------------------|
+|  0 |                     1 |           51 | argentina |          17376 |                   14500 |
+|  1 |                     2 |           55 | chile     |          16171 |                   15400 |
+|  2 |                     3 |           59 | uruguay   |          15469 |                   12300 |
+|  3 |                     4 |           71 | venezuela |          12407 |                   13500 |
+|  4 |                     5 |           74 | brazil    |          11845 |                   10513 |
+|  5 |                     6 |           82 | colombia  |          10155 |                    9000 |
+|  6 |                     7 |           83 | peru      |          10000 |                    8500 |
+|  7 |                     8 |           86 | suriname  |           9492 |                    8900 |
+|  8 |                     9 |           91 | ecuador   |           8335 |                    7700 |
+|  9 |                    10 |           96 | guyana    |           7541 |                    4000 |
+| 10 |                    11 |          110 | paraguay  |           5548 |                    4400 |
++----+-----------------------+--------------+-----------+----------------+-------------------------+
+Frase: chile had the second highest population in the list of south american countries by gdp per capita .
+Answer [t/f/n]: n
+
+
+# 10/30
+id: ec730184263425b3aa9daf4c764d4232a9cc25a8 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 2008 manx grand prix
++----+--------+----------------------+-----------------+------------+------------+
+|    |   rank | rider                | team            | speed      | time       |
+|----+--------+----------------------+-----------------+------------+------------|
+|  0 |      1 | roy richardson       | 349cc honda     | 99.814 mph | 1:08.02.42 |
+|  1 |      2 | paul coward          | 348cc k4 honda  | 98.136 mph | 1:09.12.26 |
+|  2 |      3 | ryan farquhar        | 347cc honda     | 97.873 mph | 1:09.23.39 |
+|  3 |      4 | rich hawkins         | 348cc k4 honda  | 97.743 mph | 1:09.29.85 |
+|  4 |      5 | wattie brown         | 350cc honda     | 94.349 mph | 1:11.58.88 |
+|  5 |      6 | john burrows         | 350cc honda     | 93.929 mph | 1:12.18.19 |
+|  6 |      7 | bob price            | 350cc honda     | 93.537 mph | 1:12.36.41 |
+|  7 |      8 | paul dobbs           | 350cc aermacchi | 93.161 mph | 1:12.53.99 |
+|  8 |      9 | dave madsen - mygdal | 349cc honda     | 92.922 mph | 1:13.05.25 |
+|  9 |     10 | alec whitwell        | 349cc honda     | 92.234 mph | 1:13.37.95 |
++----+--------+----------------------+-----------------+------------+------------+
+Frase: the average speed of the riders during the 2008 manx grand prix was 93 mph .
+Answer [t/f/n]: f
+
+
+# 11/30
+id: 034d79777c5b44c62fc1eacd7d79577358ad304e - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 2006 - 07 in welsh rugby union
++----+----------------------+----------+-------+---------+--------+--------------+------------------+-------------+----------+
+|    | club                 | played   | won   | drawn   | lost   | points for   | points against   | tries for   | points   |
+|----+----------------------+----------+-------+---------+--------+--------------+------------------+-------------+----------|
+|  0 | club                 | played   | won   | drawn   | lost   | points for   | points against   | tries for   | points   |
+|  1 | beddau rfc           | 22       | 19    | 0       | 3      | 654          | 321              | 85          | 57       |
+|  2 | bargoed rfc          | 22       | 17    | 0       | 5      | 665          | 436              | 89          | 51       |
+|  3 | newbridge rfc        | 22       | 17    | 0       | 5      | 516          | 281              | 63          | 51       |
+|  4 | pontypool rfc        | 22       | 15    | 0       | 7      | 515          | 370              | 59          | 45       |
+|  5 | fleur de lys rfc     | 22       | 10    | 0       | 12     | 422          | 523              | 49          | 30       |
+|  6 | uwic rfc             | 22       | 9     | 1       | 12     | 625          | 604              | 74          | 28       |
+|  7 | newport saracens rfc | 22       | 9     | 1       | 12     | 368          | 457              | 46          | 28       |
+|  8 | llanharan rfc        | 22       | 9     | 0       | 13     | 546          | 565              | 66          | 27       |
+|  9 | caerphilly rfc       | 22       | 9     | 0       | 14     | 402          | 572              | 47          | 24       |
+| 10 | blackwood rfc        | 22       | 6     | 1       | 15     | 433          | 511              | 51          | 19       |
+| 11 | abercynon rfc        | 22       | 5     | 2       | 15     | 365          | 718              | 45          | 17       |
+| 12 | ystrad rhondda rfc   | 22       | 5     | 1       | 16     | 417          | 570              | 47          | 16       |
++----+----------------------+----------+-------+---------+--------+--------------+------------------+-------------+----------+
+Frase: in 2006 - 07 in welsh rugby union , there were three clubs with over 50 points .
+Answer [t/f/n]: t
+
+
+# 12/30
+id: a9ea13f0419e3c17a0feb7b817734eb5b1e7a192 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: television in the united kingdom
++----+--------+-------------------------------------------------+---------------------+------------------+-----------+
+|    |   rank | show                                            | number of viewers   | date             | network   |
+|----+--------+-------------------------------------------------+---------------------+------------------+-----------|
+|  0 |      1 | 1966 world cup final                            | 32.30 million       | 30 july 1966     | bbc one   |
+|  1 |      2 | funeral of princess diana                       | 32.10 million       | 6 september 1997 | bbc one   |
+|  2 |      3 | british royal family documentary                | 30.69 million       | 1969             | bbc1      |
+|  3 |      4 | eastenders                                      | 30.15 million       | 25 december 1986 | bbc one   |
+|  4 |      5 | apollo 13 splashdown                            | 28.60 million       | 17 april 1970    | bbc one   |
+|  5 |      6 | fa cup replay : chelsea vs leeds                | 28.49 million       | 29 april 1970    | bbc one   |
+|  6 |      7 | royal wedding of charles & diana                | 28.40 million       | 29 july 1981     | bbc one   |
+|  7 |      8 | wedding of princess anne and mark phillips      | 27.60 million       | 14 november 1973 | bbc one   |
+|  8 |      9 | coronation street                               | 26.65 million       | 25 december 1987 | itv       |
+|  9 |     10 | 2012 summer olympics closing ceremony in london | 24.46 million       | 12 august 2012   | bbc one   |
++----+--------+-------------------------------------------------+---------------------+------------------+-----------+
+Frase: apollo 13 splashdown had more viewers than the wedding of princess anne and mark phillips .
+Answer [t/f/n]: t
+
+
+# 13/30
+id: 107c93ca1beb2de2c2befd80f837b17d6265124c - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: kjrt
++----+-------------+-----------------+---------------------+---------+---------+------------+
+|    | call sign   |   frequency mhz | city of license     |   erp w | class   | fcc info   |
+|----+-------------+-----------------+---------------------+---------+---------+------------|
+|  0 | k201bm      |            88.1 | canadian , texas    |      74 | d       | fcc        |
+|  1 | k202ck      |            88.3 | childress , texas   |     200 | d       | fcc        |
+|  2 | k216 gg     |            91.1 | plainview , texas   |      40 | a       | fcc        |
+|  3 | k220cp      |            91.9 | pampa , texas       |      67 | d       | fcc        |
+|  4 | k220iz      |            91.9 | perryton , texas    |     250 | d       | fcc        |
+|  5 | k220jz      |            91.9 | memphis , texas     |      25 | d       | fcc        |
+|  6 | k219lo      |            91.7 | hereford , texas    |      10 | d       | fcc        |
+|  7 | k229by      |            93.7 | tulia , texas       |     100 | d       | fcc        |
+|  8 | k291aq      |           106.1 | dumas , texas       |      92 | d       | fcc        |
+|  9 | k202ag      |            88.3 | elk city , oklahoma |      38 | d       | fcc        |
++----+-------------+-----------------+---------------------+---------+---------+------------+
+Frase: all of the kjrt radio channels are in texas .
+Answer [t/f/n]: f
+
+
+# 14/30
+id: bcec1371ffd2dd91b19710683eec2babd6734ec2 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: united states house of representatives elections , 1978
++----+------------+----------------+------------+-----------------+--------------+----------------------------------------------------------+
+|    | district   | incumbent      | party      |   first elected | result       | candidates                                               |
+|----+------------+----------------+------------+-----------------+--------------+----------------------------------------------------------|
+|  0 | missouri 2 | robert a young | democratic |            1976 | re - elected | robert a young ( d ) 56.4 % bob chase ( r ) 43.6 %       |
+|  1 | missouri 3 | dick gephardt  | democratic |            1976 | re - elected | dick gephardt ( d ) 81.9 % lee buchschacher ( r ) 18.1 % |
+|  2 | missouri 4 | ike skelton    | democratic |            1976 | re - elected | ike skelton ( d ) 72.8 % bill baker ( r ) 27.2 %         |
+|  3 | missouri 7 | gene taylor    | republican |            1972 | re - elected | gene taylor ( r ) 61.2 % jim thomas ( d ) 38.8 %         |
+|  4 | missouri 9 | harold volkmer | democratic |            1976 | re - elected | harold volkmer ( d ) 74.7 % jerry dent ( r ) 25.3 %      |
++----+------------+----------------+------------+-----------------+--------------+----------------------------------------------------------+
+Frase: in the 1978 united states house of representatives elections , all of the incumbents were reelected .
+Answer [t/f/n]: t
+
+
+# 15/30
+id: b0ac5366ff3b71a45c5e4520647143b7b0df13d5 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 2007 - 08 plymouth argyle f.c. season
++----+------------+-----------+----------+----------------------+-------------------+--------+----------------+
+|    | name       | country   | type     | moving from          | transfer window   |   ends | transfer fee   |
+|----+------------+-----------+----------+----------------------+-------------------+--------+----------------|
+|  0 | abdou      | fra       | signed   | sedan                | summer            |   2008 | free           |
+|  1 | mabiala    | fra       | loan     | parissaint - germain | summer            |   2008 | loan           |
+|  2 | martin     | eng       | loan     | manchester united    | summer            |   2008 | loan           |
+|  3 | easter     | wal       | transfer | wycombe wanderers    | winter            |   2008 | 210k           |
+|  4 | jutkiewicz | eng       | loan     | everton              | winter            |   2008 | loan           |
+|  5 | folly      | fra       | transfer | sheffield wednesday  | winter            |   2008 | xxxk           |
++----+------------+-----------+----------+----------------------+-------------------+--------+----------------+
+Frase: dabdou was the only player that joined the 2007 - 08 plymouth argyle f.c. season .
+Answer [t/f/n]: f
+
+
+# 16/30
+id: a5935565ee6ea2fc1899138df558d035b9219221 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: fifa beach soccer world cup
++----+--------------+-----------------------------------------------+-------------------------+----------------------------------+-------------------------+-------------------+
+|    | year         | location                                      | number of teams         | player of the tournament         | top goalscorer ( s )    | best goalkeeper   |
+|----+--------------+-----------------------------------------------+-------------------------+----------------------------------+-------------------------+-------------------|
+|  0 | 2009 details | jumeirah beach , dubai , united arab emirates | dejan stankovic ( sui ) | 16 goals dejan stankovic ( sui ) | mão ( bra )             | 269 ( 8.7 )       |
+|  1 | 2008 details | plage du prado , marseille , france           | amarelle ( esp )        | 13 goals madjer ( por )          | roberto valeiro ( esp ) | 258 ( 8.3 )       |
+|  2 | 2007 details | copacabana beach , rio de janeiro , brazil    | buru ( bra )            | 10 goals buru ( bra )            | not awarded             | 261 ( 8.2 )       |
+|  3 | 2006 details | copacabana beach , rio de janeiro , brazil    | madjer ( por )          | 21 goals madjer ( por )          | not awarded             | 286 ( 8.9 )       |
+|  4 | 2005 details | copacabana beach , rio de janeiro , brazil    | madjer ( por )          | 12 goals madjer ( por )          | not awarded             | 164 ( 8.2 )       |
++----+--------------+-----------------------------------------------+-------------------------+----------------------------------+-------------------------+-------------------+
+Frase: 2006 is the only year in which fifa beach soccer world cup was played in 2006 .
+Answer [t/f/n]: t
+
+
+# 17/30
+id: 1d95c92eb31a735bd37e244a26e1938001ba3be6 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: outline of hungary
++----+----------------------------+----------------+----------------------+--------------+----------------------+--------------------+
+|    | name of county             | county seat    |   area ( km square ) |   population |   population density |   towns / villages |
+|----+----------------------------+----------------+----------------------+--------------+----------------------+--------------------|
+|  0 | bács - kiskun              | kecskemét      |                 8445 |       541584 |                   64 |                119 |
+|  1 | baranya                    | pécs           |                 4430 |       402260 |                   91 |                301 |
+|  2 | békés                      | békéscsaba     |                 5631 |       392845 |                   70 |                 75 |
+|  3 | borsod - abaúj - zemplén   | miskolc        |                 7247 |       739143 |                  102 |                355 |
+|  4 | csongrád                   | szeged         |                 4263 |       425785 |                  100 |                 60 |
+|  5 | fejér                      | székesfehérvár |                 4359 |       428579 |                   98 |                108 |
+|  6 | győr - moson - sopron      | győr           |                 4208 |       440138 |                  105 |                182 |
+|  7 | hajdú - bihar              | debrecen       |                 6211 |       550265 |                   89 |                 82 |
+|  8 | heves                      | eger           |                 3637 |       323769 |                   89 |                119 |
+|  9 | jász - nagykun - szolnok   | szolnok        |                 5582 |       413174 |                   74 |                 75 |
+| 10 | komárom - esztergom        | tatabánya      |                 2265 |       315886 |                  139 |                 76 |
+| 11 | nógrád                     | salgótarján    |                 2546 |       218218 |                   86 |                129 |
+| 12 | pest                       | budapest       |                 6393 |      1124395 |                  176 |                186 |
+| 13 | somogy                     | kaposvár       |                 6036 |       334065 |                   55 |                244 |
+| 14 | szabolcs - szatmár - bereg | nyíregyháza    |                 5936 |       583564 |                   98 |                228 |
+| 15 | tolna                      | szekszárd      |                 3703 |       247287 |                   67 |                108 |
+| 16 | vas                        | szombathely    |                 3336 |       266342 |                   80 |                216 |
+| 17 | veszprém                   | veszprém       |                 4493 |       368519 |                   82 |                217 |
++----+----------------------------+----------------+----------------------+--------------+----------------------+--------------------+
+Frase: borsod - abaúj - zemplén is the only county with a borsod - abaúj - zemplén population density .
+Answer [t/f/n]: n
+
+
+# 18/30
+id: 8138cabc70f0b0799d397a56caacd4a9fcb1d7ad - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: raphael butler
++----+-------+----------+-----------------+------------------------+---------+--------+-----------------------------------------+
+|    | res   | record   | opponent        | method                 |   round | time   | location                                |
+|----+-------+----------+-----------------+------------------------+---------+--------+-----------------------------------------|
+|  0 | win   | 7 - 0    | joseph bryant   | tko ( strikes )        |       1 | 1:04   | rio rancho , new mexico , united states |
+|  1 | win   | 6 - 0    | jeremiah o'neal | ko ( punches )         |       1 | 2:19   | thackerville , oklahoma , united states |
+|  2 | win   | 5 - 0    | brett murphy    | ko ( punch )           |       1 | 0:13   | st paul , minnesota , united states     |
+|  3 | win   | 4 - 0    | steven shaw     | submission ( armbar )  |       1 | 4:35   | maplewood , minnesota , united states   |
+|  4 | win   | 3 - 0    | richard white   | submission ( punches ) |       2 | 3:18   | rochester , minnesota , united states   |
+|  5 | win   | 2 - 0    | jeremy beck     | ko ( punches )         |       1 | 3:36   | red wing , minnesota , united states    |
+|  6 | win   | 1 - 0    | gabe hobbs      | ko ( punch )           |       1 | 0:36   | welch , minnesota , united states       |
++----+-------+----------+-----------------+------------------------+---------+--------+-----------------------------------------+
+Frase: raphael butler 's matches lasted an average of 1 round per match .
+Answer [t/f/n]: t
+
+
+# 19/30
+id: 0b0ad23652065569c9869438537b66a05aff9ccf - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: seattle supersonics all - time roster
++----+-----------------+---------------+-----------------------+------------+-------------------------+------------------+
+|    | player          | nationality   | jersey number ( s )   | position   | years                   | from             |
+|----+-----------------+---------------+-----------------------+------------+-------------------------+------------------|
+|  0 | craig ehlo      | united states | 3                     | sg         | 1996 - 1997             | washington state |
+|  1 | dale ellis      | united states | 3                     | sg / sf    | 1986 - 1991 1997 - 1999 | tennessee        |
+|  2 | pervis ellison  | united states | 29                    | c          | 2000                    | louisville       |
+|  3 | francisco elson | netherlands   | 16                    | c          | 2008                    | california       |
+|  4 | reggie evans    | united states | 34 , 30               | pf         | 2002 - 2006             | iowa             |
+|  5 | patrick ewing   | united states | 33                    | center     | 2000 - 2001             | georgetown       |
++----+-----------------+---------------+-----------------------+------------+-------------------------+------------------+
+Frase: the jersey number of francisco elson was lower than the jersey number of pervis ellison .
+Answer [t/f/n]: t
+
+
+# 20/30
+id: dedb7aab082c1e480256828ac0c3cd35ac9bb558 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: weightlifting at the 2007 pan american games
++----+-------------------------+--------------+----------+----------------+----------------+
+|    | name                    |   bodyweight | snatch   | clean & jerk   | total ( kg )   |
+|----+-------------------------+--------------+----------+----------------+----------------|
+|  0 | joël mackenzie ( cub )  |       101.4  | 175.0    | 205.0          | 380.0          |
+|  1 | pedro stetsiuk ( arg )  |       102.45 | 160.0    | 180.0          | 340.0          |
+|  2 | damian abbiate ( arg )  |       104.45 | 150.0    | 188.0          | 338.0          |
+|  3 | bruno brandão ( bra )   |        99.1  | 157.0    | 180.0          | 337.0          |
+|  4 | christian lópez ( gua ) |       104.7  | 153.0    | 182.0          | 335.0          |
+|  5 | víctor osorio ( chi )   |       103.05 | 140.0    | 176.0          | 316.0          |
+|  6 | ivorn mcknee ( bar )    |       103.25 | 140.0    | -              | dnf            |
+|  7 | josé espinoza ( nca )   |        99.4  | -        | -              | dnf            |
+|  8 | boris burov ( ecu )     |       100.4  | -        | -              | dnf            |
+|  9 | akos sandor ( can )     |       104.95 | -        | -              | dnf            |
+| 10 | fabrício mafra ( bra )  |       100.75 | 151.0    | 187.0          | dsq            |
++----+-------------------------+--------------+----------+----------------+----------------+
+Frase: pedro stetsiuk lifted the second heaviest weight of any person at the 2007 pan american games .
+Answer [t/f/n]: t
+
+
+# 21/30
+id: 84bad6bd5fe9c6b4b36dce1b87c8283563b71bfa - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 2006 asp world tour
++----+--------------------------+-----------------------+------------------+----------------------------+-------------------------------+-------------------------------+
+|    | date                     | location              | country          | event                      | winner                        | runner - up                   |
+|----+--------------------------+-----------------------+------------------+----------------------------+-------------------------------+-------------------------------|
+|  0 | february 28 - march 12   | gold coast            | australia        | roxy pro gold coast        | melanie redman - carr ( aus ) | layne beachley ( aus )        |
+|  1 | april 22 - april 29      | tavarua               | fiji             | roxy pro fiji              | melanie redman - carr ( aus ) | layne beachley ( aus )        |
+|  2 | may 4 - may 16           | teahupoo , tahiti     | french polynesia | billabong pro tahiti women | melanie redman - carr ( aus ) | chelsea georgeson ( aus )     |
+|  3 | august 21 - august 28    | itacarã               | brazil           | billabong girls pro        | layne beachley ( aus )        | jessi miley - dyer ( aus )    |
+|  4 | august 31 - september 5  | hossegor              | france           | rip curl pro mademoiselle  | chelsea georgeson ( aus )     | melanie redman - carr ( aus ) |
+|  5 | october 9 - october 15   | manly beach           | australia        | havaianas beachley classic | stephanie gilmore ( aus )     | layne beachley ( aus )        |
+|  6 | november 24 - december 6 | sunset beach , hawaii | united states    | roxy pro                   | melanie bartels ( haw )       | stephanie gilmore ( aus )     |
+|  7 | december 8 - december 20 | honolua bay , hawaii  | united states    | billabong pro              | jessi miley - dyer ( aus )    | keala kennelly ( haw )        |
++----+--------------------------+-----------------------+------------------+----------------------------+-------------------------------+-------------------------------+
+Frase: there were 7 runner up in the 2006 asp world tour .
+Answer [t/f/n]: t
+
+
+# 22/30
+id: ecaf0412b11134b806d7f1f642e9cfbaf8c920ab - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 1967 vfl season
++----+-----------------+-------------------+-------------+-------------------+-------------------+---------+------------+
+|    | home team       | home team score   | away team   | away team score   | venue             |   crowd | date       |
+|----+-----------------+-------------------+-------------+-------------------+-------------------+---------+------------|
+|  0 | north melbourne | 10.8 ( 68 )       | richmond    | 11.22 ( 88 )      | arden street oval |   12750 | 6 may 1967 |
+|  1 | hawthorn        | 10.6 ( 66 )       | st kilda    | 15.11 ( 101 )     | glenferrie oval   |   20352 | 6 may 1967 |
+|  2 | fitzroy         | 9.10 ( 64 )       | geelong     | 22.13 ( 145 )     | princes park      |    9747 | 6 may 1967 |
+|  3 | collingwood     | 13.17 ( 95 )      | footscray   | 5.7 ( 37 )        | victoria park     |   21855 | 6 may 1967 |
+|  4 | south melbourne | 18.19 ( 127 )     | essendon    | 13.10 ( 88 )      | lake oval         |   18756 | 6 may 1967 |
+|  5 | melbourne       | 5.15 ( 45 )       | carlton     | 16.8 ( 104 )      | mcg               |   48513 | 6 may 1967 |
++----+-----------------+-------------------+-------------+-------------------+-------------------+---------+------------+
+Frase: south melbourne had a higher home team score than north melbourne .
+Answer [t/f/n]: t
+
+
+# 23/30
+id: 3669398f725602684f891cce7765a1b4a83d9dac - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: indiana high school athletics conferences : ohio river valley - western indiana
++----+-----------------+---------------+-------------+--------+---------------+---------------+
+|    | school          | location      | mascot      |   size | ihsaa class   | county        |
+|----+-----------------+---------------+-------------+--------+---------------+---------------|
+|  0 | crawford county | marengo       | wolfpack    |    487 | aa            | 13 crawford   |
+|  1 | mitchell        | mitchell      | bluejackets |    620 | aaa           | 47 lawrence   |
+|  2 | orleans         | orleans       | bulldogs    |    258 | a             | 59 orange     |
+|  3 | paoli           | paoli         | rams        |    511 | aa            | 59 orange     |
+|  4 | perry central   | leopold       | commodores  |    334 | aa            | 62 perry      |
+|  5 | springs valley  | french lick   | blackhawks  |    319 | a             | 59 orange     |
+|  6 | west washington | campbellsburg | senators    |    307 | a             | 88 washington |
++----+-----------------+---------------+-------------+--------+---------------+---------------+
+Frase: for the schools in the ohio river valley - western indiana , perry central is 15 smaller than springs valley .
+Answer [t/f/n]: f
+
+
+# 24/30
+id: 9f36ff11d9dcc62bd1f995c1b6ca856dd36bec8d - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: sleepless nights ( patty loveless album )
++----+---------+-----------------------------------------------+------------------------------------------------+-------------------------------+--------------------+----------+
+|    |   track | song title                                    | writer ( s )                                   | original artist               |   original release | length   |
+|----+---------+-----------------------------------------------+------------------------------------------------+-------------------------------+--------------------+----------|
+|  0 |       1 | why baby why                                  | darrell edwards , george jones                 | george jones                  |               1955 | 2:18     |
+|  1 |       2 | the pain of loving you                        | dolly parton , porter wagoner                  | porter wagoner & dolly parton |               1971 | 2:46     |
+|  2 |       3 | he thinks i still care                        | dickey lee                                     | george jones                  |               1962 | 2:59     |
+|  3 |       4 | sleepless nights ( featuring vince gill )     | boudleaux bryant , felice bryant               | everly brothers               |               1960 | 4:21     |
+|  4 |       5 | crazy arms                                    | ralph mooney , chuck seals                     | ray price                     |               1956 | 4:00     |
+|  5 |       6 | there stands the glass                        | audrey greisham , russ hull , mary jean shurtz | webb pierce                   |               1953 | 2:35     |
+|  6 |       7 | that 's all it took ( featuring jedd hughes ) | darrell edwards , carlos grier , jones         | george jones & gene pitney    |               1966 | 2:35     |
+|  7 |       8 | color of the blues                            | jones , lawton williams                        | george jones                  |               1958 | 3:06     |
+|  8 |       9 | i forgot more than you 'll ever know          | cecil null                                     | the davis sisters             |               1953 | 3:30     |
+|  9 |      10 | next in line                                  | wayne kemp , curtis wayne                      | conway twitty                 |               1968 | 3:06     |
+| 10 |      11 | do n't let me cross over                      | penny jay                                      | carl butler and pearl         |               1962 | 3:23     |
+| 11 |      12 | please help me i 'm falling                   | hal blair , don robertson                      | hank locklin                  |               1960 | 2:40     |
+| 12 |      13 | there goes my everything                      | dallas frazier                                 | jack greene                   |               1966 | 2:50     |
+| 13 |      14 | cold , cold heart                             | hank williams                                  | hank williams                 |               1951 | 2:53     |
+| 14 |      15 | we 'll sweep out the ashes in the morning     | joyce ann allsup                               | carl butler & pearl           |               1969 | 3:14     |
+| 15 |      16 | if teardrops were pennies                     | carl butler                                    | carl smith                    |               1951 | 2:38     |
++----+---------+-----------------------------------------------+------------------------------------------------+-------------------------------+--------------------+----------+
+Frase: the majority of songs on the patty loveless album were originally released in the 1970s .
+Answer [t/f/n]: f
+
+
+# 25/30
+id: f565b6e31aba323e820a922e694e0b58ac44f642 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 2006 - 07 coventry city f.c. season
++----+-----------------+----------------+--------------+----------+---------+
+|    | name            |   championship |   league cup |   fa cup | total   |
+|----+-----------------+----------------+--------------+----------+---------|
+|  0 | dele adebola    |              8 |            1 |        0 | 0 9     |
+|  1 | leon mckenzie   |              7 |            0 |        1 | 0 8     |
+|  2 | stern john      |              5 |            0 |        1 | 0 6     |
+|  3 | michael mifsud  |              4 |            0 |        0 | 0 4     |
+|  4 | michael doyle   |              3 |            0 |        0 | 0 3     |
+|  5 | kevin kyle      |              3 |            0 |        0 | 0 3     |
+|  6 | jay tabb        |              3 |            0 |        0 | 0 3     |
+|  7 | elliott ward    |              3 |            0 |        0 | 0 3     |
+|  8 | colin cameron   |              2 |            0 |        1 | 0 3     |
+|  9 | chris birchall  |              2 |            0 |        0 | 0 2     |
+| 10 | wayne andrews   |              1 |            0 |        0 | 0 1     |
+| 11 | stephen hughes  |              1 |            0 |        0 | 0 1     |
+| 12 | gary mcsheffrey |              1 |            0 |        0 | 0 1     |
+| 13 | kevin thornton  |              1 |            0 |        0 | 0 1     |
+| 14 | adam virgo      |              1 |            0 |        0 | 0 1     |
++----+-----------------+----------------+--------------+----------+---------+
+Frase: in the 2006 - 07 coventry city f.c. season , when the name is stern john , the only time the name is stern john is when the name is stern john .
+Answer [t/f/n]: t
+
+
+# 26/30
+id: d4e08782739c6e2321d7504bc898d38eb3c5ef5e - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: united states house of representatives elections , 2012
++----+-------------+------------------+------------+-----------------+--------------+-------------------------------------------------------+
+|    | district    | incumbent        | party      |   first elected | result       | candidates                                            |
+|----+-------------+------------------+------------+-----------------+--------------+-------------------------------------------------------|
+|  0 | minnesota 1 | tim walz         | democratic |            2006 | re - elected | tim walz ( d ) 57.6 % allen quist ( r ) 42.4 %        |
+|  1 | minnesota 2 | john kline       | republican |            2002 | re - elected | john kline ( r ) 54.1 % mike obermueller ( d ) 45.9 % |
+|  2 | minnesota 3 | erik paulsen     | republican |            2008 | re - elected | erik paulsen ( r ) 58.2 % brian barnes ( d ) 41.8 %   |
+|  3 | minnesota 5 | keith ellison    | democratic |            2006 | re - elected | keith ellison ( d ) 74.5 % chris fields ( r ) 25.5 %  |
+|  4 | minnesota 6 | michele bachmann | republican |            2006 | re - elected | michele bachmann ( r ) 50.6 % jim graves ( d ) 49.4 % |
++----+-------------+------------------+------------+-----------------+--------------+-------------------------------------------------------+
+Frase: in the 2012 house of representatives elections , the incumbent with the earliest date of first election is keith ellison .
+Answer [t/f/n]: f
+
+
+# 27/30
+id: ff8f311d7c9a8eff57aae9d5fa8bde49f9bf7fab - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: modern guilt
++----+----------------+---------------+---------+------------------+---------------+
+|    | region         | date          | label   | format           | catalog       |
+|----+----------------+---------------+---------+------------------+---------------|
+|  0 | world          | july 8 , 2008 | dgc     | digital download |               |
+|  1 | argentina      | july 8 , 2008 | dgc     | cd               | 1775441       |
+|  2 | australia      | july 8 , 2008 | dgc     | cd               | 1775441       |
+|  3 | canada         | july 8 , 2008 | dgc     | cd               | b001150702    |
+|  4 | united states  | july 8 , 2008 | dgc     | cd               | b0011507 - 02 |
+|  5 | united states  | july 8 , 2008 | dgc     | lp               | b0011630 - 01 |
+|  6 | united kingdom | july 8 , 2008 | dgc     | cd               | b001150702    |
+|  7 | united kingdom | july 8 , 2008 | xl      | cd               | xlcd369       |
+|  8 | united kingdom | july 8 , 2008 | xl      | lp               | xllp 369      |
+|  9 | europe         | july 8 , 2008 | xl      | lp               | xllp 369      |
+| 10 | europe         | july 8 , 2008 | xl      | cd               | xlcd369       |
++----+----------------+---------------+---------+------------------+---------------+
+Frase: the only time that modern guilt was released in 2008 was on july 8 , 2008 .
+Answer [t/f/n]: t
+
+
+# 28/30
+id: fcbb19065ffd435f47fac807bf5613e9f1f5fe92 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 1947 baa draft
++----+---------+--------+-----------------+------------+-------------------------+----------------+
+|    |   round |   pick | player          | position   | team                    | college        |
+|----+---------+--------+-----------------+------------+-------------------------+----------------|
+|  0 |       1 |      1 | clifton mcneely | -          | pittsburgh ironmen      | texas wesleyan |
+|  1 |       1 |      2 | glen selbo      | g / f      | toronto huskies         | wisconsin      |
+|  2 |       1 |      3 | bulbs ehlers    | g / f      | boston celtics          | purdue         |
+|  3 |       1 |      4 | walt dropo      | -          | providence steamrollers | connecticut    |
+|  4 |       1 |      5 | dick holub      | c          | new york knicks         | long island    |
+|  5 |       1 |      6 | chink crossin   | g          | philadelphia warriors   | pennsylvania   |
+|  6 |       1 |      7 | jack underman   | -          | st louis bombers        | ohio state     |
+|  7 |       1 |      8 | paul huston     | f          | chicago stags           | ohio state     |
+|  8 |       1 |      9 | dick o'keefe    | g / f      | washington capitols     | santa clara    |
+|  9 |       1 |     10 | larry killick   | -          | baltimore bullets       | vermont        |
++----+---------+--------+-----------------+------------+-------------------------+----------------+
+Frase: dick o'keefe was the earliest drafted player for the 1947 baa draft .
+Answer [t/f/n]: f
+
+
+# 29/30
+id: 4c5fd854d8d6624ee4ac09de204d69384c7e0790 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: raphael butler
++----+-------+----------+-----------------+------------------------+---------+--------+-----------------------------------------+
+|    | res   | record   | opponent        | method                 |   round | time   | location                                |
+|----+-------+----------+-----------------+------------------------+---------+--------+-----------------------------------------|
+|  0 | win   | 7 - 0    | joseph bryant   | tko ( strikes )        |       1 | 1:04   | rio rancho , new mexico , united states |
+|  1 | win   | 6 - 0    | jeremiah o'neal | ko ( punches )         |       1 | 2:19   | thackerville , oklahoma , united states |
+|  2 | win   | 5 - 0    | brett murphy    | ko ( punch )           |       1 | 0:13   | st paul , minnesota , united states     |
+|  3 | win   | 4 - 0    | steven shaw     | submission ( armbar )  |       1 | 4:35   | maplewood , minnesota , united states   |
+|  4 | win   | 3 - 0    | richard white   | submission ( punches ) |       2 | 3:18   | rochester , minnesota , united states   |
+|  5 | win   | 2 - 0    | jeremy beck     | ko ( punches )         |       1 | 3:36   | red wing , minnesota , united states    |
+|  6 | win   | 1 - 0    | gabe hobbs      | ko ( punch )           |       1 | 0:36   | welch , minnesota , united states       |
++----+-------+----------+-----------------+------------------------+---------+--------+-----------------------------------------+
+Frase: raphael butler 's 2nd fight ended in the best way .
+Answer [t/f/n]: f
+
+
+# 30/30
+id: 03e8f69c92b33ddabb42f38b4fbf47e04720d807 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: abc saturday movie of the week
++----+----------+------------+-------------------+---------------------+------------------+-------------+--------+---------------------------+
+|    |   season |   episodes | timeslot ( et )   | season premiere     | season finale    | tv season   |   rank |   viewers ( in millions ) |
+|----+----------+------------+-------------------+---------------------+------------------+-------------+--------+---------------------------|
+|  0 |        1 |         10 | saturday 8:00 pm  | february 21 , 2004  | august 14 , 2004 | 2003 - 2004 |    123 |                      6.21 |
+|  1 |        2 |         17 | saturday 8:00 pm  | september 25 , 2004 | august 27 , 2005 | 2004 - 2005 |    107 |                      6.41 |
+|  2 |        3 |         25 | saturday 8:00 pm  | september 17 , 2005 | august 12 , 2006 | 2005 - 2006 |    126 |                      5.74 |
+|  3 |        4 |         25 | saturday 8:00 pm  | october 21 , 2006   | august 25 , 2007 | 2006 - 2007 |    180 |                      5.12 |
+|  4 |        5 |         23 | saturday 8:00 pm  | december 8 , 2007   | august 23 , 2008 | 2007 - 2008 |    160 |                      4.69 |
+|  5 |        6 |         21 | saturday 8:00 pm  | december 13 , 2008  | august 29 , 2009 | 2008 - 2009 |    149 |                      3.8  |
+|  6 |        7 |         18 | saturday 8:00 pm  | december 12 , 2009  | august 28 , 2010 | 2009 - 2010 |    119 |                      3.55 |
+|  7 |        8 |         22 | saturday 8:00 pm  | december 11 , 2010  | august 20 , 2011 | 2010 - 2011 |    170 |                      3.53 |
+|  8 |        9 |         14 | saturday 8:00 pm  | december 24 , 2011  | august 18 , 2012 | 2011 - 2012 |    156 |                      3.46 |
++----+----------+------------+-------------------+---------------------+------------------+-------------+--------+---------------------------+
+Frase: the
+Answer [t/f/n]: n
+
+

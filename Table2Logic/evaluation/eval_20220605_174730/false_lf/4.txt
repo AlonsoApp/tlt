@@ -1,0 +1,440 @@
+ssh://ialonso134@mamarro.ixa.eus:22/gaueko0/users/ialonso134/Developer/Python/venv/py38-cuda11_4/bin/python3.8 -u /gaueko0/users/ialonso134/Developer/PhD/Projects/Table2Logic/src/logic2text/evaluation/human_hallucinations.py
+Topic: deccan chargers
++----+----------+--------+----------+--------+---------+
+|    | played   | wins   | losses   | tied   | win %   |
+|----+----------+--------+----------+--------+---------|
+|  0 | ipl      | ipl    | ipl      | ipl    | ipl     |
+|  1 | 14       | 2      | 12       | 0      | 14 %    |
+|  2 | 16       | 9      | 7        | 0      | 56 %    |
+|  3 | 16       | 8      | 8        | 0      | 50 %    |
+|  4 | 14       | 6      | 8        | 0      | 42 %    |
+|  5 | 15       | 4      | 11       | 0      | 26.67 % |
+|  6 | 75       | 29     | 46       | 0      | 38.67 % |
+|  7 | 2        | 0      | 2        | 0      | 0 %     |
+|  8 | 77       | 29     | 48       | 0      | 37.67 % |
++----+----------+--------+----------+--------+---------+
+
+and
+├── str_eq
+│   ├── 16
+│   └── str_hop
+│       ├── argmax
+│       │   ├── all_rows
+│       │   └── win %
+│       └── played
+└── str_eq
+    ├── 9
+    └── str_hop
+        ├── argmax
+        │   ├── all_rows
+        │   └── win %
+        └── wins
+
+Result: t
+t
+Topic: list of south american countries by gdp ( ppp ) per capita
++----+-----------------------+--------------+-----------+----------------+-------------------------+
+|    |   south american rank |   world rank | nation    |   2011 ( imf ) |   2008 ( cia factbook ) |
+|----+-----------------------+--------------+-----------+----------------+-------------------------|
+|  0 |                     1 |           51 | argentina |          17376 |                   14500 |
+|  1 |                     2 |           55 | chile     |          16171 |                   15400 |
+|  2 |                     3 |           59 | uruguay   |          15469 |                   12300 |
+|  3 |                     4 |           71 | venezuela |          12407 |                   13500 |
+|  4 |                     5 |           74 | brazil    |          11845 |                   10513 |
+|  5 |                     6 |           82 | colombia  |          10155 |                    9000 |
+|  6 |                     7 |           83 | peru      |          10000 |                    8500 |
+|  7 |                     8 |           86 | suriname  |           9492 |                    8900 |
+|  8 |                     9 |           91 | ecuador   |           8335 |                    7700 |
+|  9 |                    10 |           96 | guyana    |           7541 |                    4000 |
+| 10 |                    11 |          110 | paraguay  |           5548 |                    4400 |
++----+-----------------------+--------------+-----------+----------------+-------------------------+
+
+str_eq
+├── chile
+└── str_hop
+    ├── argmax
+    │   ├── 2008 ( cia factbook )
+    │   └── all_rows
+    └── nation
+
+Result: t
+t
+Topic: list of presidents of fifa
++----+--------------+------------------------+--------------------+---------------+---------------+
+|    |   presidency | president              | date of birth      |   took office | left office   |
+|----+--------------+------------------------+--------------------+---------------+---------------|
+|  0 |            1 | robert guérin          | 1876               |          1904 | 1906          |
+|  1 |            2 | daniel burley woolfall | june 15 , 1852     |          1906 | 1918          |
+|  2 |            3 | jules rimet            | october 14 , 1873  |          1921 | 1954          |
+|  3 |            4 | rodolphe seeldrayers   | december 16 , 1876 |          1954 | 1955          |
+|  4 |            5 | arthur drewry          | march 3 , 1891     |          1955 | 1961          |
+|  5 |            6 | stanley rous           | april 25 , 1895    |          1961 | 1974          |
+|  6 |            7 | joão havelange         | may 8 , 1916       |          1974 | 1998          |
+|  7 |            8 | sepp blatter           | march 10 , 1936    |          1998 | incumbent     |
++----+--------------+------------------------+--------------------+---------------+---------------+
+
+eq
+├── 2
+└── count
+    └── filter_str_eq
+        ├── 195
+        ├── all_rows
+        └── took office
+
+Result: f
+f
+Topic: judo at the 1997 mediterranean games
++----+--------+------------+--------+----------+----------+---------+
+|    | rank   | nation     |   gold |   silver |   bronze |   total |
+|----+--------+------------+--------+----------+----------+---------|
+|  0 | 1      | france     |      7 |        3 |        4 |      14 |
+|  1 | 2      | italy      |      5 |        2 |        5 |      12 |
+|  2 | 3      | spain      |      1 |        2 |        6 |       9 |
+|  3 | 4      | turkey     |      1 |        1 |        4 |       5 |
+|  4 | 5      | algeria    |      0 |        2 |        1 |       3 |
+|  5 | 6 =    | tunisia    |      0 |        1 |        3 |       4 |
+|  6 | 6 =    | yugoslavia |      0 |        1 |        3 |       4 |
+|  7 | 8 =    | egypt      |      0 |        1 |        0 |       1 |
+|  8 | 8 =    | slovenia   |      0 |        1 |        0 |       1 |
+|  9 | 10     | morocco    |      0 |        0 |        2 |       2 |
++----+--------+------------+--------+----------+----------+---------+
+
+most_eq
+├── 0
+├── all_rows
+└── gold
+
+Result: t
+t
+Topic: fil world luge championships 1961
++----+--------+--------------+--------+----------+----------+---------+
+|    |   rank | nation       |   gold |   silver |   bronze |   total |
+|----+--------+--------------+--------+----------+----------+---------|
+|  0 |      1 | austria      |      0 |        0 |        3 |       3 |
+|  1 |      2 | italy        |      1 |        1 |        0 |       2 |
+|  2 |      3 | west germany |      0 |        2 |        0 |       2 |
+|  3 |      4 | poland       |      1 |        0 |        0 |       1 |
+|  4 |      5 | switzerland  |      1 |        0 |        0 |       1 |
++----+--------+--------------+--------+----------+----------+---------+
+
+and
+├── only
+│   └── filter_greater
+│       ├── 0
+│       ├── all_rows
+│       └── bronze
+└── str_eq
+    ├── austria
+    └── str_hop_first
+        ├── filter_greater
+        │   ├── 0
+        │   ├── all_rows
+        │   └── bronze
+        └── nation
+
+Result: t
+t
+Topic: canon open
++----+--------+------------+-----------------+-----------+--------------+-----------+-------------------+
+|    |   year | dates      | champion        | country   | score        |     purse |   winner 's share |
+|----+--------+------------+-----------------+-----------+--------------+-----------+-------------------|
+|  0 |   2012 | oct 4 - 7  | yuta ikeda      | japan     | 271 ( - 17 ) | 150000000 |          30000000 |
+|  1 |   2011 | oct 6 - 9  | kenichi kuboya  | japan     | 274 ( - 14 ) | 150000000 |          30000000 |
+|  2 |   2010 | oct 7 - 10 | shinichi yokota | japan     | 274 ( - 14 ) | 150000000 |          30000000 |
+|  3 |   2009 | oct 8 - 11 | yuta ikeda      | japan     | 200 ( - 16 ) | 150000000 |          30000000 |
+|  4 |   2008 | oct 9 - 12 | makoto inoue    | japan     | 275 ( - 13 ) | 200000000 |          40000000 |
++----+--------+------------+-----------------+-----------+--------------+-----------+-------------------+
+
+and
+├── eq
+│   ├── 2009
+│   └── num_hop_first
+│       ├── filter_less
+│       │   ├── 271
+│       │   ├── all_rows
+│       │   └── score
+│       └── year
+└── only
+    └── filter_less
+        ├── 271
+        ├── all_rows
+        └── score
+
+Result: t
+t
+Topic: manila
++----+-------------+--------------+------------------------------+----------------+---------------------------+
+|    | district    |   s barangay |   population ( 2010 census ) |   area ( has ) |   pop density ( per km2 ) |
+|----+-------------+--------------+------------------------------+----------------+---------------------------|
+|  0 | binondo     |           10 |                        12985 |          66.11 |                   19641.5 |
+|  1 | ermita      |           13 |                         7143 |         158.91 |                    4495   |
+|  2 | intramuros  |            5 |                         4925 |          67.26 |                    7322.3 |
+|  3 | malate      |           57 |                        77513 |         259.58 |                   29860.9 |
+|  4 | paco        |           43 |                        70978 |         278.69 |                   25468.4 |
+|  5 | pandacan    |           38 |                        73895 |         166    |                   44515.1 |
+|  6 | port area   |            5 |                        57405 |         315.28 |                   18207.6 |
+|  7 | quiapo      |           16 |                        24886 |          84.69 |                   29384.8 |
+|  8 | sampaloc    |          192 |                       241528 |         513.71 |                   47016.4 |
+|  9 | san andrãs  |           65 |                       115942 |         168.02 |                   69004.9 |
+| 10 | san miguel  |           12 |                        15992 |          91.37 |                   17502.5 |
+| 11 | san nicolas |           15 |                        44241 |         163.85 |                   27000.9 |
+| 12 | santa ana   |           34 |                        60952 |         169.42 |                   35976.9 |
+| 13 | santa cruz  |           82 |                       115747 |         309.01 |                   37457.4 |
+| 14 | santa mesa  |           51 |                        99933 |         261.01 |                   38287   |
++----+-------------+--------------+------------------------------+----------------+---------------------------+
+
+round_eq
+├── 68,253
+└── avg
+    ├── all_rows
+    └── population ( 2010 census )
+
+Result: f
+f
+Topic: geography of moldova
++----+--------------------------+--------------------+------------------------------------------+-------------+----------------+
+|    | land formation           |   area , km square |   of which currently forests , km square | % forests   | habitat type   |
+|----+--------------------------+--------------------+------------------------------------------+-------------+----------------|
+|  0 | northern moldavian hills |               4630 |                                      476 | 10.3 %      | forest steppe  |
+|  1 | dniester - rāut ridge    |               2480 |                                      363 | 14.6 %      | forest steppe  |
+|  2 | middle prut valley       |               2930 |                                      312 | 10.6 %      | forest steppe  |
+|  3 | bălţi steppe             |               1920 |                                       51 | 2.7 %       | steppe         |
+|  4 | ciuluc - soloneţ hills   |               1690 |                                      169 | 10.0 %      | forest steppe  |
+|  5 | corneşti hills ( codru ) |               4740 |                                     1300 | 27.5 %      | forest         |
+|  6 | lower dniester hills     |               3040 |                                      371 | 12.2 %      | forest steppe  |
+|  7 | lower prut valley        |               1810 |                                      144 | 8.0 %       | forest steppe  |
+|  8 | tigheci hills            |               3550 |                                      533 | 15.0 %      | forest steppe  |
+|  9 | bugeac plain             |               3210 |                                      195 | 6.1 %       | steppe         |
+| 10 | part of podolian plateau |               1920 |                                      175 | 9.1 %       | forest steppe  |
+| 11 | part of eurasian steppe  |               1920 |                                      140 | 7.3 %       | steppe         |
++----+--------------------------+--------------------+------------------------------------------+-------------+----------------+
+
+eq
+├── 8
+└── count
+    └── filter_str_eq
+        ├── all_rows
+        ├── forest steppe
+        └── habitat type
+
+Result: t
+t
+Topic: 2008 manx grand prix
++----+--------+----------------------+-----------------+------------+------------+
+|    |   rank | rider                | team            | speed      | time       |
+|----+--------+----------------------+-----------------+------------+------------|
+|  0 |      1 | roy richardson       | 349cc honda     | 99.814 mph | 1:08.02.42 |
+|  1 |      2 | paul coward          | 348cc k4 honda  | 98.136 mph | 1:09.12.26 |
+|  2 |      3 | ryan farquhar        | 347cc honda     | 97.873 mph | 1:09.23.39 |
+|  3 |      4 | rich hawkins         | 348cc k4 honda  | 97.743 mph | 1:09.29.85 |
+|  4 |      5 | wattie brown         | 350cc honda     | 94.349 mph | 1:11.58.88 |
+|  5 |      6 | john burrows         | 350cc honda     | 93.929 mph | 1:12.18.19 |
+|  6 |      7 | bob price            | 350cc honda     | 93.537 mph | 1:12.36.41 |
+|  7 |      8 | paul dobbs           | 350cc aermacchi | 93.161 mph | 1:12.53.99 |
+|  8 |      9 | dave madsen - mygdal | 349cc honda     | 92.922 mph | 1:13.05.25 |
+|  9 |     10 | alec whitwell        | 349cc honda     | 92.234 mph | 1:13.37.95 |
++----+--------+----------------------+-----------------+------------+------------+
+
+most_greater
+├── 93
+├── all_rows
+└── speed
+
+Result: t
+t
+Topic: list of awards and nominations received by renée zellweger
++----+--------+----------------------------------+------------------------------------+-----------+----------------------------------------+
+|    |   year | category                         | film                               | result    | lost to                                |
+|----+--------+----------------------------------+------------------------------------+-----------+----------------------------------------|
+|  0 |   2000 | best actress - musical or comedy | nurse betty                        | won       | -                                      |
+|  1 |   2001 | best actress - musical or comedy | bridget jones 's diary             | nominated | nicole kidman ( moulin rouge ! )       |
+|  2 |   2002 | best actress - musical or comedy | chicago                            | won       | -                                      |
+|  3 |   2003 | best supporting actress          | cold mountain                      | won       | -                                      |
+|  4 |   2004 | best actress - musical or comedy | bridget jones : the edge of reason | nominated | annette bening ( being julia )         |
+|  5 |   2006 | best actress - musical or comedy | miss potter                        | nominated | meryl streep ( the devil wears prada ) |
++----+--------+----------------------------------+------------------------------------+-----------+----------------------------------------+
+
+eq
+├── 6
+└── count
+    └── filter_all
+        ├── all_rows
+        └── film
+
+Result: t
+t
+Topic: seattle supersonics all - time roster
++----+-----------------+---------------+-----------------------+------------+-------------------------+------------------+
+|    | player          | nationality   | jersey number ( s )   | position   | years                   | from             |
+|----+-----------------+---------------+-----------------------+------------+-------------------------+------------------|
+|  0 | craig ehlo      | united states | 3                     | sg         | 1996 - 1997             | washington state |
+|  1 | dale ellis      | united states | 3                     | sg / sf    | 1986 - 1991 1997 - 1999 | tennessee        |
+|  2 | pervis ellison  | united states | 29                    | c          | 2000                    | louisville       |
+|  3 | francisco elson | netherlands   | 16                    | c          | 2008                    | california       |
+|  4 | reggie evans    | united states | 34 , 30               | pf         | 2002 - 2006             | iowa             |
+|  5 | patrick ewing   | united states | 33                    | center     | 2000 - 2001             | georgetown       |
++----+-----------------+---------------+-----------------------+------------+-------------------------+------------------+
+
+greater
+├── num_hop_first
+│   ├── filter_str_eq
+│   │   ├── all_rows
+│   │   ├── francisco elson
+│   │   └── player
+│   └── years
+└── num_hop_first
+    ├── filter_str_eq
+    │   ├── all_rows
+    │   ├── pervis ellison
+    │   └── player
+    └── years
+
+Result: t
+t
+Topic: list of hewitts and nuttalls in england
++----+--------------------------+----------------+--------------+---------+-----------------------+
+|    | peak                     |   height ( m ) |   prom ( m ) | class   | parent                |
+|----+--------------------------+----------------+--------------+---------+-----------------------|
+|  0 | whernside                |            736 |          408 | marilyn | cross fell            |
+|  1 | ingleborough             |            724 |          428 | marilyn | cross fell            |
+|  2 | great whernside          |            704 |          288 | marilyn | whernside             |
+|  3 | buckden pike             |            702 |          207 | marilyn | great whernside       |
+|  4 | pen - y - ghent          |            694 |          306 | marilyn | whernside             |
+|  5 | great coum               |            687 |          221 | marilyn | whernside             |
+|  6 | plover hill              |            680 |           59 | hewitt  | pen - y - ghent       |
+|  7 | great knoutberry hill    |            672 |          254 | marilyn | great whernside       |
+|  8 | dodd fell hill           |            668 |          230 | marilyn | great knoutberry hill |
+|  9 | fountains fell           |            668 |          243 | marilyn | pen - y - ghent       |
+| 10 | fountains fell south top |            662 |           15 | nuttall | fountains fell        |
+| 11 | simon fell               |            650 |           35 | hewitt  | ingleborough          |
+| 12 | yockenthwaite moor       |            643 |           86 | hewitt  | dodd fell hill        |
+| 13 | green hill               |            628 |           24 | nuttall | great coum            |
+| 14 | gragareth                |            627 |           30 | hewitt  | great coum            |
+| 15 | darnbrook fell           |            624 |           40 | hewitt  | fountains fell        |
+| 16 | drumaldrace              |            614 |           66 | hewitt  | dodd fell hill        |
+| 17 | birks fell               |            610 |          158 | marilyn | pen - y - ghent       |
++----+--------------------------+----------------+--------------+---------+-----------------------+
+
+round_eq
+├── 670
+└── avg
+    ├── all_rows
+    └── height ( m )
+
+Result: t
+t
+Topic: sleepless nights ( patty loveless album )
++----+---------+-----------------------------------------------+------------------------------------------------+-------------------------------+--------------------+----------+
+|    |   track | song title                                    | writer ( s )                                   | original artist               |   original release | length   |
+|----+---------+-----------------------------------------------+------------------------------------------------+-------------------------------+--------------------+----------|
+|  0 |       1 | why baby why                                  | darrell edwards , george jones                 | george jones                  |               1955 | 2:18     |
+|  1 |       2 | the pain of loving you                        | dolly parton , porter wagoner                  | porter wagoner & dolly parton |               1971 | 2:46     |
+|  2 |       3 | he thinks i still care                        | dickey lee                                     | george jones                  |               1962 | 2:59     |
+|  3 |       4 | sleepless nights ( featuring vince gill )     | boudleaux bryant , felice bryant               | everly brothers               |               1960 | 4:21     |
+|  4 |       5 | crazy arms                                    | ralph mooney , chuck seals                     | ray price                     |               1956 | 4:00     |
+|  5 |       6 | there stands the glass                        | audrey greisham , russ hull , mary jean shurtz | webb pierce                   |               1953 | 2:35     |
+|  6 |       7 | that 's all it took ( featuring jedd hughes ) | darrell edwards , carlos grier , jones         | george jones & gene pitney    |               1966 | 2:35     |
+|  7 |       8 | color of the blues                            | jones , lawton williams                        | george jones                  |               1958 | 3:06     |
+|  8 |       9 | i forgot more than you 'll ever know          | cecil null                                     | the davis sisters             |               1953 | 3:30     |
+|  9 |      10 | next in line                                  | wayne kemp , curtis wayne                      | conway twitty                 |               1968 | 3:06     |
+| 10 |      11 | do n't let me cross over                      | penny jay                                      | carl butler and pearl         |               1962 | 3:23     |
+| 11 |      12 | please help me i 'm falling                   | hal blair , don robertson                      | hank locklin                  |               1960 | 2:40     |
+| 12 |      13 | there goes my everything                      | dallas frazier                                 | jack greene                   |               1966 | 2:50     |
+| 13 |      14 | cold , cold heart                             | hank williams                                  | hank williams                 |               1951 | 2:53     |
+| 14 |      15 | we 'll sweep out the ashes in the morning     | joyce ann allsup                               | carl butler & pearl           |               1969 | 3:14     |
+| 15 |      16 | if teardrops were pennies                     | carl butler                                    | carl smith                    |               1951 | 2:38     |
++----+---------+-----------------------------------------------+------------------------------------------------+-------------------------------+--------------------+----------+
+
+most_str_eq
+├── 196
+├── all_rows
+└── original release
+
+Result: f
+f
+Topic: indiana high school athletics conferences : ohio river valley - western indiana
++----+-----------------+---------------+-------------+--------+---------------+---------------+
+|    | school          | location      | mascot      |   size | ihsaa class   | county        |
+|----+-----------------+---------------+-------------+--------+---------------+---------------|
+|  0 | crawford county | marengo       | wolfpack    |    487 | aa            | 13 crawford   |
+|  1 | mitchell        | mitchell      | bluejackets |    620 | aaa           | 47 lawrence   |
+|  2 | orleans         | orleans       | bulldogs    |    258 | a             | 59 orange     |
+|  3 | paoli           | paoli         | rams        |    511 | aa            | 59 orange     |
+|  4 | perry central   | leopold       | commodores  |    334 | aa            | 62 perry      |
+|  5 | springs valley  | french lick   | blackhawks  |    319 | a             | 59 orange     |
+|  6 | west washington | campbellsburg | senators    |    307 | a             | 88 washington |
++----+-----------------+---------------+-------------+--------+---------------+---------------+
+
+eq
+├── 15
+└── diff
+    ├── num_hop_first
+    │   ├── filter_str_eq
+    │   │   ├── all_rows
+    │   │   ├── perry central
+    │   │   └── school
+    │   └── size
+    └── num_hop_first
+        ├── filter_str_eq
+        │   ├── all_rows
+        │   ├── school
+        │   └── springs valley
+        └── size
+
+Result: t
+t
+Topic: list of inter milan records and statistics
++----+--------+----------------------+-------------------------------------+----------+---------+
+|    |   rank | name                 | years                               |   league |   total |
+|----+--------+----------------------+-------------------------------------+----------+---------|
+|  0 |      1 | giuseppe meazza      | 1927 - 1940 1946 - 1947             |      247 |     284 |
+|  1 |      2 | alessandro altobelli | 1977 - 1988                         |      128 |     209 |
+|  2 |      3 | roberto boninsegna   | 1969 - 1976                         |      113 |     171 |
+|  3 |      4 | sandro mazzola       | 1960 - 1977                         |      116 |     160 |
+|  4 |      5 | luigi cevenini       | 1912 - 1915 1919 - 1921 1922 - 1927 |      158 |     158 |
+|  5 |      6 | benito lorenzi       | 1947 - 1958                         |      138 |     143 |
+|  6 |      7 | istván nyers         | 1948 - 1954                         |      133 |     133 |
+|  7 |      8 | christian vieri      | 1999 - 2005                         |      103 |     123 |
+|  8 |      9 | ermanno aebi         | 1909 - 1915 1919 - 1923             |      106 |     106 |
+|  9 |     10 | mario corso          | 1958 - 1973                         |       75 |      94 |
++----+--------+----------------------+-------------------------------------+----------+---------+
+
+eq
+├── -2
+└── diff
+    ├── num_hop_first
+    │   ├── filter_str_eq
+    │   │   ├── all_rows
+    │   │   ├── benito lorenzi
+    │   │   └── name
+    │   └── rank
+    └── num_hop_first
+        ├── filter_str_eq
+        │   ├── all_rows
+        │   ├── christian vieri
+        │   └── name
+        └── rank
+
+Result: t
+t
+Results:
+True (12):
+e1d87486ff3b2ea5003fcb14be351618d0aa456f
+7627738b57e48911bbc6f9054f251edd85e824e5
+2bea2b0520e89cb87f84dc8b314903bca53422bc
+e6a326b44353138081fc99ba88c9ae5cb8e217a3
+ce83b72fefd8db63dbd75936f551324a1fd92604
+82df83554fc31ac5755d1d84d46225d1a10918a6
+ec730184263425b3aa9daf4c764d4232a9cc25a8
+ad9405c80daba720c59bda8f63e7af8eed2fc5ce
+0b0ad23652065569c9869438537b66a05aff9ccf
+c23eb3cc7fae1252946b395bcceff0e4c4642abc
+3669398f725602684f891cce7765a1b4a83d9dac
+f2676bd62e35a938d014920cb633b82613a014c7
+
+False (3):
+9ac3a6ab4dc0f7c936a5717ef9fe62c6320bfd91
+df6e33895715199fd34d1aa268789c8e46780c5a
+9f36ff11d9dcc62bd1f995c1b6ca856dd36bec8d
+
+por cierto, me acaba de llegar respuesta de aitor sobre si utilizar el término de rejection sampling. Parece que no es nuestro caso, le respondo cuando llegue a casa pero creo que será mejor usar nuestro propio término (FCR False Candidate Rejection)

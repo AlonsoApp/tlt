@@ -1,0 +1,663 @@
+Instrucciones
+A continuación verás 30 frases acompañadas de una tabla y su título (de la tabla). Las frases dicen algo de la tabla y tendrás que decir si lo que dice es cierto (t) o falso (f) en base a la información presente en la tabla y el título. 
+Si lo que se dice en la frase no está respaldado por ningún dato de la tabla o del título, la frase se considerará falsa. 
+Si la frase menciona información que pueda ser deducida de la tabla como resultado de de sumas, restas, medias, etc... la frase se considerará correcta.
+Puede que algunas frases estén mal escritas o que digan obviedades como 'in the 1975 formula one season, the race on march 1st was the only one to take place on march 1st'. En estos casos, si la frase se puede entender y lo que dice sigue siendo cierto, se considerarán ciertas (t).
+Hay casos extremos en los que las frases pueden no tener ningún sentido y sea imposible valorar si lo que dicen es cierto o falso. En estos casos la respuesta debe ser 'n' de nonsense.
+Escribe tu respuesta t, f o n en 'Answer [t/f/n]: ' por ejemplo para una frase correcta -> Answer [t/f/n]: t
+Cuando termines, guarda el archivo de texto y evíamelo de vuelta a me@email.com o por el canal que más fácil te resulte (Telegram, etc...)
+Si tienes alguna duda durante la evaluación preguntame sin problema :)
+Te agradezco mucho la ayuda ^^
+
+PARA VER BIEN LAS TABLAS: Si usas Sublime Text (cosa que recomiendo), vete a View y desactiva Word Wrap. Así, las tablas que no quepan en horizontal no pasarán a la siguiente línea (haciéndolas muy difíciles de leer).
+Si usas otro editor y quieres saber cómo desactivarlo, busca cómo desabilitar el 'line wrap' en google o pregúntame a mí.
+
+
+# 1/30
+id: 2ee8f5e0b4ab77464e0a4720d9db2d7b33cfde77 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 2008 in paraguayan football
++----+-------------------+-----------+----------+----------+---------+---------+----------+
+|    | team              |   average |   points |   played | 2006    | 2007    | 2008     |
+|----+-------------------+-----------+----------+----------+---------+---------+----------|
+|  0 | libertad          |     2.179 |      279 |      126 | 83 / 40 | 95 / 44 | 101 / 44 |
+|  1 | cerro porteño     |     2.023 |      259 |      126 | 92 / 40 | 92 / 44 | 75 / 44  |
+|  2 | nacional          |     1.484 |      190 |      126 | 53 / 40 | 60 / 44 | 77 / 44  |
+|  3 | olimpia           |     1.406 |      180 |      126 | 50 / 40 | 76 / 44 | 54 / 44  |
+|  4 | sol de américa    |     1.363 |      120 |       86 | n / a   | 57 / 44 | 63 / 44  |
+|  5 | sportivo luqueño  |     1.335 |      171 |      126 | 56 / 40 | 66 / 44 | 49 / 44  |
+|  6 | tacuary           |     1.335 |      171 |      126 | 66 / 40 | 51 / 44 | 54 / 44  |
+|  7 | guaraní           |     1.265 |      162 |      126 | 42 / 40 | 41 / 44 | 79 / 44  |
+|  8 | 2 de mayo         |     1.126 |      142 |      126 | 58 / 40 | 34 / 44 | 50 / 42  |
+|  9 | 12 de octubre     |     1.132 |      145 |      126 | 42 / 40 | 49 / 44 | 53 / 44  |
+| 10 | 3 de febrero      |     1.062 |      136 |      126 | 36 / 40 | 49 / 44 | 51 / 44  |
+| 11 | silvio pettirossi |     0.5   |       22 |       42 | n / a   | n / a   | 22 / 44  |
++----+-------------------+-----------+----------+----------+---------+---------+----------+
+Frase: the majority of clubs in the 2008 paraguayan football league played 126 matches .
+Answer [t/f/n]: 
+
+
+# 2/30
+id: ee0410a6f1e44c7249d285b13c65f4c1c2f0fad6 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: tri - eastern conference ( ihsaa )
++----+----------------+----------------+-------------+-------------+---------------+----------------------------------+-------------+-----------------------------------------+
+|    | school         | location       | mascot      | county      |   year joined | previous conference              |   year left | conference joined                       |
+|----+----------------+----------------+-------------+-------------+---------------+----------------------------------+-------------+-----------------------------------------|
+|  0 | cambridge city | cambridge city | wampus cats | 89 wayne    |          1962 | eastern indiana                  |        1965 | none ( consolidated into lincoln )      |
+|  1 | knightstown    | knightstown    | panthers    | 32 henry    |          1962 | east central                     |        1969 | big blue river                          |
+|  2 | liberty        | liberty        | lancers     | 81 union    |          1962 | east central / whitewater valley |        1965 | none ( consolidated into short )        |
+|  3 | short          | liberty        | lancers     | 81 union    |          1965 | none ( new school )              |        1973 | none ( consolidated into union county ) |
+|  4 | brookville     | brookville     | greyhounds  | 24 franklin |          1966 | eastern indiana                  |        1973 | eastern indiana                         |
++----+----------------+----------------+-------------+-------------+---------------+----------------------------------+-------------+-----------------------------------------+
+Frase: in the tri - eastern conference ( ihsaa ) , the 2nd to last conference to join was in 1962 .
+Answer [t/f/n]: 
+
+
+# 3/30
+id: ad3003c6a2c1820f4b2814b46f5aa17af1930ff4 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 1981 toronto blue jays season
++----+-----------+------------+------------------------------------+------------------------------------+------------------------------------+
+|    | date      | opponent   | score                              | loss                               | record                             |
+|----+-----------+------------+------------------------------------+------------------------------------+------------------------------------|
+|  0 | august 10 | tigers     | 4 - 3                              | mclaughlin ( 0 - 5 )               | 16 - 43                            |
+|  1 | august 11 | tigers     | 6 - 4                              | schatzeder ( 3 - 5 )               | 17 - 43                            |
+|  2 | august 12 | tigers     | 4 - 3                              | morris ( 9 - 4 )                   | 18 - 43                            |
+|  3 | august 14 | brewers    | 5 - 4                              | easterly ( 2 - 2 )                 | 19 - 43                            |
+|  4 | august 15 | brewers    | 4 - 3                              | cleveland ( 2 - 2 )                | 20 - 43                            |
+|  5 | august 16 | brewers    | 6 - 2                              | stieb ( 5 - 8 )                    | 20 - 44                            |
+|  6 | august 16 | brewers    | 2 - 0                              | todd ( 2 - 6 )                     | 20 - 45                            |
+|  7 | august 17 | royals     | 5 - 3                              | clancy ( 3 - 6 )                   | 20 - 46                            |
+|  8 | august 18 | royals     | 5 - 3                              | jones ( 1 - 1 )                    | 21 - 46                            |
+|  9 | august 19 | royals     | 9 - 4                              | leonard ( 7 - 8 )                  | 22 - 46                            |
+| 10 | august 21 | white sox  | 5 - 4                              | farmer ( 2 - 3 )                   | 23 - 46                            |
+| 11 | august 22 | white sox  | 8 - 0                              | clancy ( 3 - 7 )                   | 23 - 47                            |
+| 12 | august 23 | white sox  | 13 - 2                             | leal ( 4 - 9 )                     | 23 - 48                            |
+| 13 | august 24 | rangers    | 3 - 0                              | berenguer ( 2 - 5 )                | 23 - 49                            |
+| 14 | august 25 | rangers    | 6 - 1                              | stieb ( 6 - 9 )                    | 23 - 50                            |
+| 15 | august 27 | royals     | 11 - 5                             | clancy ( 3 - 8 )                   | 23 - 51                            |
+| 16 | august 28 | royals     | 4 - 3                              | brett ( 1 - 1 )                    | 24 - 51                            |
+| 17 | august 29 | royals     | 2 - 0                              | berenguer ( 2 - 6 )                | 24 - 52                            |
+| 18 | august 30 | royals     | postponed ( rain ) not rescheduled | postponed ( rain ) not rescheduled | postponed ( rain ) not rescheduled |
+| 19 | august 31 | rangers    | 3 - 0                              | jenkins ( 5 - 7 )                  | 25 - 52                            |
++----+-----------+------------+------------------------------------+------------------------------------+------------------------------------+
+Frase: the toronto blue jays played against the royals 7 times .
+Answer [t/f/n]: 
+
+
+# 4/30
+id: fb7000b3aa5eb3cd47562eaf853c2b296dff35ad - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: india at the 2010 asian games
++----+--------------------+---------------------------+-------------------------------------------+--------------------------------------------------+---------------------------------+-----------------+
+|    | athlete            | event                     | round of 32                               | round of 16                                      | quarterfinals                   | semifinals      |
+|----+--------------------+---------------------------+-------------------------------------------+--------------------------------------------------+---------------------------------+-----------------|
+|  0 | sunil kumar        | finweight ( - 54 kg )     | lakpa tashi sherpa ( bhu ) w pts 12 - 5   | abdulrahim abdulhameed ( brn ) l pts 2 - 8       | did not advance                 | did not advance |
+|  1 | surendra bhandari  | bantamweight ( - 63 kg )  | darkhan kassymkulov ( kaz ) l pts 7 - 8   | did not advance                                  | did not advance                 | did not advance |
+|  2 | chandan lakra      | featherweight ( - 68 kg ) | afifuddin omar sidek ( mas ) w pts 6 - 2  | naranchimegiin erdenebaatar ( mgl ) l pts 7 - 19 | did not advance                 | did not advance |
+|  3 | jasvant            | lightweight ( - 74 kg )   | sawatvilay phimmasone ( lao ) w pts 9 - 7 | yulius fernando ( ina ) l pts 5 - 6              | did not advance                 | did not advance |
+|  4 | anand pandia rajan | welterweight ( - 80 kg )  | bye                                       | eisa al - shammeri ( kuw ) w dsq                 | nabil talal ( jor ) l pts 3 - 3 | did not advance |
++----+--------------------+---------------------------+-------------------------------------------+--------------------------------------------------+---------------------------------+-----------------+
+Frase: the majority of athletes at the 2010 asian games did not advance to the quarterfinals .
+Answer [t/f/n]: 
+
+
+# 5/30
+id: e1d87486ff3b2ea5003fcb14be351618d0aa456f - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: deccan chargers
++----+----------+--------+----------+--------+---------+
+|    | played   | wins   | losses   | tied   | win %   |
+|----+----------+--------+----------+--------+---------|
+|  0 | ipl      | ipl    | ipl      | ipl    | ipl     |
+|  1 | 14       | 2      | 12       | 0      | 14 %    |
+|  2 | 16       | 9      | 7        | 0      | 56 %    |
+|  3 | 16       | 8      | 8        | 0      | 50 %    |
+|  4 | 14       | 6      | 8        | 0      | 42 %    |
+|  5 | 15       | 4      | 11       | 0      | 26.67 % |
+|  6 | 75       | 29     | 46       | 0      | 38.67 % |
+|  7 | 2        | 0      | 2        | 0      | 0 %     |
+|  8 | 77       | 29     | 48       | 0      | 37.67 % |
++----+----------+--------+----------+--------+---------+
+Frase: in the 1980s , deccan chargers had a total of 16 wins .
+Answer [t/f/n]: 
+
+
+# 6/30
+id: 75fe8178634d74fddf78f716f6144a0beec80497 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: croatian bol ladies open
++----+--------+------------+------------------------------------+-------------------------------------+-----------------------+
+|    |   year | category   | champions                          | runners - up                        | score                 |
+|----+--------+------------+------------------------------------+-------------------------------------+-----------------------|
+|  0 |   1991 | v          | laura golarsa magdalena maleeva    | sandra cecchini laura garrone       | walkover              |
+|  1 |   1995 | iii        | mercedes paz rene simpson          | laura golarsa irina spîrlea         | 7 - 5 , 6 - 2         |
+|  2 |   1996 | iv         | laura montalvo paola suárez        | alexia dechaume alexandra fusai     | 6 - 7 , 6 - 3 , 6 - 4 |
+|  3 |   1997 | iv         | laura montalvo henrieta nagyová    | maría josé gaidano marion maruska   | 6 - 3 , 6 - 1         |
+|  4 |   1998 | iva        | laura montalvo paola suárez        | joannette kruger mirjana lučić      | walkover              |
+|  5 |   1999 | iv         | jelena kostanić michaela paštiková | meghann shaughnessy andreea vanc    | 7 - 5 , 6 - 7 , 6 - 2 |
+|  6 |   2000 | iii        | julie halard corina morariu        | tina križan katarina srebotnik      | 6 - 2 , 6 - 2         |
+|  7 |   2001 | iii        | maría martínez anabel medina       | nadia petrova tina pisnik           | 7 - 5 , 6 - 4         |
+|  8 |   2002 | iii        | tathiana garbin angelique widjaja  | elena bovina henrieta nagyová       | 7 - 5 , 3 - 6 , 6 - 4 |
+|  9 |   2003 | iii        | petra mandula patricia wartusch    | emmanuelle gagliardi patty schnyder | 6 - 3 , 6 - 2         |
++----+--------+------------+------------------------------------+-------------------------------------+-----------------------+
+Frase: 1995 was the only year in which the croatian bol ladies opened .
+Answer [t/f/n]: 
+
+
+# 7/30
+id: bf6f658dc68e0c120c9c85b113424f845ca99d58 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: lark rise to candleford ( tv series )
++----+----+---------------------------------------------+------------------+------------------+---------------------+------------------+
+|    |    | episode                                     | writer           | director         | original air date   | viewing figure   |
+|----+----+---------------------------------------------+------------------+------------------+---------------------+------------------|
+|  0 | 11 | episode 1 ( 75 - minute christmas special ) | bill gallagher   | alan grint       | 21 december 2008    | 6.58 million     |
+|  1 | 12 | episode 2                                   | bill gallagher   | alan grint       | 4 january 2009      | 6.53 million     |
+|  2 | 13 | episode 3                                   | bill gallagher   | alan grint       | 11 january 2009     | 6.13 million     |
+|  3 | 14 | episode 4                                   | carolyn bonnyman | maurice phillips | 18 january 2009     | 6.49 million     |
+|  4 | 15 | episode 5                                   | bill gallagher   | julian holmes    | 25 january 2009     | 6.31 million     |
+|  5 | 16 | episode 6                                   | gaby chiappe     | moira armstrong  | 1 february 2009     | 6.54 million     |
+|  6 | 17 | episode 7                                   | gaby chiappe     | sue tully        | 8 february 2009     | 6.14 million     |
+|  7 | 18 | episode 8                                   | kate gartside    | alan grint       | 15 february 2009    | 6.20 million     |
+|  8 | 19 | episode 9                                   | kate gartside    | david tucker     | 22 february 2009    | 6.32 million     |
+|  9 | 20 | episode 10                                  | carolyn bonnyman | patrick lau      | 1 march 2009        | 6.34 million     |
+| 10 | 21 | episode 11                                  | gaby chiappe     | paul marcus      | 8 march 2009        | 6.78 million     |
++----+----+---------------------------------------------+------------------+------------------+---------------------+------------------+
+Frase: episode 5 of lark rise to candleford had a higher viewing figure than episode 5 .
+Answer [t/f/n]: 
+
+
+# 8/30
+id: b0ac5366ff3b71a45c5e4520647143b7b0df13d5 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 2007 - 08 plymouth argyle f.c. season
++----+------------+-----------+----------+----------------------+-------------------+--------+----------------+
+|    | name       | country   | type     | moving from          | transfer window   |   ends | transfer fee   |
+|----+------------+-----------+----------+----------------------+-------------------+--------+----------------|
+|  0 | abdou      | fra       | signed   | sedan                | summer            |   2008 | free           |
+|  1 | mabiala    | fra       | loan     | parissaint - germain | summer            |   2008 | loan           |
+|  2 | martin     | eng       | loan     | manchester united    | summer            |   2008 | loan           |
+|  3 | easter     | wal       | transfer | wycombe wanderers    | winter            |   2008 | 210k           |
+|  4 | jutkiewicz | eng       | loan     | everton              | winter            |   2008 | loan           |
+|  5 | folly      | fra       | transfer | sheffield wednesday  | winter            |   2008 | xxxk           |
++----+------------+-----------+----------+----------------------+-------------------+--------+----------------+
+Frase: abdou is the only player in the 2007 - 08 plymouth argyle f.c. season to move to the sedan type .
+Answer [t/f/n]: 
+
+
+# 9/30
+id: 8942614f3c646318c162b98e1b14c60e811fb893 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 2004 cfl draft
++----+--------+--------------------------+-------------------------+------------+-------------------+
+|    |   pick | cfl team                 | player                  | position   | college           |
+|----+--------+--------------------------+-------------------------+------------+-------------------|
+|  0 |      1 | hamilton tiger - cats    | wayne smith             | ol         | appalachian state |
+|  1 |      2 | ottawa renegades         | ibrahim khan            | ol         | simon fraser      |
+|  2 |      3 | ottawa renegades         | david azzi              | wr         | ottawa            |
+|  3 |      4 | toronto argonauts        | mark moroz              | ol         | wake forest       |
+|  4 |      5 | bc lions                 | oj atogwe               | s          | stanford          |
+|  5 |      6 | saskatchewan roughriders | ducamel augustin        | fb         | villanova         |
+|  6 |      7 | toronto argonauts        | jean - fredric tremblay | wr         | laval             |
+|  7 |      8 | montreal alouettes       | alain kashama           | dl         | michigan          |
+|  8 |      9 | edmonton eskimos         | amarpreet sanghera      | ol         | british columbia  |
++----+--------+--------------------------+-------------------------+------------+-------------------+
+Frase: mark moroz was the only player that was drafted from wake forest .
+Answer [t/f/n]: 
+
+
+# 10/30
+id: 82df83554fc31ac5755d1d84d46225d1a10918a6 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: geography of moldova
++----+--------------------------+--------------------+------------------------------------------+-------------+----------------+
+|    | land formation           |   area , km square |   of which currently forests , km square | % forests   | habitat type   |
+|----+--------------------------+--------------------+------------------------------------------+-------------+----------------|
+|  0 | northern moldavian hills |               4630 |                                      476 | 10.3 %      | forest steppe  |
+|  1 | dniester - rāut ridge    |               2480 |                                      363 | 14.6 %      | forest steppe  |
+|  2 | middle prut valley       |               2930 |                                      312 | 10.6 %      | forest steppe  |
+|  3 | bălţi steppe             |               1920 |                                       51 | 2.7 %       | steppe         |
+|  4 | ciuluc - soloneţ hills   |               1690 |                                      169 | 10.0 %      | forest steppe  |
+|  5 | corneşti hills ( codru ) |               4740 |                                     1300 | 27.5 %      | forest         |
+|  6 | lower dniester hills     |               3040 |                                      371 | 12.2 %      | forest steppe  |
+|  7 | lower prut valley        |               1810 |                                      144 | 8.0 %       | forest steppe  |
+|  8 | tigheci hills            |               3550 |                                      533 | 15.0 %      | forest steppe  |
+|  9 | bugeac plain             |               3210 |                                      195 | 6.1 %       | steppe         |
+| 10 | part of podolian plateau |               1920 |                                      175 | 9.1 %       | forest steppe  |
+| 11 | part of eurasian steppe  |               1920 |                                      140 | 7.3 %       | steppe         |
++----+--------------------------+--------------------+------------------------------------------+-------------+----------------+
+Frase: there are 8 habitats that can be found in moldova .
+Answer [t/f/n]: 
+
+
+# 11/30
+id: 3716d9b6f9b6311236072fd07f8426a8f5a793f8 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 2010 afc champions league
++----+-------+----------------------+------------------------+---------+---------------+--------------+-----------+
+|    |   pos | member association   |   points ( total 500 ) |   clubs |   group stage |   play - off |   afc cup |
+|----+-------+----------------------+------------------------+---------+---------------+--------------+-----------|
+|  0 |     4 | saudi arabia         |                    365 |      12 |             4 |            0 |         0 |
+|  1 |     5 | uae                  |                    356 |      12 |             3 |            1 |         0 |
+|  2 |     7 | iran                 |                    340 |      18 |             4 |            0 |         0 |
+|  3 |     9 | uzbekistan           |                    289 |      16 |             2 |            0 |         1 |
+|  4 |    10 | qatar                |                    270 |      10 |             2 |            0 |         0 |
++----+-------+----------------------+------------------------+---------+---------------+--------------+-----------+
+Frase: in the 2010 afc champions league , there were three clubs with over 300 points .
+Answer [t/f/n]: 
+
+
+# 12/30
+id: 92fdd289388a4689e75fe180057da154b9e06eb6 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: locomotives of the southern railway
++----+-----------+-----------+---------------------+---------+-------------+------------------+
+|    | iwcr no   | name      | wheel arrangement   | sr no   |   year made |   year withdrawn |
+|----+-----------+-----------+---------------------+---------+-------------+------------------|
+|  0 | 1 ( 1st ) | pioneer   | 2 - 2 - 2t          | -       |        1861 |             1904 |
+|  1 | 2 ( 1st ) | precursor | 2 - 2 - 2t          | -       |        1861 |             1904 |
+|  2 | 1 ( 2nd ) | -         | 0 - 4 - 0t          | -       |        1906 |             1918 |
+|  3 | 2 ( 2nd ) | -         | 0 - 4 - 4t          | -       |        1895 |             1917 |
+|  4 | 3         | -         | 0 - 4 - 2t          | -       |        1870 |             1918 |
+|  5 | 4         | cowes     | 2 - 4 - 0t          | w4      |        1876 |             1925 |
+|  6 | 5         | osborne   | 2 - 4 - 0t          | w5      |        1876 |             1926 |
+|  7 | 6 ( 1st ) | newport   | 2 - 2 - 2t          | -       |        1861 |             1895 |
+|  8 | 6 ( 2nd ) | -         | 4 - 4 - 0t          | w6      |        1890 |             1926 |
+|  9 | 7 ( 1st ) | -         | 4 - 4 - 0t          | -       |        1861 |             1906 |
+| 10 | 7 ( 2nd ) | -         | 2 - 4 - 0t          | w7      |        1882 |             1926 |
+| 11 | 8         | -         | 2 - 4 - 0t          | w8      |        1898 |             1929 |
+| 12 | 9         | -         | 0 - 6 - 0t          | w9      |        1872 |             1927 |
+| 13 | 10        | -         | 0 - 6 - 0t          | w10     |        1874 |             1936 |
+| 14 | 11        | -         | 0 - 6 - 0t          | w11     |        1878 |             1963 |
+| 15 | 12        | -         | 0 - 6 - 0t          | w12     |        1880 |             1936 |
++----+-----------+-----------+---------------------+---------+-------------+------------------+
+Frase: two of the southern railway locomotives of the southern railway were withdrawn in 1936 .
+Answer [t/f/n]: 
+
+
+# 13/30
+id: 9c580d913cca12b5a4c552da7de17a222e08d54c - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 2009 - 10 temple owls men 's basketball team
++----+--------+-------------+-------------------+-----------+------------------+------------------+--------------------+-----------------------------------------------+----------+
+|    |   game | date        | team              | score     | high points      | high rebounds    | high assists       | location attendance                           | record   |
+|----+--------+-------------+-------------------+-----------+------------------+------------------+--------------------+-----------------------------------------------+----------|
+|  0 |      1 | november 14 | delaware          | w 76 - 56 | ryan brooks - 23 | lavoy allen - 15 | juan fernandez - 5 | bob carpenter center , newark , de ( 3080 )   | 1 - 0    |
+|  1 |      2 | november 17 | georgetown ( 19 ) | l 46 - 45 | allen - 12       | allen - 14       | luiz guzman - 6    | verizon center , washington , dc ( 8712 )     | 1 - 1    |
+|  2 |      3 | november 21 | siena             | w 73 - 69 | fernandez - 20   | allen - 7        | allen - 5          | liacouras center , philadelphia , pa ( 6759 ) | 2 - 1    |
+|  3 |      4 | november 24 | ball state        | w 66 - 46 | brooks - 17      | allen - 9        | allen / brooks - 7 | liacouras center , philadelphia , pa ( 3597 ) | 3 - 1    |
+|  4 |      5 | november 27 | virginia tech     | w 61 - 50 | allen - 18       | allen - 10       | fernandez - 6      | palestra , philadelphia , pa ( 3750 )         | 4 - 1    |
++----+--------+-------------+-------------------+-----------+------------------+------------------+--------------------+-----------------------------------------------+----------+
+Frase: in the 2009-10 temple owls men 's basketball team , most of the games resulted in wins for the temple owls .
+Answer [t/f/n]: 
+
+
+# 14/30
+id: a40306cc4d53d26c36fb50716252a74e005276d0 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 2008 formula 3 euro series season
++----+----------------------+---------+---------+---------+---------+---------+---------+
+|    | driver               | nor 1   | nor 2   | zan 1   | zan 2   | nür 1   | nür 2   |
+|----+----------------------+---------+---------+---------+---------+---------+---------|
+|  0 | erik janiš           | 8       | 22      | 12      | 10      | ret     | 12      |
+|  1 | mika mäki            | ret     | 18      | 2       | 5       | 4       | ret     |
+|  2 | jules bianchi        | ret     | 9       | 3       | 9       | 2       | 3       |
+|  3 | jon lancaster        | 5       | ret     | ret     | ret     | 7       | 1       |
+|  4 | richard philippe     | 22      | 16      | 16      | 12      | 10      | 18      |
+|  5 | robert wickens       | 7       | 2       | 8       | ret     | 12      | 16      |
+|  6 | stefano coletti      | 11      | 6       | 19      | ret     | 9       | ret     |
+|  7 | daniel campos - hull | 17      | 11      | 23      | 14      | 20      | 8       |
+|  8 | henkie waldschmidt   | 9       | ret     | 17      | ret     | 15      | 17      |
+|  9 | jens klingmann       | 15      | 10      | 21      | 18      | 16      | 10      |
+| 10 | martin plowman       | ret     | ret     | 20      | 17      | 17      | 21      |
+| 11 | driver               | nor 1   | nor 2   | zan 1   | zan 2   | nür 1   | nür 2   |
++----+----------------------+---------+---------+---------+---------+---------+---------+
+Frase: richard philippe had a higher nor 1 score than stefano coletti in the 2008 formula 3 euro series season .
+Answer [t/f/n]: 
+
+
+# 15/30
+id: 19b26a368242e18fec7c825f4cc95c91f61efcb9 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: soybean oil
++----+---------------------------------------+-------------+-----------------+-------------------------------------+------------------------------------+-------------------------+
+|    |                                       | total fat   | saturated fat   | monounsaturated fat                 | polyunsaturated fat                | smoke point             |
+|----+---------------------------------------+-------------+-----------------+-------------------------------------+------------------------------------+-------------------------|
+|  0 | sunflower oil                         | 100 g       | 11 g            | 20 g ( 84 g in high oleic variety ) | 69 g ( 4 g in high oleic variety ) | degree                  |
+|  1 | soybean oil                           | 100 g       | 16 g            | 23 g                                | 58 g                               | degree                  |
+|  2 | canola oil                            | 100 g       | 7 g             | 63 g                                | 28 g                               | degree                  |
+|  3 | olive oil                             | 100 g       | 14 g            | 73 g                                | 11 g                               | degree                  |
+|  4 | corn oil                              | 100 g       | 15 g            | 30 g                                | 55 g                               | degree                  |
+|  5 | peanut oil                            | 100 g       | 17 g            | 46 g                                | 32 g                               | degree                  |
+|  6 | rice bran oil                         | 100 g       | 25 g            | 38 g                                | 37 g                               | degree                  |
+|  7 | vegetable shortening ( hydrogenated ) | 71 g        | 23 g ( 34 % )   | 8 g ( 11 % )                        | 37 g ( 52 % )                      | degree                  |
+|  8 | lard                                  | 100 g       | 39 g            | 45 g                                | 11 g                               | degree                  |
+|  9 | suet                                  | 94 g        | 52 g ( 55 % )   | 32 g ( 34 % )                       | 3 g ( 3 % )                        | 200degree ( 400degree ) |
++----+---------------------------------------+-------------+-----------------+-------------------------------------+------------------------------------+-------------------------+
+Frase: suet has the highest amount of saturated fat in soybean oil .
+Answer [t/f/n]: 
+
+
+# 16/30
+id: dc177d67d8eab0738c5470ca8e8e414086b75fb9 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 1932 vfl season
++----+-----------------+-------------------+-------------+-------------------+-----------------------+---------+-------------+
+|    | home team       | home team score   | away team   | away team score   | venue                 |   crowd | date        |
+|----+-----------------+-------------------+-------------+-------------------+-----------------------+---------+-------------|
+|  0 | footscray       | 13.14 ( 92 )      | st kilda    | 8.10 ( 58 )       | western oval          |   14000 | 28 may 1932 |
+|  1 | fitzroy         | 12.6 ( 78 )       | geelong     | 20.10 ( 130 )     | brunswick street oval |   13000 | 28 may 1932 |
+|  2 | carlton         | 13.15 ( 93 )      | collingwood | 11.7 ( 73 )       | princes park          |   32000 | 28 may 1932 |
+|  3 | north melbourne | 18.10 ( 118 )     | melbourne   | 12.16 ( 88 )      | arden street oval     |   12000 | 28 may 1932 |
+|  4 | richmond        | 13.18 ( 96 )      | hawthorn    | 6.9 ( 45 )        | punt road oval        |   10000 | 28 may 1932 |
+|  5 | south melbourne | 14.15 ( 99 )      | essendon    | 9.11 ( 65 )       | lake oval             |   28000 | 28 may 1932 |
++----+-----------------+-------------------+-------------+-------------------+-----------------------+---------+-------------+
+Frase: the match at princes park had a larger crowd than the match at brunswick street oval .
+Answer [t/f/n]: 
+
+
+# 17/30
+id: 9ac3a6ab4dc0f7c936a5717ef9fe62c6320bfd91 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: list of presidents of fifa
++----+--------------+------------------------+--------------------+---------------+---------------+
+|    |   presidency | president              | date of birth      |   took office | left office   |
+|----+--------------+------------------------+--------------------+---------------+---------------|
+|  0 |            1 | robert guérin          | 1876               |          1904 | 1906          |
+|  1 |            2 | daniel burley woolfall | june 15 , 1852     |          1906 | 1918          |
+|  2 |            3 | jules rimet            | october 14 , 1873  |          1921 | 1954          |
+|  3 |            4 | rodolphe seeldrayers   | december 16 , 1876 |          1954 | 1955          |
+|  4 |            5 | arthur drewry          | march 3 , 1891     |          1955 | 1961          |
+|  5 |            6 | stanley rous           | april 25 , 1895    |          1961 | 1974          |
+|  6 |            7 | joão havelange         | may 8 , 1916       |          1974 | 1998          |
+|  7 |            8 | sepp blatter           | march 10 , 1936    |          1998 | incumbent     |
++----+--------------+------------------------+--------------------+---------------+---------------+
+Frase: of the presidents of fifa , the one who took office in the 1970s was the one with the highest number of seats .
+Answer [t/f/n]: 
+
+
+# 18/30
+id: 29db4fb601b8154cb359f460407b1440404d50f0 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: atlanta falcons draft history
++----+---------+--------+-----------+-----------------+------------------+-------------------+
+|    |   round |   pick |   overall | name            | position         | college           |
+|----+---------+--------+-----------+-----------------+------------------+-------------------|
+|  0 |       1 |      6 |         6 | warren bryant   | offensive tackle | kentucky          |
+|  1 |       1 |     20 |        20 | wilson faumuina | defensive tackle | san josã state    |
+|  2 |       2 |      8 |        36 | r c thielemann  | guard            | arkansas          |
+|  3 |       4 |      6 |        90 | allan leavitt   | kicker           | georgia           |
+|  4 |       5 |      8 |       120 | shelton diggs   | wide receiver    | usc               |
+|  5 |       6 |     22 |       161 | keith jenkins   | defensive back   | cincinnati        |
+|  6 |       8 |      8 |       203 | walter packer   | wide receiver    | mississippi state |
+|  7 |       9 |      7 |       230 | john maxwell    | offensive tackle | boston college    |
+|  8 |       9 |     19 |       242 | robert speer    | defensive end    | arkansas state    |
+|  9 |      10 |      6 |       257 | billy ryckman   | wide receiver    | louisiana tech    |
+| 10 |      11 |      8 |       287 | dave farmer     | running back     | usc               |
+| 11 |      12 |      7 |       312 | don parrish     | defensive tackle | pittsburgh        |
++----+---------+--------+-----------+-----------------+------------------+-------------------+
+Frase: dave farmer was drafted by the atlanta falcons earlier than don parrish .
+Answer [t/f/n]: 
+
+
+# 19/30
+id: df6e33895715199fd34d1aa268789c8e46780c5a - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: manila
++----+-------------+--------------+------------------------------+----------------+---------------------------+
+|    | district    |   s barangay |   population ( 2010 census ) |   area ( has ) |   pop density ( per km2 ) |
+|----+-------------+--------------+------------------------------+----------------+---------------------------|
+|  0 | binondo     |           10 |                        12985 |          66.11 |                   19641.5 |
+|  1 | ermita      |           13 |                         7143 |         158.91 |                    4495   |
+|  2 | intramuros  |            5 |                         4925 |          67.26 |                    7322.3 |
+|  3 | malate      |           57 |                        77513 |         259.58 |                   29860.9 |
+|  4 | paco        |           43 |                        70978 |         278.69 |                   25468.4 |
+|  5 | pandacan    |           38 |                        73895 |         166    |                   44515.1 |
+|  6 | port area   |            5 |                        57405 |         315.28 |                   18207.6 |
+|  7 | quiapo      |           16 |                        24886 |          84.69 |                   29384.8 |
+|  8 | sampaloc    |          192 |                       241528 |         513.71 |                   47016.4 |
+|  9 | san andrãs  |           65 |                       115942 |         168.02 |                   69004.9 |
+| 10 | san miguel  |           12 |                        15992 |          91.37 |                   17502.5 |
+| 11 | san nicolas |           15 |                        44241 |         163.85 |                   27000.9 |
+| 12 | santa ana   |           34 |                        60952 |         169.42 |                   35976.9 |
+| 13 | santa cruz  |           82 |                       115747 |         309.01 |                   37457.4 |
+| 14 | santa mesa  |           51 |                        99933 |         261.01 |                   38287   |
++----+-------------+--------------+------------------------------+----------------+---------------------------+
+Frase: manila 's total population in 2010 was 68,253 .
+Answer [t/f/n]: 
+
+
+# 20/30
+id: f565b6e31aba323e820a922e694e0b58ac44f642 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 2006 - 07 coventry city f.c. season
++----+-----------------+----------------+--------------+----------+---------+
+|    | name            |   championship |   league cup |   fa cup | total   |
+|----+-----------------+----------------+--------------+----------+---------|
+|  0 | dele adebola    |              8 |            1 |        0 | 0 9     |
+|  1 | leon mckenzie   |              7 |            0 |        1 | 0 8     |
+|  2 | stern john      |              5 |            0 |        1 | 0 6     |
+|  3 | michael mifsud  |              4 |            0 |        0 | 0 4     |
+|  4 | michael doyle   |              3 |            0 |        0 | 0 3     |
+|  5 | kevin kyle      |              3 |            0 |        0 | 0 3     |
+|  6 | jay tabb        |              3 |            0 |        0 | 0 3     |
+|  7 | elliott ward    |              3 |            0 |        0 | 0 3     |
+|  8 | colin cameron   |              2 |            0 |        1 | 0 3     |
+|  9 | chris birchall  |              2 |            0 |        0 | 0 2     |
+| 10 | wayne andrews   |              1 |            0 |        0 | 0 1     |
+| 11 | stephen hughes  |              1 |            0 |        0 | 0 1     |
+| 12 | gary mcsheffrey |              1 |            0 |        0 | 0 1     |
+| 13 | kevin thornton  |              1 |            0 |        0 | 0 1     |
+| 14 | adam virgo      |              1 |            0 |        0 | 0 1     |
++----+-----------------+----------------+--------------+----------+---------+
+Frase: in the 2006 - 07 coventry city f.c. season , stern john ranks the highest .
+Answer [t/f/n]: 
+
+
+# 21/30
+id: 7c123f2c6a170fa7b0b5298bfef03cdf0ddb8eee - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 1993 san diego chargers season
++----+--------+---------------------+----------------------+-----------+--------------+
+|    |   week | date                | opponent             | result    |   attendance |
+|----+--------+---------------------+----------------------+-----------+--------------|
+|  0 |      1 | september 5 , 1993  | seattle seahawks     | w 18 - 12 |        58039 |
+|  1 |      2 | september 12 , 1993 | denver broncos       | l 34 - 17 |        75074 |
+|  2 |      3 | september 19 , 1993 | houston oilers       | w 18 - 17 |        58519 |
+|  3 |      5 | october 3 , 1993    | seattle seahawks     | l 31 - 14 |        54778 |
+|  4 |      6 | october 10 , 1993   | pittsburgh steelers  | l 16 - 3  |        55264 |
+|  5 |      7 | october 17 , 1993   | kansas city chiefs   | l 17 - 14 |        60729 |
+|  6 |      9 | october 31 , 1993   | los angeles raiders  | w 30 - 23 |        45122 |
+|  7 |     10 | november 7 , 1993   | minnesota vikings    | w 30 - 17 |        55527 |
+|  8 |     11 | november 14 , 1993  | chicago bears        | l 16 - 13 |        58459 |
+|  9 |     12 | november 21 , 1993  | los angeles raiders  | l 12 - 7  |        60615 |
+| 10 |     13 | november 29 , 1993  | indianapolis colts   | w 31 - 0  |        54110 |
+| 11 |     14 | december 5 , 1993   | denver broncos       | w 13 - 10 |        60233 |
+| 12 |     15 | december 12 , 1993  | green bay packers    | l 20 - 13 |        57930 |
+| 13 |     16 | december 19 , 1993  | kansas city chiefs   | l 28 - 24 |        74778 |
+| 14 |     17 | december 27 , 1993  | miami dolphins       | w 45 - 20 |        60311 |
+| 15 |     18 | january 2 , 1994    | tampa bay buccaneers | w 32 - 17 |        35587 |
++----+--------+---------------------+----------------------+-----------+--------------+
+Frase: the san diego chargers were the only team to score a single goal during the 18 games .
+Answer [t/f/n]: 
+
+
+# 22/30
+id: 0b825400929286c794f10cec2a312f038cae2779 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: dick rathmann
++----+--------+---------+----------+----------+----------+
+|    |   year |    qual | rank     | finish   | laps     |
+|----+--------+---------+----------+----------+----------|
+|  0 |   1950 | 130.928 | 17       | 32       | 25       |
+|  1 |   1956 | 144.471 | 6        | 5        | 200      |
+|  2 |   1957 | 140.78  | withdrew | withdrew | withdrew |
+|  3 |   1958 | 145.974 | 1        | 27       | 0        |
+|  4 |   1959 | 144.248 | 5        | 20       | 150      |
+|  5 |   1960 | 145.543 | 6        | 31       | 42       |
+|  6 |   1961 | 146.033 | 8        | 13       | 164      |
+|  7 |   1962 | 147.161 | 13       | 24       | 51       |
+|  8 |   1963 | 149.13  | 14       | 10       | 200      |
+|  9 |   1964 | 151.86  | 17       | 7        | 197      |
++----+--------+---------+----------+----------+----------+
+Frase: dick rathmann had a higher rank in 1956 than he did in 1959 .
+Answer [t/f/n]: 
+
+
+# 23/30
+id: d4e08782739c6e2321d7504bc898d38eb3c5ef5e - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: united states house of representatives elections , 2012
++----+-------------+------------------+------------+-----------------+--------------+-------------------------------------------------------+
+|    | district    | incumbent        | party      |   first elected | result       | candidates                                            |
+|----+-------------+------------------+------------+-----------------+--------------+-------------------------------------------------------|
+|  0 | minnesota 1 | tim walz         | democratic |            2006 | re - elected | tim walz ( d ) 57.6 % allen quist ( r ) 42.4 %        |
+|  1 | minnesota 2 | john kline       | republican |            2002 | re - elected | john kline ( r ) 54.1 % mike obermueller ( d ) 45.9 % |
+|  2 | minnesota 3 | erik paulsen     | republican |            2008 | re - elected | erik paulsen ( r ) 58.2 % brian barnes ( d ) 41.8 %   |
+|  3 | minnesota 5 | keith ellison    | democratic |            2006 | re - elected | keith ellison ( d ) 74.5 % chris fields ( r ) 25.5 %  |
+|  4 | minnesota 6 | michele bachmann | republican |            2006 | re - elected | michele bachmann ( r ) 50.6 % jim graves ( d ) 49.4 % |
++----+-------------+------------------+------------+-----------------+--------------+-------------------------------------------------------+
+Frase: keith ellison recorded the highest percentage ratio among all candidates of the 2012 house of representatives elections .
+Answer [t/f/n]: 
+
+
+# 24/30
+id: fcbb19065ffd435f47fac807bf5613e9f1f5fe92 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 1947 baa draft
++----+---------+--------+-----------------+------------+-------------------------+----------------+
+|    |   round |   pick | player          | position   | team                    | college        |
+|----+---------+--------+-----------------+------------+-------------------------+----------------|
+|  0 |       1 |      1 | clifton mcneely | -          | pittsburgh ironmen      | texas wesleyan |
+|  1 |       1 |      2 | glen selbo      | g / f      | toronto huskies         | wisconsin      |
+|  2 |       1 |      3 | bulbs ehlers    | g / f      | boston celtics          | purdue         |
+|  3 |       1 |      4 | walt dropo      | -          | providence steamrollers | connecticut    |
+|  4 |       1 |      5 | dick holub      | c          | new york knicks         | long island    |
+|  5 |       1 |      6 | chink crossin   | g          | philadelphia warriors   | pennsylvania   |
+|  6 |       1 |      7 | jack underman   | -          | st louis bombers        | ohio state     |
+|  7 |       1 |      8 | paul huston     | f          | chicago stags           | ohio state     |
+|  8 |       1 |      9 | dick o'keefe    | g / f      | washington capitols     | santa clara    |
+|  9 |       1 |     10 | larry killick   | -          | baltimore bullets       | vermont        |
++----+---------+--------+-----------------+------------+-------------------------+----------------+
+Frase: in the 1947 baa draft , the player picked was c.
+Answer [t/f/n]: 
+
+
+# 25/30
+id: 4c5fd854d8d6624ee4ac09de204d69384c7e0790 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: raphael butler
++----+-------+----------+-----------------+------------------------+---------+--------+-----------------------------------------+
+|    | res   | record   | opponent        | method                 |   round | time   | location                                |
+|----+-------+----------+-----------------+------------------------+---------+--------+-----------------------------------------|
+|  0 | win   | 7 - 0    | joseph bryant   | tko ( strikes )        |       1 | 1:04   | rio rancho , new mexico , united states |
+|  1 | win   | 6 - 0    | jeremiah o'neal | ko ( punches )         |       1 | 2:19   | thackerville , oklahoma , united states |
+|  2 | win   | 5 - 0    | brett murphy    | ko ( punch )           |       1 | 0:13   | st paul , minnesota , united states     |
+|  3 | win   | 4 - 0    | steven shaw     | submission ( armbar )  |       1 | 4:35   | maplewood , minnesota , united states   |
+|  4 | win   | 3 - 0    | richard white   | submission ( punches ) |       2 | 3:18   | rochester , minnesota , united states   |
+|  5 | win   | 2 - 0    | jeremy beck     | ko ( punches )         |       1 | 3:36   | red wing , minnesota , united states    |
+|  6 | win   | 1 - 0    | gabe hobbs      | ko ( punch )           |       1 | 0:36   | welch , minnesota , united states       |
++----+-------+----------+-----------------+------------------------+---------+--------+-----------------------------------------+
+Frase: the majority of fights that raphael butler played in were in round 1 .
+Answer [t/f/n]: 
+
+
+# 26/30
+id: db4e96a32b41e35356cc645900fb9330962133c2 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: list of appalachian regional commission counties
++----+-------------+--------------+---------------------+----------------------------+----------------+--------------+
+|    | county      |   population | unemployment rate   |   market income per capita | poverty rate   | status       |
+|----+-------------+--------------+---------------------+----------------------------+----------------+--------------|
+|  0 | allegany    |        49927 | 5.8 %               |                      16850 | 15.5 %         | - risk       |
+|  1 | broome      |       200536 | 5.0 %               |                      24199 | 12.8 %         | transitional |
+|  2 | cattaraugus |        83955 | 5.5 %               |                      21285 | 13.7 %         | transitional |
+|  3 | chautauqua  |       136409 | 4.9 %               |                      19622 | 13.8 %         | transitional |
+|  4 | chemung     |        91070 | 5.1 %               |                      22513 | 13.0 %         | transitional |
+|  5 | chenango    |        51401 | 5.5 %               |                      20896 | 14.4 %         | transitional |
+|  6 | cortland    |        48599 | 5.7 %               |                      21134 | 15.5 %         | transitional |
+|  7 | delaware    |        48055 | 4.9 %               |                      21160 | 12.9 %         | transitional |
+|  8 | otsego      |        61676 | 4.9 %               |                      21819 | 14.9 %         | transitional |
+|  9 | schoharie   |        31582 | 6.0 %               |                      23145 | 11.4 %         | transitional |
+| 10 | schuyler    |        19224 | 5.4 %               |                      21042 | 11.8 %         | transitional |
+| 11 | steuben     |        98726 | 5.6 %               |                      28065 | 13.2 %         | transitional |
+| 12 | tioga       |        51784 | 4.8 %               |                      24885 | 8.4 %          | transitional |
++----+-------------+--------------+---------------------+----------------------------+----------------+--------------+
+Frase: in the list of appalachian regional commission counties , schoharie has the highest unemployment rate .
+Answer [t/f/n]: 
+
+
+# 27/30
+id: f4b03e0cc16c29330323fe4c0cc0f3d9c9de7e9c - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 1914 in brazilian football
++----+------------+--------------------+----------+----------+-------+---------+--------+-------+-----------+--------------+
+|    |   position | team               |   points |   played |   won |   drawn |   lost |   for |   against | difference   |
+|----+------------+--------------------+----------+----------+-------+---------+--------+-------+-----------+--------------|
+|  0 |          1 | aa são bento       |       15 |       10 |     7 |       1 |      2 |    21 |        16 | 5            |
+|  1 |          2 | paulistano         |       14 |       10 |     7 |       0 |      3 |    22 |        15 | 7            |
+|  2 |          3 | mackenzie          |       11 |       10 |     5 |       1 |      4 |    20 |        14 | 6            |
+|  3 |          4 | ypiranga - sp      |       11 |       10 |     4 |       3 |      3 |    19 |        15 | 4            |
+|  4 |          5 | scottish wanderers |        5 |       10 |     2 |       1 |      7 |    13 |        23 | - 10         |
++----+------------+--------------------+----------+----------+-------+---------+--------+-------+-----------+--------------+
+Frase: all of the brazilian football clubs played a total of eleven games during the 1914 brazilian football season .
+Answer [t/f/n]: 
+
+
+# 28/30
+id: 0d440b3836d95ecf17149609fc91038933c86eca - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: dwbl
++----+------------------+------------+-------------+---------+----------------+
+|    | branding         | callsign   | frequency   | power   | location       |
+|----+------------------+------------+-------------+---------+----------------|
+|  0 | dwbl 1242        | dwbl       | 1242 khz    | 20 kw   | metro manila   |
+|  1 | mellow 947       | dwll       | 94.7 mhz    | 20 kw   | metro manila   |
+|  2 | mellow 887       | dyku       | 88.7 mhz    | 10 kw   | iloilo city    |
+|  3 | mellow 957       | dxbl       | 95.7 mhz    | 10 kw   | cagayan de oro |
+|  4 | mellow 947 davao | dxll       | 94.7 mhz    | 20 kw   | davao city     |
++----+------------------+------------+-------------+---------+----------------+
+Frase: in dwbl , the callsign dinn is the only one whose frequency is 10 khz .
+Answer [t/f/n]: 
+
+
+# 29/30
+id: 6764a7b2b18cf8e0dda0c0416f8f7b3089dfd168 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 2008 - 09 detroit red wings season
++----+--------+-----------+---------+---------+------------+--------------+----------+
+|    | date   | visitor   | score   | home    | decision   |   attendance | series   |
+|----+--------+-----------+---------+---------+------------+--------------+----------|
+|  0 | may 17 | chicago   | 2 - 5   | detroit | osgood     |        20066 | 1 - 0    |
+|  1 | may 19 | chicago   | 2 - 3   | detroit | osgood     |        20066 | 2 - 0    |
+|  2 | may 22 | detroit   | 3 - 4   | chicago | osgood     |        22678 | 2 - 1    |
+|  3 | may 24 | detroit   | 6 - 1   | chicago | conklin    |        22663 | 3 - 1    |
+|  4 | may 27 | chicago   | 1 - 2   | detroit | osgood     |        20066 | 4 - 1    |
++----+--------+-----------+---------+---------+------------+--------------+----------+
+Frase: in the 2008 - 09 detroit red wings season , among the games where detroit was a visitor , 3 of them were in detroit .
+Answer [t/f/n]: 
+
+
+# 30/30
+id: 47e9745076cad3673f6fbc01466469d93506d3af - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: hatem aqel
++----+------------------+-----------+---------+----------+-----------------------------------+
+|    | date             | venue     | score   | result   | competition                       |
+|----+------------------+-----------+---------+----------+-----------------------------------|
+|  0 | 16 december 2002 | kuwait    | 1 - 1   | draw     | 2002 arab nations cup             |
+|  1 | 17 october 2003  | amman     | 1 - 0   | win      | 2004 afc asian cup qualification  |
+|  2 | 18 february 2004 | amman     | 5 - 0   | win      | 2006 fifa world cup qualification |
+|  3 | 18 august 2004   | amman     | 1 - 1   | draw     | friendly                          |
+|  4 | 14 february 2006 | amman     | 2 - 0   | win      | friendly                          |
+|  5 | 22 february 2006 | amman     | 3 - 0   | win      | 2007 afc asian cup qualification  |
+|  6 | 28 january 2009  | singapore | 2 - 1   | loss     | 2011 afc asian cup qualification  |
+|  7 | 9 september 2009 | amman     | 1 - 3   | loss     | friendly                          |
+|  8 | 28 october 2013  | amman     | 1 - 0   | win      | friendly                          |
++----+------------------+-----------+---------+----------+-----------------------------------+
+Frase: the majority of competitions were in the 2007 afc asian cup qualification .
+Answer [t/f/n]: 
+
+

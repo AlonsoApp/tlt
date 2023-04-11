@@ -1,0 +1,669 @@
+Instrucciones
+A continuación verás 30 frases acompañadas de una tabla y su título (de la tabla). Las frases dicen algo de la tabla y tendrás que decir si lo que dice es cierto (t) o falso (f) en base a la información presente en la tabla y el título. 
+Si lo que se dice en la frase no está respaldado por ningún dato de la tabla o del título, la frase se considerará falsa. 
+Si la frase menciona información que pueda ser deducida de la tabla como resultado de de sumas, restas, medias, etc... la frase se considerará correcta.
+Puede que algunas frases estén mal escritas o que digan obviedades como 'in the 1975 formula one season, the race on march 1st was the only one to take place on march 1st'. En estos casos, si la frase se puede entender y lo que dice sigue siendo cierto, se considerarán ciertas (t).
+Hay casos extremos en los que las frases pueden no tener ningún sentido y sea imposible valorar si lo que dicen es cierto o falso. En estos casos la respuesta debe ser 'n' de nonsense.
+Escribe tu respuesta t, f o n en 'Answer [t/f/n]: ' por ejemplo para una frase correcta -> Answer [t/f/n]: t
+Cuando termines, guarda el archivo de texto y evíamelo de vuelta a me@email.com o por el canal que más fácil te resulte (Telegram, etc...)
+Si tienes alguna duda durante la evaluación preguntame sin problema :)
+Te agradezco mucho la ayuda ^^
+
+PARA VER BIEN LAS TABLAS: Si usas Sublime Text (cosa que recomiendo), vete a View y desactiva Word Wrap. Así, las tablas que no quepan en horizontal no pasarán a la siguiente línea (haciéndolas muy difíciles de leer).
+Si usas otro editor y quieres saber cómo desactivarlo, busca cómo desabilitar el 'line wrap' en google o pregúntame a mí.
+
+
+# 1/30
+id: 489d19643ba2f65d2fbed249936e3ddd66c2daf9 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: ana timotić
++----+-----------+----------------------------------+-----------+---------------+---------------+-----------+-------------------+-----------+-----------------------+
+|    |   edition | zone                             | round     | date          | against       | surface   | opponent          | outcome   | result                |
+|----+-----------+----------------------------------+-----------+---------------+---------------+-----------+-------------------+-----------+-----------------------|
+|  0 |      2005 | europe / africa group i c        | 1r        | 21 april 2005 | slovenia      | clay      | tina pisnik       | loss      | 6 - 0 , 6 - 1         |
+|  1 |      2005 | europe / africa group i c        | 2r        | 22 april 2005 | great britain | clay      | elena baltacha    | win       | 5 - 7 , 6 - 3 , 6 - 0 |
+|  2 |      2005 | europe / africa group play - off | semifinal | 23 april 2005 | israel        | clay      | shahar pe'er      | loss      | 6 - 4 , 4 - 6 , 6 - 3 |
+|  3 |      2006 | europe / africa group i b        | 1r        | 18 april 2006 | slovenia      | clay      | polona reberšak   | loss      | 6 - 3 , 6 - 2         |
+|  4 |      2006 | europe / africa group i b        | 3r        | 20 april 2006 | denmark       | clay      | eva dyrberg       | win       | 2 - 6 , 6 - 4 , 6 - 4 |
+|  5 |      2006 | europe / africa group i          | semifinal | 22 april 2006 | israel        | clay      | anna smashnova    | win       | 5 - 7 , 4 - 5 ret     |
+|  6 |      2007 | europe / africa group i c        | 1r        | 20 april 2007 | slovenia      | clay      | maša zec peškirič | loss      | 6 - 3 , 4 - 6 , 6 - 0 |
+|  7 |      2007 | europe / africa group i c        | semifinal | 21 april 2007 | romania       | clay      | mădălina gojnea   | loss      | 1 - 6 , 6 - 4 , 6 - 3 |
++----+-----------+----------------------------------+-----------+---------------+---------------+-----------+-------------------+-----------+-----------------------+
+Frase: the majority of matches that ana timotić played in were on a surface of clay .
+Answer [t/f/n]: t
+
+
+# 2/30
+id: 23646d39a036714cb1042b78667dd76981c60a90 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 2007 - 08 fis ski jumping world cup
++----+--------+-----------------------+---------------+-------------+-------------+----------+------------------------------+
+|    |   rank | name                  | nationality   |   1st ( m ) |   2nd ( m ) |   points | overall wc points ( rank )   |
+|----+--------+-----------------------+---------------+-------------+-------------+----------+------------------------------|
+|  0 |      1 | thomas morgenstern    | aut           |       132   |       128.5 |    272.4 | 1555 ( 1 )                   |
+|  1 |      2 | gregor schlierenzauer | aut           |       130.5 |       129   |    268.1 | 919 ( 2 )                    |
+|  2 |      3 | andreas kã ¼ ttel     | sui           |       128   |       130.5 |    260.8 | 584 ( 7 )                    |
+|  3 |      4 | janne ahonen          | fin           |       127.5 |       128.5 |    258.8 | 895 ( 3 )                    |
+|  4 |      5 | anders bardal         | nor           |       124.5 |       129.5 |    255.7 | 592 ( 6 )                    |
++----+--------+-----------------------+---------------+-------------+-------------+----------+------------------------------+
+Frase: thomas morgenstern scored the highest number of points in the 2007 - 08 fis ski jumping world cup .
+Answer [t/f/n]: t
+
+
+# 3/30
+id: ea73d7e8d65e1fd8e650d3e0020681f051a6f77e - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 2007 u.s. women 's open golf championship
++----+---------+-----------------+---------------+-------------------------+----------+---------+
+|    | place   | player          | country       | score                   | to par   |   money |
+|----+---------+-----------------+---------------+-------------------------+----------+---------|
+|  0 | 1       | cristie kerr    | united states | 71 + 72 + 66 + 70 = 279 | - 5      |  560000 |
+|  1 | t2      | angela park     | brazil        | 68 + 69 + 74 + 70 = 281 | - 3      |  271022 |
+|  2 | t2      | lorena ochoa    | mexico        | 71 + 71 + 68 + 71 = 281 | - 3      |  271022 |
+|  3 | t4      | se ri pak       | south korea   | 74 + 72 + 68 + 68 = 282 | - 2      |  130549 |
+|  4 | t4      | inbee park      | south korea   | 69 + 73 + 71 + 69 = 282 | - 2      |  130549 |
+|  5 | 6       | jiyai shin      | south korea   | 70 + 69 + 71 + 74 = 284 | e        |  103581 |
+|  6 | 7       | jee young lee   | south korea   | 72 + 71 + 71 + 71 = 285 | + 1      |   93031 |
+|  7 | t8      | mi hyun kim     | south korea   | 71 + 75 + 70 + 70 = 286 | + 2      |   82464 |
+|  8 | t8      | jeong jang      | south korea   | 72 + 71 + 70 + 73 = 286 | + 2      |   82464 |
+|  9 | t10     | ai miyazato     | japan         | 73 + 73 + 72 + 69 = 287 | + 3      |   66177 |
+| 10 | t10     | kyeong bae      | south korea   | 74 + 71 + 72 + 70 = 287 | + 3      |   66177 |
+| 11 | t10     | julieta granada | paraguay      | 70 + 69 + 75 + 73 = 287 | + 3      |   66177 |
+| 12 | t10     | morgan pressel  | united states | 71 + 70 + 69 + 77 = 287 | + 3      |   66177 |
++----+---------+-----------------+---------------+-------------------------+----------+---------+
+Frase: at the 2007 u.s. women 's open golf championship , the total prize money was 153030 .
+Answer [t/f/n]: f
+
+
+# 4/30
+id: e4a31c1422b206ffd3d49f2531c89a8307ed4d40 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: united states house of representatives elections , 1816
++----+---------------------------------------------+-----------------+-------------------------+-----------------+--------------------------------------+---------------------------------------------------------+
+|    | district                                    | incumbent       | party                   |   first elected | result                               | candidates                                              |
+|----+---------------------------------------------+-----------------+-------------------------+-----------------+--------------------------------------+---------------------------------------------------------|
+|  0 | pennsylvania 4                              | hugh glasgow    | democratic - republican |            1812 | retired democratic - republican hold | jacob spangler ( dr ) 67.1 % jacob hay ( f ) 32.9 %     |
+|  1 | pennsylvania 6 plural district with 2 seats | samuel d ingham | democratic - republican |            1812 | re - elected                         | john ross ( dr ) 50.8 % samuel d ingham ( dr ) 49.2 %   |
+|  2 | pennsylvania 6 plural district with 2 seats | john ross       | democratic - republican |            1814 | re - elected                         | john ross ( dr ) 50.8 % samuel d ingham ( dr ) 49.2 %   |
+|  3 | pennsylvania 8                              | william piper   | democratic - republican |            1810 | retired democratic - republican hold | alexander ogle ( dr ) 99.7 %                            |
+|  4 | pennsylvania 12                             | aaron lyle      | democratic - republican |            1808 | retired democratic - republican hold | thomas patterson ( dr ) 87.2 % john hughes ( f ) 12.8 % |
+|  5 | pennsylvania 14                             | john woods      | federalist              |            1814 | retired democratic - republican gain | henry baldwin ( dr ) 61.6 % walter lowrie ( dr ) 38.4 % |
++----+---------------------------------------------+-----------------+-------------------------+-----------------+--------------------------------------+---------------------------------------------------------+
+Frase: william piper was the only representative first elected in 1810 .
+Answer [t/f/n]: t
+
+
+# 5/30
+id: fb7000b3aa5eb3cd47562eaf853c2b296dff35ad - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: india at the 2010 asian games
++----+--------------------+---------------------------+-------------------------------------------+--------------------------------------------------+---------------------------------+-----------------+
+|    | athlete            | event                     | round of 32                               | round of 16                                      | quarterfinals                   | semifinals      |
+|----+--------------------+---------------------------+-------------------------------------------+--------------------------------------------------+---------------------------------+-----------------|
+|  0 | sunil kumar        | finweight ( - 54 kg )     | lakpa tashi sherpa ( bhu ) w pts 12 - 5   | abdulrahim abdulhameed ( brn ) l pts 2 - 8       | did not advance                 | did not advance |
+|  1 | surendra bhandari  | bantamweight ( - 63 kg )  | darkhan kassymkulov ( kaz ) l pts 7 - 8   | did not advance                                  | did not advance                 | did not advance |
+|  2 | chandan lakra      | featherweight ( - 68 kg ) | afifuddin omar sidek ( mas ) w pts 6 - 2  | naranchimegiin erdenebaatar ( mgl ) l pts 7 - 19 | did not advance                 | did not advance |
+|  3 | jasvant            | lightweight ( - 74 kg )   | sawatvilay phimmasone ( lao ) w pts 9 - 7 | yulius fernando ( ina ) l pts 5 - 6              | did not advance                 | did not advance |
+|  4 | anand pandia rajan | welterweight ( - 80 kg )  | bye                                       | eisa al - shammeri ( kuw ) w dsq                 | nabil talal ( jor ) l pts 3 - 3 | did not advance |
++----+--------------------+---------------------------+-------------------------------------------+--------------------------------------------------+---------------------------------+-----------------+
+Frase: the majority of athletes at the 2010 asian games did not advance to the quarterfinals .
+Answer [t/f/n]: t
+
+
+# 6/30
+id: 16543047b414fd9c0f5f12b4ef5c6e13aaa86f98 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: sheri - ann brooks
++----+--------+---------------------+-----------------------+----------+-----------------+
+|    |   year | tournament          | venue                 | result   | extra           |
+|----+--------+---------------------+-----------------------+----------+-----------------|
+|  0 |   2006 | commonwealth games  | melbourne , australia | 1st      | 100 m           |
+|  1 |   2006 | commonwealth games  | melbourne , australia | 5th      | 200 m           |
+|  2 |   2006 | commonwealth games  | melbourne , australia | 1st      | 4 x 100 m relay |
+|  3 |   2007 | pan american games  | rio , brazil          | 2nd      | 200 m           |
+|  4 |   2007 | pan american games  | rio , brazil          | 1st      | 4 x 400 m relay |
+|  5 |   2007 | world championships | osaka , japan         | 2nd      | 4 x 100 m relay |
++----+--------+---------------------+-----------------------+----------+-----------------+
+Frase: sheri - ann brooks finished in 5th place only once .
+Answer [t/f/n]: t
+
+
+# 7/30
+id: ec730184263425b3aa9daf4c764d4232a9cc25a8 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 2008 manx grand prix
++----+--------+----------------------+-----------------+------------+------------+
+|    |   rank | rider                | team            | speed      | time       |
+|----+--------+----------------------+-----------------+------------+------------|
+|  0 |      1 | roy richardson       | 349cc honda     | 99.814 mph | 1:08.02.42 |
+|  1 |      2 | paul coward          | 348cc k4 honda  | 98.136 mph | 1:09.12.26 |
+|  2 |      3 | ryan farquhar        | 347cc honda     | 97.873 mph | 1:09.23.39 |
+|  3 |      4 | rich hawkins         | 348cc k4 honda  | 97.743 mph | 1:09.29.85 |
+|  4 |      5 | wattie brown         | 350cc honda     | 94.349 mph | 1:11.58.88 |
+|  5 |      6 | john burrows         | 350cc honda     | 93.929 mph | 1:12.18.19 |
+|  6 |      7 | bob price            | 350cc honda     | 93.537 mph | 1:12.36.41 |
+|  7 |      8 | paul dobbs           | 350cc aermacchi | 93.161 mph | 1:12.53.99 |
+|  8 |      9 | dave madsen - mygdal | 349cc honda     | 92.922 mph | 1:13.05.25 |
+|  9 |     10 | alec whitwell        | 349cc honda     | 92.234 mph | 1:13.37.95 |
++----+--------+----------------------+-----------------+------------+------------+
+Frase: the majority of drivers in the 2008 manx grand prix drove at an average speed of 93 mph .
+Answer [t/f/n]: f
+
+
+# 8/30
+id: 034d79777c5b44c62fc1eacd7d79577358ad304e - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 2006 - 07 in welsh rugby union
++----+----------------------+----------+-------+---------+--------+--------------+------------------+-------------+----------+
+|    | club                 | played   | won   | drawn   | lost   | points for   | points against   | tries for   | points   |
+|----+----------------------+----------+-------+---------+--------+--------------+------------------+-------------+----------|
+|  0 | club                 | played   | won   | drawn   | lost   | points for   | points against   | tries for   | points   |
+|  1 | beddau rfc           | 22       | 19    | 0       | 3      | 654          | 321              | 85          | 57       |
+|  2 | bargoed rfc          | 22       | 17    | 0       | 5      | 665          | 436              | 89          | 51       |
+|  3 | newbridge rfc        | 22       | 17    | 0       | 5      | 516          | 281              | 63          | 51       |
+|  4 | pontypool rfc        | 22       | 15    | 0       | 7      | 515          | 370              | 59          | 45       |
+|  5 | fleur de lys rfc     | 22       | 10    | 0       | 12     | 422          | 523              | 49          | 30       |
+|  6 | uwic rfc             | 22       | 9     | 1       | 12     | 625          | 604              | 74          | 28       |
+|  7 | newport saracens rfc | 22       | 9     | 1       | 12     | 368          | 457              | 46          | 28       |
+|  8 | llanharan rfc        | 22       | 9     | 0       | 13     | 546          | 565              | 66          | 27       |
+|  9 | caerphilly rfc       | 22       | 9     | 0       | 14     | 402          | 572              | 47          | 24       |
+| 10 | blackwood rfc        | 22       | 6     | 1       | 15     | 433          | 511              | 51          | 19       |
+| 11 | abercynon rfc        | 22       | 5     | 2       | 15     | 365          | 718              | 45          | 17       |
+| 12 | ystrad rhondda rfc   | 22       | 5     | 1       | 16     | 417          | 570              | 47          | 16       |
++----+----------------------+----------+-------+---------+--------+--------------+------------------+-------------+----------+
+Frase: in 2006 - 07 in welsh rugby union , there were three clubs with over 50 points .
+Answer [t/f/n]: t
+
+
+# 9/30
+id: 26567c93a3156a2e276c91d86489649477cd1429 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 1955 vfl season
++----+-----------------+-------------------+-----------------+-------------------+-----------------------+---------+---------------+
+|    | home team       | home team score   | away team       | away team score   | venue                 |   crowd | date          |
+|----+-----------------+-------------------+-----------------+-------------------+-----------------------+---------+---------------|
+|  0 | st kilda        | 8.5 ( 53 )        | south melbourne | 11.16 ( 82 )      | junction oval         |   10150 | 6 august 1955 |
+|  1 | footscray       | 10.13 ( 73 )      | geelong         | 10.16 ( 76 )      | western oval          |   33902 | 6 august 1955 |
+|  2 | fitzroy         | 6.17 ( 53 )       | richmond        | 11.9 ( 75 )       | brunswick street oval |   14000 | 6 august 1955 |
+|  3 | north melbourne | 8.12 ( 60 )       | hawthorn        | 8.5 ( 53 )        | arden street oval     |    9000 | 6 august 1955 |
+|  4 | melbourne       | 16.23 ( 119 )     | essendon        | 7.12 ( 54 )       | mcg                   |   49352 | 6 august 1955 |
+|  5 | collingwood     | 12.17 ( 89 )      | carlton         | 7.10 ( 52 )       | victoria park         |   28000 | 6 august 1955 |
++----+-----------------+-------------------+-----------------+-------------------+-----------------------+---------+---------------+
+Frase: all games of the 1955 vfl season were played on the 6th of august .
+Answer [t/f/n]: t
+
+
+# 10/30
+id: 107c93ca1beb2de2c2befd80f837b17d6265124c - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: kjrt
++----+-------------+-----------------+---------------------+---------+---------+------------+
+|    | call sign   |   frequency mhz | city of license     |   erp w | class   | fcc info   |
+|----+-------------+-----------------+---------------------+---------+---------+------------|
+|  0 | k201bm      |            88.1 | canadian , texas    |      74 | d       | fcc        |
+|  1 | k202ck      |            88.3 | childress , texas   |     200 | d       | fcc        |
+|  2 | k216 gg     |            91.1 | plainview , texas   |      40 | a       | fcc        |
+|  3 | k220cp      |            91.9 | pampa , texas       |      67 | d       | fcc        |
+|  4 | k220iz      |            91.9 | perryton , texas    |     250 | d       | fcc        |
+|  5 | k220jz      |            91.9 | memphis , texas     |      25 | d       | fcc        |
+|  6 | k219lo      |            91.7 | hereford , texas    |      10 | d       | fcc        |
+|  7 | k229by      |            93.7 | tulia , texas       |     100 | d       | fcc        |
+|  8 | k291aq      |           106.1 | dumas , texas       |      92 | d       | fcc        |
+|  9 | k202ag      |            88.3 | elk city , oklahoma |      38 | d       | fcc        |
++----+-------------+-----------------+---------------------+---------+---------+------------+
+Frase: the majority of kjrt radio channels are in texas .
+Answer [t/f/n]: t
+
+
+# 11/30
+id: ad9405c80daba720c59bda8f63e7af8eed2fc5ce - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: list of awards and nominations received by renée zellweger
++----+--------+----------------------------------+------------------------------------+-----------+----------------------------------------+
+|    |   year | category                         | film                               | result    | lost to                                |
+|----+--------+----------------------------------+------------------------------------+-----------+----------------------------------------|
+|  0 |   2000 | best actress - musical or comedy | nurse betty                        | won       | -                                      |
+|  1 |   2001 | best actress - musical or comedy | bridget jones 's diary             | nominated | nicole kidman ( moulin rouge ! )       |
+|  2 |   2002 | best actress - musical or comedy | chicago                            | won       | -                                      |
+|  3 |   2003 | best supporting actress          | cold mountain                      | won       | -                                      |
+|  4 |   2004 | best actress - musical or comedy | bridget jones : the edge of reason | nominated | annette bening ( being julia )         |
+|  5 |   2006 | best actress - musical or comedy | miss potter                        | nominated | meryl streep ( the devil wears prada ) |
++----+--------+----------------------------------+------------------------------------+-----------+----------------------------------------+
+Frase: six of renée zellweger 's nominations and awards were for the film " renée zellweger " .
+Answer [t/f/n]: f
+
+
+# 12/30
+id: 8942614f3c646318c162b98e1b14c60e811fb893 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 2004 cfl draft
++----+--------+--------------------------+-------------------------+------------+-------------------+
+|    |   pick | cfl team                 | player                  | position   | college           |
+|----+--------+--------------------------+-------------------------+------------+-------------------|
+|  0 |      1 | hamilton tiger - cats    | wayne smith             | ol         | appalachian state |
+|  1 |      2 | ottawa renegades         | ibrahim khan            | ol         | simon fraser      |
+|  2 |      3 | ottawa renegades         | david azzi              | wr         | ottawa            |
+|  3 |      4 | toronto argonauts        | mark moroz              | ol         | wake forest       |
+|  4 |      5 | bc lions                 | oj atogwe               | s          | stanford          |
+|  5 |      6 | saskatchewan roughriders | ducamel augustin        | fb         | villanova         |
+|  6 |      7 | toronto argonauts        | jean - fredric tremblay | wr         | laval             |
+|  7 |      8 | montreal alouettes       | alain kashama           | dl         | michigan          |
+|  8 |      9 | edmonton eskimos         | amarpreet sanghera      | ol         | british columbia  |
++----+--------+--------------------------+-------------------------+------------+-------------------+
+Frase: mark moroz was the only player that was drafted from wake forest .
+Answer [t/f/n]: t
+
+
+# 13/30
+id: 87928c7b0622798da79b8a0febc248adc56e444d - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: the universal masters collection ( grace jones album )
++----+-----------+--------+----------------------------------------+----------------+----------------------+
+|    | region    |   year | name                                   | format ( s )   | label                |
+|----+-----------+--------+----------------------------------------+----------------+----------------------|
+|  0 | worldwide |   2003 | the universal masters collection       | cd             | universal            |
+|  1 | japan     |   2005 | best 1200                              | cd             | universal            |
+|  2 | worldwide |   2006 | colour collection                      | cd             | universal            |
+|  3 | germany   |   2008 | star - club prã ¤ sentiert grace jones | cd             | universal            |
+|  4 | worldwide |   2008 | classic grace jones                    | cd , download  | universal , spectrum |
++----+-----------+--------+----------------------------------------+----------------+----------------------+
+Frase: 2008 was the only year that the universal masters collection was released in 2008 .
+Answer [t/f/n]: n
+
+
+# 14/30
+id: 1d95c92eb31a735bd37e244a26e1938001ba3be6 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: outline of hungary
++----+----------------------------+----------------+----------------------+--------------+----------------------+--------------------+
+|    | name of county             | county seat    |   area ( km square ) |   population |   population density |   towns / villages |
+|----+----------------------------+----------------+----------------------+--------------+----------------------+--------------------|
+|  0 | bács - kiskun              | kecskemét      |                 8445 |       541584 |                   64 |                119 |
+|  1 | baranya                    | pécs           |                 4430 |       402260 |                   91 |                301 |
+|  2 | békés                      | békéscsaba     |                 5631 |       392845 |                   70 |                 75 |
+|  3 | borsod - abaúj - zemplén   | miskolc        |                 7247 |       739143 |                  102 |                355 |
+|  4 | csongrád                   | szeged         |                 4263 |       425785 |                  100 |                 60 |
+|  5 | fejér                      | székesfehérvár |                 4359 |       428579 |                   98 |                108 |
+|  6 | győr - moson - sopron      | győr           |                 4208 |       440138 |                  105 |                182 |
+|  7 | hajdú - bihar              | debrecen       |                 6211 |       550265 |                   89 |                 82 |
+|  8 | heves                      | eger           |                 3637 |       323769 |                   89 |                119 |
+|  9 | jász - nagykun - szolnok   | szolnok        |                 5582 |       413174 |                   74 |                 75 |
+| 10 | komárom - esztergom        | tatabánya      |                 2265 |       315886 |                  139 |                 76 |
+| 11 | nógrád                     | salgótarján    |                 2546 |       218218 |                   86 |                129 |
+| 12 | pest                       | budapest       |                 6393 |      1124395 |                  176 |                186 |
+| 13 | somogy                     | kaposvár       |                 6036 |       334065 |                   55 |                244 |
+| 14 | szabolcs - szatmár - bereg | nyíregyháza    |                 5936 |       583564 |                   98 |                228 |
+| 15 | tolna                      | szekszárd      |                 3703 |       247287 |                   67 |                108 |
+| 16 | vas                        | szombathely    |                 3336 |       266342 |                   80 |                216 |
+| 17 | veszprém                   | veszprém       |                 4493 |       368519 |                   82 |                217 |
++----+----------------------------+----------------+----------------------+--------------+----------------------+--------------------+
+Frase: borsod - abaúj - zemplén is the only county seat in outline of hungary that has a population less than 350 .
+Answer [t/f/n]: f
+
+
+# 15/30
+id: 209a7e19717f28bbaa86d0aa56dbd3f2431fa876 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: catalina sandino moreno
++----+--------+---------------------------------------------+---------------------+------------------------------------------+-----------+
+|    |   year | award                                       | nominated work      | category                                 | result    |
+|----+--------+---------------------------------------------+---------------------+------------------------------------------+-----------|
+|  0 |   2004 | academy awards                              | maria full of grace | best actress                             | nominated |
+|  1 |   2004 | screen actors guild awards                  | maria full of grace | best actress                             | nominated |
+|  2 |   2004 | independent spirit awards                   | maria full of grace | best female lead                         | won       |
+|  3 |   2004 | chicago film critics association            | maria full of grace | most promising performer                 | won       |
+|  4 |   2004 | colombian cinema award                      | maria full of grace | best actress                             | won       |
+|  5 |   2004 | gotham awards                               | maria full of grace | breakthrough performance                 | won       |
+|  6 |   2004 | imagen foundation awards                    | maria full of grace | best actress - film                      | won       |
+|  7 |   2004 | los angeles film critics association awards | maria full of grace | award for new generation                 | won       |
+|  8 |   2004 | online film critics society awards          | maria full of grace | best breakthrough performance            | won       |
+|  9 |   2004 | premios ace                                 | maria full of grace | best actress                             | won       |
+| 10 |   2004 | seattle international film festival         | maria full of grace | best actress                             | won       |
+| 11 |   2004 | showest award                               | maria full of grace | international star of the year           | won       |
+| 12 |   2004 | berlin international film festival          | maria full of grace | best actress                             | won       |
+| 13 |   2004 | broadcast film critics association          | maria full of grace | best actress                             | nominated |
+| 14 |   2004 | chlotrudis awards                           | maria full of grace | best actress                             | nominated |
+| 15 |   2004 | satellite awards                            | maria full of grace | best actress in a motion picture , drama | nominated |
+| 16 |   2005 | london critics circle film awards           | maria full of grace | actress of the year                      | nominated |
++----+--------+---------------------------------------------+---------------------+------------------------------------------+-----------+
+Frase: catalina sandino had a result of nominated for a total of six awards .
+Answer [t/f/n]: t
+
+
+# 16/30
+id: 19b26a368242e18fec7c825f4cc95c91f61efcb9 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: soybean oil
++----+---------------------------------------+-------------+-----------------+-------------------------------------+------------------------------------+-------------------------+
+|    |                                       | total fat   | saturated fat   | monounsaturated fat                 | polyunsaturated fat                | smoke point             |
+|----+---------------------------------------+-------------+-----------------+-------------------------------------+------------------------------------+-------------------------|
+|  0 | sunflower oil                         | 100 g       | 11 g            | 20 g ( 84 g in high oleic variety ) | 69 g ( 4 g in high oleic variety ) | degree                  |
+|  1 | soybean oil                           | 100 g       | 16 g            | 23 g                                | 58 g                               | degree                  |
+|  2 | canola oil                            | 100 g       | 7 g             | 63 g                                | 28 g                               | degree                  |
+|  3 | olive oil                             | 100 g       | 14 g            | 73 g                                | 11 g                               | degree                  |
+|  4 | corn oil                              | 100 g       | 15 g            | 30 g                                | 55 g                               | degree                  |
+|  5 | peanut oil                            | 100 g       | 17 g            | 46 g                                | 32 g                               | degree                  |
+|  6 | rice bran oil                         | 100 g       | 25 g            | 38 g                                | 37 g                               | degree                  |
+|  7 | vegetable shortening ( hydrogenated ) | 71 g        | 23 g ( 34 % )   | 8 g ( 11 % )                        | 37 g ( 52 % )                      | degree                  |
+|  8 | lard                                  | 100 g       | 39 g            | 45 g                                | 11 g                               | degree                  |
+|  9 | suet                                  | 94 g        | 52 g ( 55 % )   | 32 g ( 34 % )                       | 3 g ( 3 % )                        | 200degree ( 400degree ) |
++----+---------------------------------------+-------------+-----------------+-------------------------------------+------------------------------------+-------------------------+
+Frase: the vegetable shortening ( hydrogenated ) has the fourth highest saturated fat in soybean oil .
+Answer [t/f/n]: t
+
+
+# 17/30
+id: 9ac3a6ab4dc0f7c936a5717ef9fe62c6320bfd91 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: list of presidents of fifa
++----+--------------+------------------------+--------------------+---------------+---------------+
+|    |   presidency | president              | date of birth      |   took office | left office   |
+|----+--------------+------------------------+--------------------+---------------+---------------|
+|  0 |            1 | robert guérin          | 1876               |          1904 | 1906          |
+|  1 |            2 | daniel burley woolfall | june 15 , 1852     |          1906 | 1918          |
+|  2 |            3 | jules rimet            | october 14 , 1873  |          1921 | 1954          |
+|  3 |            4 | rodolphe seeldrayers   | december 16 , 1876 |          1954 | 1955          |
+|  4 |            5 | arthur drewry          | march 3 , 1891     |          1955 | 1961          |
+|  5 |            6 | stanley rous           | april 25 , 1895    |          1961 | 1974          |
+|  6 |            7 | joão havelange         | may 8 , 1916       |          1974 | 1998          |
+|  7 |            8 | sepp blatter           | march 10 , 1936    |          1998 | incumbent     |
++----+--------------+------------------------+--------------------+---------------+---------------+
+Frase: two of the presidents of the fifa were born in the 1960s .
+Answer [t/f/n]: f
+
+
+# 18/30
+id: 0b0ad23652065569c9869438537b66a05aff9ccf - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: seattle supersonics all - time roster
++----+-----------------+---------------+-----------------------+------------+-------------------------+------------------+
+|    | player          | nationality   | jersey number ( s )   | position   | years                   | from             |
+|----+-----------------+---------------+-----------------------+------------+-------------------------+------------------|
+|  0 | craig ehlo      | united states | 3                     | sg         | 1996 - 1997             | washington state |
+|  1 | dale ellis      | united states | 3                     | sg / sf    | 1986 - 1991 1997 - 1999 | tennessee        |
+|  2 | pervis ellison  | united states | 29                    | c          | 2000                    | louisville       |
+|  3 | francisco elson | netherlands   | 16                    | c          | 2008                    | california       |
+|  4 | reggie evans    | united states | 34 , 30               | pf         | 2002 - 2006             | iowa             |
+|  5 | patrick ewing   | united states | 33                    | center     | 2000 - 2001             | georgetown       |
++----+-----------------+---------------+-----------------------+------------+-------------------------+------------------+
+Frase: foulisco elson played for the supersonics after pervis ellison .
+Answer [t/f/n]: f
+
+
+# 19/30
+id: 48215cf424ac507d08b292d2672aa7e6ac259c0f - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 1949 vfl season
++----+-------------+-------------------+-----------------+-------------------+----------------+---------+--------------+
+|    | home team   | home team score   | away team       | away team score   | venue          |   crowd | date         |
+|----+-------------+-------------------+-----------------+-------------------+----------------+---------+--------------|
+|  0 | st kilda    | 16.15 ( 111 )     | south melbourne | 13.13 ( 91 )      | junction oval  |    6000 | 16 july 1949 |
+|  1 | essendon    | 8.22 ( 70 )       | north melbourne | 6.13 ( 49 )       | windy hill     |   16000 | 16 july 1949 |
+|  2 | collingwood | 7.16 ( 58 )       | melbourne       | 10.13 ( 73 )      | victoria park  |   22000 | 16 july 1949 |
+|  3 | carlton     | 9.13 ( 67 )       | fitzroy         | 9.8 ( 62 )        | princes park   |   17500 | 16 july 1949 |
+|  4 | richmond    | 16.21 ( 117 )     | hawthorn        | 9.13 ( 67 )       | punt road oval |    7000 | 16 july 1949 |
+|  5 | geelong     | 13.15 ( 93 )      | footscray       | 4.10 ( 34 )       | kardinia park  |   15000 | 16 july 1949 |
++----+-------------+-------------------+-----------------+-------------------+----------------+---------+--------------+
+Frase: all games of the 1949 vfl season were played on the 16th of july .
+Answer [t/f/n]: t
+
+
+# 20/30
+id: 3b1e3287b8f9db13a7656cf0e2a2f631d4f200ea - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 2007 u.s. women 's open golf championship
++----+---------+-----------------+---------------+-------------------------+----------+---------+
+|    | place   | player          | country       | score                   | to par   |   money |
+|----+---------+-----------------+---------------+-------------------------+----------+---------|
+|  0 | 1       | cristie kerr    | united states | 71 + 72 + 66 + 70 = 279 | - 5      |  560000 |
+|  1 | t2      | angela park     | brazil        | 68 + 69 + 74 + 70 = 281 | - 3      |  271022 |
+|  2 | t2      | lorena ochoa    | mexico        | 71 + 71 + 68 + 71 = 281 | - 3      |  271022 |
+|  3 | t4      | se ri pak       | south korea   | 74 + 72 + 68 + 68 = 282 | - 2      |  130549 |
+|  4 | t4      | inbee park      | south korea   | 69 + 73 + 71 + 69 = 282 | - 2      |  130549 |
+|  5 | 6       | jiyai shin      | south korea   | 70 + 69 + 71 + 74 = 284 | e        |  103581 |
+|  6 | 7       | jee young lee   | south korea   | 72 + 71 + 71 + 71 = 285 | + 1      |   93031 |
+|  7 | t8      | mi hyun kim     | south korea   | 71 + 75 + 70 + 70 = 286 | + 2      |   82464 |
+|  8 | t8      | jeong jang      | south korea   | 72 + 71 + 70 + 73 = 286 | + 2      |   82464 |
+|  9 | t10     | ai miyazato     | japan         | 73 + 73 + 72 + 69 = 287 | + 3      |   66177 |
+| 10 | t10     | kyeong bae      | south korea   | 74 + 71 + 72 + 70 = 287 | + 3      |   66177 |
+| 11 | t10     | julieta granada | paraguay      | 70 + 69 + 75 + 73 = 287 | + 3      |   66177 |
+| 12 | t10     | morgan pressel  | united states | 71 + 70 + 69 + 77 = 287 | + 3      |   66177 |
++----+---------+-----------------+---------------+-------------------------+----------+---------+
+Frase: in the 2007 u.s. women 's open , most of the players were from south korea .
+Answer [t/f/n]: t
+
+
+# 21/30
+id: 29db4fb601b8154cb359f460407b1440404d50f0 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: atlanta falcons draft history
++----+---------+--------+-----------+-----------------+------------------+-------------------+
+|    |   round |   pick |   overall | name            | position         | college           |
+|----+---------+--------+-----------+-----------------+------------------+-------------------|
+|  0 |       1 |      6 |         6 | warren bryant   | offensive tackle | kentucky          |
+|  1 |       1 |     20 |        20 | wilson faumuina | defensive tackle | san josã state    |
+|  2 |       2 |      8 |        36 | r c thielemann  | guard            | arkansas          |
+|  3 |       4 |      6 |        90 | allan leavitt   | kicker           | georgia           |
+|  4 |       5 |      8 |       120 | shelton diggs   | wide receiver    | usc               |
+|  5 |       6 |     22 |       161 | keith jenkins   | defensive back   | cincinnati        |
+|  6 |       8 |      8 |       203 | walter packer   | wide receiver    | mississippi state |
+|  7 |       9 |      7 |       230 | john maxwell    | offensive tackle | boston college    |
+|  8 |       9 |     19 |       242 | robert speer    | defensive end    | arkansas state    |
+|  9 |      10 |      6 |       257 | billy ryckman   | wide receiver    | louisiana tech    |
+| 10 |      11 |      8 |       287 | dave farmer     | running back     | usc               |
+| 11 |      12 |      7 |       312 | don parrish     | defensive tackle | pittsburgh        |
++----+---------+--------+-----------+-----------------+------------------+-------------------+
+Frase: dave farmer was drafted higher overall by the atlanta falcons than don parrish .
+Answer [t/f/n]: f
+
+
+# 22/30
+id: 9ff1fecf859fd74f830402fe8b6df1b595ecdbf0 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: uk singles chart records and statistics
++----+------------+--------------------------+-------------------------------------+-----------------------+----------+
+|    | position   | artist                   | single                              | year                  | weeks    |
+|----+------------+--------------------------+-------------------------------------+-----------------------+----------|
+|  0 | 1st        | frankie laine            | i believe                           | 1953                  | 18 weeks |
+|  1 | 2nd        | bryan adams              | ( everything i do ) i do it for you | 1991                  | 16 weeks |
+|  2 | 3rd        | wet wet wet              | love is all around                  | 1994                  | 15 weeks |
+|  3 | 4th        | queen                    | bohemian rhapsody                   | 1975 / 76 & 1991 / 92 | 14 weeks |
+|  4 | 5th        | slim whitman             | rose marie                          | 1955                  | 11 weeks |
+|  5 | 6th        | david whitfield          | cara mia                            | 1954                  | 10 weeks |
+|  6 | 6th        | whitney houston          | i will always love you              | 1992                  | 10 weeks |
+|  7 | 6th        | rihanna ( feat jay - z ) | umbrella                            | 2007                  | 10 weeks |
++----+------------+--------------------------+-------------------------------------+-----------------------+----------+
+Frase: only one song on the uk singles chart was released after the other two songs .
+Answer [t/f/n]: n
+
+
+# 23/30
+id: 9f36ff11d9dcc62bd1f995c1b6ca856dd36bec8d - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: sleepless nights ( patty loveless album )
++----+---------+-----------------------------------------------+------------------------------------------------+-------------------------------+--------------------+----------+
+|    |   track | song title                                    | writer ( s )                                   | original artist               |   original release | length   |
+|----+---------+-----------------------------------------------+------------------------------------------------+-------------------------------+--------------------+----------|
+|  0 |       1 | why baby why                                  | darrell edwards , george jones                 | george jones                  |               1955 | 2:18     |
+|  1 |       2 | the pain of loving you                        | dolly parton , porter wagoner                  | porter wagoner & dolly parton |               1971 | 2:46     |
+|  2 |       3 | he thinks i still care                        | dickey lee                                     | george jones                  |               1962 | 2:59     |
+|  3 |       4 | sleepless nights ( featuring vince gill )     | boudleaux bryant , felice bryant               | everly brothers               |               1960 | 4:21     |
+|  4 |       5 | crazy arms                                    | ralph mooney , chuck seals                     | ray price                     |               1956 | 4:00     |
+|  5 |       6 | there stands the glass                        | audrey greisham , russ hull , mary jean shurtz | webb pierce                   |               1953 | 2:35     |
+|  6 |       7 | that 's all it took ( featuring jedd hughes ) | darrell edwards , carlos grier , jones         | george jones & gene pitney    |               1966 | 2:35     |
+|  7 |       8 | color of the blues                            | jones , lawton williams                        | george jones                  |               1958 | 3:06     |
+|  8 |       9 | i forgot more than you 'll ever know          | cecil null                                     | the davis sisters             |               1953 | 3:30     |
+|  9 |      10 | next in line                                  | wayne kemp , curtis wayne                      | conway twitty                 |               1968 | 3:06     |
+| 10 |      11 | do n't let me cross over                      | penny jay                                      | carl butler and pearl         |               1962 | 3:23     |
+| 11 |      12 | please help me i 'm falling                   | hal blair , don robertson                      | hank locklin                  |               1960 | 2:40     |
+| 12 |      13 | there goes my everything                      | dallas frazier                                 | jack greene                   |               1966 | 2:50     |
+| 13 |      14 | cold , cold heart                             | hank williams                                  | hank williams                 |               1951 | 2:53     |
+| 14 |      15 | we 'll sweep out the ashes in the morning     | joyce ann allsup                               | carl butler & pearl           |               1969 | 3:14     |
+| 15 |      16 | if teardrops were pennies                     | carl butler                                    | carl smith                    |               1951 | 2:38     |
++----+---------+-----------------------------------------------+------------------------------------------------+-------------------------------+--------------------+----------+
+Frase: the average release of the songs on the patty loveless album was 1960 .
+Answer [t/f/n]: t
+
+
+# 24/30
+id: df6e33895715199fd34d1aa268789c8e46780c5a - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: manila
++----+-------------+--------------+------------------------------+----------------+---------------------------+
+|    | district    |   s barangay |   population ( 2010 census ) |   area ( has ) |   pop density ( per km2 ) |
+|----+-------------+--------------+------------------------------+----------------+---------------------------|
+|  0 | binondo     |           10 |                        12985 |          66.11 |                   19641.5 |
+|  1 | ermita      |           13 |                         7143 |         158.91 |                    4495   |
+|  2 | intramuros  |            5 |                         4925 |          67.26 |                    7322.3 |
+|  3 | malate      |           57 |                        77513 |         259.58 |                   29860.9 |
+|  4 | paco        |           43 |                        70978 |         278.69 |                   25468.4 |
+|  5 | pandacan    |           38 |                        73895 |         166    |                   44515.1 |
+|  6 | port area   |            5 |                        57405 |         315.28 |                   18207.6 |
+|  7 | quiapo      |           16 |                        24886 |          84.69 |                   29384.8 |
+|  8 | sampaloc    |          192 |                       241528 |         513.71 |                   47016.4 |
+|  9 | san andrãs  |           65 |                       115942 |         168.02 |                   69004.9 |
+| 10 | san miguel  |           12 |                        15992 |          91.37 |                   17502.5 |
+| 11 | san nicolas |           15 |                        44241 |         163.85 |                   27000.9 |
+| 12 | santa ana   |           34 |                        60952 |         169.42 |                   35976.9 |
+| 13 | santa cruz  |           82 |                       115747 |         309.01 |                   37457.4 |
+| 14 | santa mesa  |           51 |                        99933 |         261.01 |                   38287   |
++----+-------------+--------------+------------------------------+----------------+---------------------------+
+Frase: the average population of districts in manila in 2010 was 68,253 .
+Answer [t/f/n]: t
+
+
+# 25/30
+id: 66f8e3a4a0276ba52c1998a221b8dffdb310764e - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 2008 chicago bears season
++----+-------------------------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------+
+|    | round                         | pick                          | player                        | position                      | college                       |
+|----+-------------------------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------|
+|  0 | 1                             | 14                            | chris williams                | ot                            | vanderbilt                    |
+|  1 | 2                             | 44                            | matt forte                    | rb                            | tulane                        |
+|  2 | 3                             | 70                            | earl bennett                  | wr                            | vanderbilt                    |
+|  3 | 3                             | 90                            | marcus harrison               | dt                            | arkansas                      |
+|  4 | 4                             | 120                           | craig steltz                  | s                             | lsu                           |
+|  5 | 5                             | 142                           | zack bowman                   | cb                            | nebraska                      |
+|  6 | 5                             | 158                           | kellen davis                  | te                            | michigan state                |
+|  7 | 7                             | 208                           | ervin baldwin                 | de                            | michigan state                |
+|  8 | 7                             | 222                           | chester adams                 | og                            | georgia                       |
+|  9 | 7                             | 243                           | joey larocque                 | lb                            | oregon state                  |
+| 10 | 7                             | 247                           | kirk barton                   | ot                            | ohio state                    |
+| 11 | 7                             | 248                           | marcus monk                   | wr                            | arkansas                      |
+| 12 | according to official website | according to official website | according to official website | according to official website | according to official website |
++----+-------------------------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------+
+Frase: marcus harrison was the fourth highest drafted player for the 2008 chicago bears .
+Answer [t/f/n]: t
+
+
+# 26/30
+id: dee3159055a46f9e8b848ee8ee5664322c1b3045 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 2004 buffalo bills season
++----+---------+--------+-----------------+------------------+--------------+
+|    |   round |   pick | player          | position         | college      |
+|----+---------+--------+-----------------+------------------+--------------|
+|  0 |       1 |     13 | lee evans       | wide receiver    | wisconsin    |
+|  1 |       1 |     22 | jp losman       | quarterback      | tulane       |
+|  2 |       3 |     74 | tim anderson    | defensive tackle | ohio state   |
+|  3 |       4 |    109 | tim euhus       | tight end        | oregon state |
+|  4 |       7 |    207 | dylan mcfarland | offensive tackle | montana      |
+|  5 |       7 |    214 | jonathan smith  | wide receiver    | georgia tech |
++----+---------+--------+-----------------+------------------+--------------+
+Frase: in the 2004 buffalo bills season , there were 2 players picked in round 7 .
+Answer [t/f/n]: t
+
+
+# 27/30
+id: ff8f311d7c9a8eff57aae9d5fa8bde49f9bf7fab - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: modern guilt
++----+----------------+---------------+---------+------------------+---------------+
+|    | region         | date          | label   | format           | catalog       |
+|----+----------------+---------------+---------+------------------+---------------|
+|  0 | world          | july 8 , 2008 | dgc     | digital download |               |
+|  1 | argentina      | july 8 , 2008 | dgc     | cd               | 1775441       |
+|  2 | australia      | july 8 , 2008 | dgc     | cd               | 1775441       |
+|  3 | canada         | july 8 , 2008 | dgc     | cd               | b001150702    |
+|  4 | united states  | july 8 , 2008 | dgc     | cd               | b0011507 - 02 |
+|  5 | united states  | july 8 , 2008 | dgc     | lp               | b0011630 - 01 |
+|  6 | united kingdom | july 8 , 2008 | dgc     | cd               | b001150702    |
+|  7 | united kingdom | july 8 , 2008 | xl      | cd               | xlcd369       |
+|  8 | united kingdom | july 8 , 2008 | xl      | lp               | xllp 369      |
+|  9 | europe         | july 8 , 2008 | xl      | lp               | xllp 369      |
+| 10 | europe         | july 8 , 2008 | xl      | cd               | xlcd369       |
++----+----------------+---------------+---------+------------------+---------------+
+Frase: the first release of the modern guilt album was in july of 2008 .
+Answer [t/f/n]: t
+
+
+# 28/30
+id: 2bea2b0520e89cb87f84dc8b314903bca53422bc - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: judo at the 1997 mediterranean games
++----+--------+------------+--------+----------+----------+---------+
+|    | rank   | nation     |   gold |   silver |   bronze |   total |
+|----+--------+------------+--------+----------+----------+---------|
+|  0 | 1      | france     |      7 |        3 |        4 |      14 |
+|  1 | 2      | italy      |      5 |        2 |        5 |      12 |
+|  2 | 3      | spain      |      1 |        2 |        6 |       9 |
+|  3 | 4      | turkey     |      1 |        1 |        4 |       5 |
+|  4 | 5      | algeria    |      0 |        2 |        1 |       3 |
+|  5 | 6 =    | tunisia    |      0 |        1 |        3 |       4 |
+|  6 | 6 =    | yugoslavia |      0 |        1 |        3 |       4 |
+|  7 | 8 =    | egypt      |      0 |        1 |        0 |       1 |
+|  8 | 8 =    | slovenia   |      0 |        1 |        0 |       1 |
+|  9 | 10     | morocco    |      0 |        0 |        2 |       2 |
++----+--------+------------+--------+----------+----------+---------+
+Frase: in judo at the 1997 mediterranean games , most countries won 0 gold medals .
+Answer [t/f/n]: t
+
+
+# 29/30
+id: 98f783e7a8916895eaba20e217bcc2a0edcb96e5 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: stephin merritt discography
++----+--------------------------------+----------+--------+--------------------+-----------------------+
+|    | album title                    | format   |   year | original label     | chart positions       |
+|----+--------------------------------+----------+--------+--------------------+-----------------------|
+|  0 | distant plastic trees          | lp       |   1991 | red flame          | -                     |
+|  1 | the wayward bus                | lp       |   1992 | popup              | -                     |
+|  2 | the house of tomorrow          | ep       |   1992 | feel good all over | -                     |
+|  3 | the charm of the highway strip | lp       |   1994 | merge records      | -                     |
+|  4 | holiday                        | lp       |   1994 | feel good all over | -                     |
+|  5 | get lost                       | lp       |   1995 | merge records      | -                     |
+|  6 | 69 love songs                  | lp       |   1999 | merge records      | -                     |
+|  7 | i                              | lp       |   2004 | nonesuch records   | 152 ( billboard 200 ) |
+|  8 | distortion                     | lp       |   2008 | nonesuch records   | 77 ( billboard 200 )  |
+|  9 | realism                        | lp       |   2010 | nonesuch records   | 110 ( billboard 200 ) |
+| 10 | love at the bottom of the sea  | lp       |   2012 | merge records      | 89 ( billboard 200 )  |
++----+--------------------------------+----------+--------+--------------------+-----------------------+
+Frase: the majority of these albums were released in lp format .
+Answer [t/f/n]: t
+
+
+# 30/30
+id: d402cda8a03588818755a66ea3a108d3dc1c8adb - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: joseba etxeberria
++----+------------------+--------------------------------------------+---------+----------+------------------------------+
+|    | date             | venue                                      | score   | result   | competition                  |
+|----+------------------+--------------------------------------------+---------+----------+------------------------------|
+|  0 | 19 november 1997 | lluís sitjar , palma , spain               | 1 - 0   | 1 - 1    | friendly                     |
+|  1 | 25 march 1998    | balaídos , vigo , spain                    | 4 - 0   | 4 - 0    | friendly                     |
+|  2 | 14 october 1998  | ramat gan , tel aviv , israel              | 1 - 2   | 1 - 2    | euro 2000 qualifying         |
+|  3 | 31 march 1999    | olimpico , serravalle , san marino         | 0 - 6   | 0 - 6    | euro 2000 qualifying         |
+|  4 | 5 june 1999      | el madrigal , vila - real , spain          | 3 - 0   | 9 - 0    | euro 2000 qualifying         |
+|  5 | 5 june 1999      | el madrigal , vila - real , spain          | 4 - 0   | 9 - 0    | euro 2000 qualifying         |
+|  6 | 18 june 2000     | amsterdam arena , amsterdam , netherlands  | 1 - 2   | 1 - 2    | uefa euro 2000               |
+|  7 | 2 september 2000 | koševo , sarajevo , bosnia and herzegovina | 1 - 2   | 1 - 2    | 2002 world cup qualification |
+|  8 | 29 march 2003    | olimpiyskiy , kiev , ukraine               | 1 - 2   | 2 - 2    | euro 2004 qualifying         |
+|  9 | 6 november 2003  | afonso henriques , guimarães , portugal    | 0 - 1   | 0 - 3    | friendly                     |
+| 10 | 19 november 2003 | ullevaal , oslo , norway                   | 0 - 3   | 0 - 3    | euro 2004 qualifying         |
+| 11 | 18 february 2004 | lluís companys , barcelona , spain         | 1 - 1   | 2 - 1    | friendly                     |
++----+------------------+--------------------------------------------+---------+----------+------------------------------+
+Frase: joseba etxeberria 's score on november 19 , 1997 was the only score of any of her competitions .
+Answer [t/f/n]: n
+
+

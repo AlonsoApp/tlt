@@ -1,0 +1,20 @@
+torch==1.11.0
+pytictoc==1.5.2
+tqdm==4.64.0
+numpy==1.22.3
+pandas==1.4.2
+matplotlib==3.5.1
+seaborn==0.11.2
+six==1.16.0
+treelib==1.6.1
+transformers==4.18.0
+more-itertools==8.12.0
+tensorboard==2.8.0
+tabulate==0.8.9
+sacrebleu==2.1.0
+rouge-score==0.0.4
+datasets==2.2.2
+scipy==1.8.0
+scikit-learn==1.1.1 # to calculate cohens kappa in human_faithfulness.py
+zss==1.2.0 # to calculate disntance between two trees in cualitative_analysis.py
+bert_score==0.3.12

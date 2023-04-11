@@ -1,0 +1,672 @@
+Instrucciones
+A continuación verás 30 frases acompañadas de una tabla y su título (de la tabla). Las frases dicen algo de la tabla y tendrás que decir si lo que dice es cierto (t) o falso (f) en base a la información presente en la tabla y el título. 
+Si lo que se dice en la frase no está respaldado por ningún dato de la tabla o del título, la frase se considerará falsa. 
+Si la frase menciona información que pueda ser deducida de la tabla como resultado de de sumas, restas, medias, etc... la frase se considerará correcta.
+Puede que algunas frases estén mal escritas o que digan obviedades como 'in the 1975 formula one season, the race on march 1st was the only one to take place on march 1st'. En estos casos, si la frase se puede entender y lo que dice sigue siendo cierto, se considerarán ciertas (t).
+Hay casos extremos en los que las frases pueden no tener ningún sentido y sea imposible valorar si lo que dicen es cierto o falso. En estos casos la respuesta debe ser 'n' de nonsense.
+Escribe tu respuesta t, f o n en 'Answer [t/f/n]: ' por ejemplo para una frase correcta -> Answer [t/f/n]: t
+Cuando termines, guarda el archivo de texto y evíamelo de vuelta a me@email.com o por el canal que más fácil te resulte (Telegram, etc...)
+Si tienes alguna duda durante la evaluación preguntame sin problema :)
+Te agradezco mucho la ayuda ^^
+
+PARA VER BIEN LAS TABLAS: Si usas Sublime Text (cosa que recomiendo), vete a View y desactiva Word Wrap. Así, las tablas que no quepan en horizontal no pasarán a la siguiente línea (haciéndolas muy difíciles de leer).
+Si usas otro editor y quieres saber cómo desactivarlo, busca cómo desabilitar el 'line wrap' en google o pregúntame a mí.
+
+
+# 1/30
+id: 8c20a502d41244b8d91182aeb2a1f5180bb8a143 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: vissel kobe
++----+----------+-------+-------+-------+------------------+------------------+
+|    |   season | div   |   tms |   pos |   attendance / g | emperor 's cup   |
+|----+----------+-------+-------+-------+------------------+------------------|
+|  0 |     1997 | j1    |    17 |    16 |             6567 | 4th round        |
+|  1 |     1998 | j1    |    18 |    17 |             7686 | 3rd round        |
+|  2 |     1999 | j1    |    16 |    10 |             7691 | 3rd round        |
+|  3 |     2000 | j1    |    16 |    13 |             7512 | semi - final     |
+|  4 |     2001 | j1    |    16 |    12 |            13872 | 4th round        |
+|  5 |     2002 | j1    |    16 |    14 |            10467 | 3rd round        |
+|  6 |     2003 | j1    |    16 |    13 |            11195 | quarter - final  |
+|  7 |     2004 | j1    |    16 |    11 |            15735 | 4th round        |
+|  8 |     2005 | j1    |    18 |    18 |            14913 | 4th round        |
+|  9 |     2006 | j2    |    13 |     3 |             6910 | 3rd round        |
+| 10 |     2007 | j1    |    18 |    10 |            12460 | 5th round        |
+| 11 |     2008 | j1    |    18 |    10 |            12981 | 5th round        |
+| 12 |     2009 | j1    |    18 |    14 |            13068 | 4th round        |
+| 13 |     2010 | j1    |    18 |    15 |            12824 | 3rd round        |
+| 14 |     2011 | j1    |    18 |     9 |            13233 | 3rd round        |
+| 15 |     2012 | j1    |    18 |    16 |            14638 | 2nd round        |
++----+----------+-------+-------+-------+------------------+------------------+
+Frase: vissel kobe 's average attendance during this period of his career was 11360 .
+Answer [t/f/n]: t
+
+
+# 2/30
+id: 2ee8f5e0b4ab77464e0a4720d9db2d7b33cfde77 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 2008 in paraguayan football
++----+-------------------+-----------+----------+----------+---------+---------+----------+
+|    | team              |   average |   points |   played | 2006    | 2007    | 2008     |
+|----+-------------------+-----------+----------+----------+---------+---------+----------|
+|  0 | libertad          |     2.179 |      279 |      126 | 83 / 40 | 95 / 44 | 101 / 44 |
+|  1 | cerro porteño     |     2.023 |      259 |      126 | 92 / 40 | 92 / 44 | 75 / 44  |
+|  2 | nacional          |     1.484 |      190 |      126 | 53 / 40 | 60 / 44 | 77 / 44  |
+|  3 | olimpia           |     1.406 |      180 |      126 | 50 / 40 | 76 / 44 | 54 / 44  |
+|  4 | sol de américa    |     1.363 |      120 |       86 | n / a   | 57 / 44 | 63 / 44  |
+|  5 | sportivo luqueño  |     1.335 |      171 |      126 | 56 / 40 | 66 / 44 | 49 / 44  |
+|  6 | tacuary           |     1.335 |      171 |      126 | 66 / 40 | 51 / 44 | 54 / 44  |
+|  7 | guaraní           |     1.265 |      162 |      126 | 42 / 40 | 41 / 44 | 79 / 44  |
+|  8 | 2 de mayo         |     1.126 |      142 |      126 | 58 / 40 | 34 / 44 | 50 / 42  |
+|  9 | 12 de octubre     |     1.132 |      145 |      126 | 42 / 40 | 49 / 44 | 53 / 44  |
+| 10 | 3 de febrero      |     1.062 |      136 |      126 | 36 / 40 | 49 / 44 | 51 / 44  |
+| 11 | silvio pettirossi |     0.5   |       22 |       42 | n / a   | n / a   | 22 / 44  |
++----+-------------------+-----------+----------+----------+---------+---------+----------+
+Frase: the average number of points for paraguayan football in 2008 was 126 .
+Answer [t/f/n]: f
+
+
+# 3/30
+id: edf91356af5394dea1d7fd34d82a5d2f07362678 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 1955 vfl season
++----+-----------------+-------------------+-----------------+-------------------+-----------------------+---------+---------------+
+|    | home team       | home team score   | away team       | away team score   | venue                 |   crowd | date          |
+|----+-----------------+-------------------+-----------------+-------------------+-----------------------+---------+---------------|
+|  0 | st kilda        | 8.5 ( 53 )        | south melbourne | 11.16 ( 82 )      | junction oval         |   10150 | 6 august 1955 |
+|  1 | footscray       | 10.13 ( 73 )      | geelong         | 10.16 ( 76 )      | western oval          |   33902 | 6 august 1955 |
+|  2 | fitzroy         | 6.17 ( 53 )       | richmond        | 11.9 ( 75 )       | brunswick street oval |   14000 | 6 august 1955 |
+|  3 | north melbourne | 8.12 ( 60 )       | hawthorn        | 8.5 ( 53 )        | arden street oval     |    9000 | 6 august 1955 |
+|  4 | melbourne       | 16.23 ( 119 )     | essendon        | 7.12 ( 54 )       | mcg                   |   49352 | 6 august 1955 |
+|  5 | collingwood     | 12.17 ( 89 )      | carlton         | 7.10 ( 52 )       | victoria park         |   28000 | 6 august 1955 |
++----+-----------------+-------------------+-----------------+-------------------+-----------------------+---------+---------------+
+Frase: the average crowd attendance for games in the 1955 vfl season was 24067 .
+Answer [t/f/n]: t
+
+
+# 4/30
+id: e4a31c1422b206ffd3d49f2531c89a8307ed4d40 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: united states house of representatives elections , 1816
++----+---------------------------------------------+-----------------+-------------------------+-----------------+--------------------------------------+---------------------------------------------------------+
+|    | district                                    | incumbent       | party                   |   first elected | result                               | candidates                                              |
+|----+---------------------------------------------+-----------------+-------------------------+-----------------+--------------------------------------+---------------------------------------------------------|
+|  0 | pennsylvania 4                              | hugh glasgow    | democratic - republican |            1812 | retired democratic - republican hold | jacob spangler ( dr ) 67.1 % jacob hay ( f ) 32.9 %     |
+|  1 | pennsylvania 6 plural district with 2 seats | samuel d ingham | democratic - republican |            1812 | re - elected                         | john ross ( dr ) 50.8 % samuel d ingham ( dr ) 49.2 %   |
+|  2 | pennsylvania 6 plural district with 2 seats | john ross       | democratic - republican |            1814 | re - elected                         | john ross ( dr ) 50.8 % samuel d ingham ( dr ) 49.2 %   |
+|  3 | pennsylvania 8                              | william piper   | democratic - republican |            1810 | retired democratic - republican hold | alexander ogle ( dr ) 99.7 %                            |
+|  4 | pennsylvania 12                             | aaron lyle      | democratic - republican |            1808 | retired democratic - republican hold | thomas patterson ( dr ) 87.2 % john hughes ( f ) 12.8 % |
+|  5 | pennsylvania 14                             | john woods      | federalist              |            1814 | retired democratic - republican gain | henry baldwin ( dr ) 61.6 % walter lowrie ( dr ) 38.4 % |
++----+---------------------------------------------+-----------------+-------------------------+-----------------+--------------------------------------+---------------------------------------------------------+
+Frase: william piper was the only representative first elected in 1810 .
+Answer [t/f/n]: f
+
+
+# 5/30
+id: 16543047b414fd9c0f5f12b4ef5c6e13aaa86f98 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: sheri - ann brooks
++----+--------+---------------------+-----------------------+----------+-----------------+
+|    |   year | tournament          | venue                 | result   | extra           |
+|----+--------+---------------------+-----------------------+----------+-----------------|
+|  0 |   2006 | commonwealth games  | melbourne , australia | 1st      | 100 m           |
+|  1 |   2006 | commonwealth games  | melbourne , australia | 5th      | 200 m           |
+|  2 |   2006 | commonwealth games  | melbourne , australia | 1st      | 4 x 100 m relay |
+|  3 |   2007 | pan american games  | rio , brazil          | 2nd      | 200 m           |
+|  4 |   2007 | pan american games  | rio , brazil          | 1st      | 4 x 400 m relay |
+|  5 |   2007 | world championships | osaka , japan         | 2nd      | 4 x 100 m relay |
++----+--------+---------------------+-----------------------+----------+-----------------+
+Frase: sheri - ann brooks finished in 5th place on average .
+Answer [t/f/n]: f
+
+
+# 6/30
+id: d56af4b99f9c79e689c62df9449416b088ea952c - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 2008 nascar craftsman truck series
++----+-------+-------+---------------+-----------+----------------------------+
+|    |   pos |   car | driver        | make      | team                       |
+|----+-------+-------+---------------+-----------+----------------------------|
+|  0 |     1 |     5 | mike skinner  | toyota    | bill davis racing          |
+|  1 |     2 |    99 | erik darnell  | ford      | roush fenway racing        |
+|  2 |     3 |    88 | matt crafton  | chevrolet | thorsport racing           |
+|  3 |     4 |    15 | john andretti | toyota    | billy ballew motorsports   |
+|  4 |     5 |    33 | ron hornaday  | chevrolet | kevin harvick incorporated |
+|  5 |     6 |    51 | kyle busch    | toyota    | billy ballew motorsports   |
+|  6 |     7 |    40 | jeff green    | chevrolet | key motorsports            |
+|  7 |     8 |     7 | t j bell      | chevrolet | the racer 's group         |
+|  8 |     9 |    30 | todd bodine   | toyota    | germain racing             |
+|  9 |    10 |    81 | donny lia r   | chevrolet | randy moss motorsports     |
++----+-------+-------+---------------+-----------+----------------------------+
+Frase: 4 cars in the 2008 nascar craftsman truck series were made by toyota .
+Answer [t/f/n]: t
+
+
+# 7/30
+id: e57d3f9bbcb140da3ee8f20ea89157d0550b7cc5 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: ali al saadi
++----+------------------+-----------+---------+----------+-----------------------------------+
+|    | date             | venue     | score   | result   | competition                       |
+|----+------------------+-----------+---------+----------+-----------------------------------|
+|  0 | 19 august 2009   | new delhi | 1 - 0   | win      | 2009 nehru cup                    |
+|  1 | 22 august 2009   | new delhi | 3 - 4   | loss     | 2009 nehru cup                    |
+|  2 | 23 july 2011     | beirut    | 4 - 0   | win      | 2014 fifa world cup qualification |
+|  3 | 15 november 2011 | beirut    | 2 - 1   | win      | 2014 fifa world cup qualification |
+|  4 | 18 may 2012      | beirut    | 1 - 2   | loss     | friendly                          |
+|  5 | 8 june 2012      | beirut    | 1 - 1   | draw     | 2014 fifa world cup qualification |
++----+------------------+-----------+---------+----------+-----------------------------------+
+Frase: ali al saadi won 2 of the competitions that were held at beirut .
+Answer [t/f/n]: t
+
+
+# 8/30
+id: a9ea13f0419e3c17a0feb7b817734eb5b1e7a192 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: television in the united kingdom
++----+--------+-------------------------------------------------+---------------------+------------------+-----------+
+|    |   rank | show                                            | number of viewers   | date             | network   |
+|----+--------+-------------------------------------------------+---------------------+------------------+-----------|
+|  0 |      1 | 1966 world cup final                            | 32.30 million       | 30 july 1966     | bbc one   |
+|  1 |      2 | funeral of princess diana                       | 32.10 million       | 6 september 1997 | bbc one   |
+|  2 |      3 | british royal family documentary                | 30.69 million       | 1969             | bbc1      |
+|  3 |      4 | eastenders                                      | 30.15 million       | 25 december 1986 | bbc one   |
+|  4 |      5 | apollo 13 splashdown                            | 28.60 million       | 17 april 1970    | bbc one   |
+|  5 |      6 | fa cup replay : chelsea vs leeds                | 28.49 million       | 29 april 1970    | bbc one   |
+|  6 |      7 | royal wedding of charles & diana                | 28.40 million       | 29 july 1981     | bbc one   |
+|  7 |      8 | wedding of princess anne and mark phillips      | 27.60 million       | 14 november 1973 | bbc one   |
+|  8 |      9 | coronation street                               | 26.65 million       | 25 december 1987 | itv       |
+|  9 |     10 | 2012 summer olympics closing ceremony in london | 24.46 million       | 12 august 2012   | bbc one   |
++----+--------+-------------------------------------------------+---------------------+------------------+-----------+
+Frase: the show apollo 13 splashdown had more viewers than the show wedding of princess anne and mark phillips .
+Answer [t/f/n]: t
+
+
+# 9/30
+id: 26567c93a3156a2e276c91d86489649477cd1429 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 1955 vfl season
++----+-----------------+-------------------+-----------------+-------------------+-----------------------+---------+---------------+
+|    | home team       | home team score   | away team       | away team score   | venue                 |   crowd | date          |
+|----+-----------------+-------------------+-----------------+-------------------+-----------------------+---------+---------------|
+|  0 | st kilda        | 8.5 ( 53 )        | south melbourne | 11.16 ( 82 )      | junction oval         |   10150 | 6 august 1955 |
+|  1 | footscray       | 10.13 ( 73 )      | geelong         | 10.16 ( 76 )      | western oval          |   33902 | 6 august 1955 |
+|  2 | fitzroy         | 6.17 ( 53 )       | richmond        | 11.9 ( 75 )       | brunswick street oval |   14000 | 6 august 1955 |
+|  3 | north melbourne | 8.12 ( 60 )       | hawthorn        | 8.5 ( 53 )        | arden street oval     |    9000 | 6 august 1955 |
+|  4 | melbourne       | 16.23 ( 119 )     | essendon        | 7.12 ( 54 )       | mcg                   |   49352 | 6 august 1955 |
+|  5 | collingwood     | 12.17 ( 89 )      | carlton         | 7.10 ( 52 )       | victoria park         |   28000 | 6 august 1955 |
++----+-----------------+-------------------+-----------------+-------------------+-----------------------+---------+---------------+
+Frase: all games of the 1955 vfl season were played on the 6th of august .
+Answer [t/f/n]: t
+
+
+# 10/30
+id: 107c93ca1beb2de2c2befd80f837b17d6265124c - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: kjrt
++----+-------------+-----------------+---------------------+---------+---------+------------+
+|    | call sign   |   frequency mhz | city of license     |   erp w | class   | fcc info   |
+|----+-------------+-----------------+---------------------+---------+---------+------------|
+|  0 | k201bm      |            88.1 | canadian , texas    |      74 | d       | fcc        |
+|  1 | k202ck      |            88.3 | childress , texas   |     200 | d       | fcc        |
+|  2 | k216 gg     |            91.1 | plainview , texas   |      40 | a       | fcc        |
+|  3 | k220cp      |            91.9 | pampa , texas       |      67 | d       | fcc        |
+|  4 | k220iz      |            91.9 | perryton , texas    |     250 | d       | fcc        |
+|  5 | k220jz      |            91.9 | memphis , texas     |      25 | d       | fcc        |
+|  6 | k219lo      |            91.7 | hereford , texas    |      10 | d       | fcc        |
+|  7 | k229by      |            93.7 | tulia , texas       |     100 | d       | fcc        |
+|  8 | k291aq      |           106.1 | dumas , texas       |      92 | d       | fcc        |
+|  9 | k202ag      |            88.3 | elk city , oklahoma |      38 | d       | fcc        |
++----+-------------+-----------------+---------------------+---------+---------+------------+
+Frase: the majority of kjrt radio channels are in texas .
+Answer [t/f/n]: t
+
+
+# 11/30
+id: bcec1371ffd2dd91b19710683eec2babd6734ec2 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: united states house of representatives elections , 1978
++----+------------+----------------+------------+-----------------+--------------+----------------------------------------------------------+
+|    | district   | incumbent      | party      |   first elected | result       | candidates                                               |
+|----+------------+----------------+------------+-----------------+--------------+----------------------------------------------------------|
+|  0 | missouri 2 | robert a young | democratic |            1976 | re - elected | robert a young ( d ) 56.4 % bob chase ( r ) 43.6 %       |
+|  1 | missouri 3 | dick gephardt  | democratic |            1976 | re - elected | dick gephardt ( d ) 81.9 % lee buchschacher ( r ) 18.1 % |
+|  2 | missouri 4 | ike skelton    | democratic |            1976 | re - elected | ike skelton ( d ) 72.8 % bill baker ( r ) 27.2 %         |
+|  3 | missouri 7 | gene taylor    | republican |            1972 | re - elected | gene taylor ( r ) 61.2 % jim thomas ( d ) 38.8 %         |
+|  4 | missouri 9 | harold volkmer | democratic |            1976 | re - elected | harold volkmer ( d ) 74.7 % jerry dent ( r ) 25.3 %      |
++----+------------+----------------+------------+-----------------+--------------+----------------------------------------------------------+
+Frase: the majority of missouri incumbents in the 1978 united states house of representatives elections were re-elected .
+Answer [t/f/n]: t
+
+
+# 12/30
+id: ad9405c80daba720c59bda8f63e7af8eed2fc5ce - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: list of awards and nominations received by renée zellweger
++----+--------+----------------------------------+------------------------------------+-----------+----------------------------------------+
+|    |   year | category                         | film                               | result    | lost to                                |
+|----+--------+----------------------------------+------------------------------------+-----------+----------------------------------------|
+|  0 |   2000 | best actress - musical or comedy | nurse betty                        | won       | -                                      |
+|  1 |   2001 | best actress - musical or comedy | bridget jones 's diary             | nominated | nicole kidman ( moulin rouge ! )       |
+|  2 |   2002 | best actress - musical or comedy | chicago                            | won       | -                                      |
+|  3 |   2003 | best supporting actress          | cold mountain                      | won       | -                                      |
+|  4 |   2004 | best actress - musical or comedy | bridget jones : the edge of reason | nominated | annette bening ( being julia )         |
+|  5 |   2006 | best actress - musical or comedy | miss potter                        | nominated | meryl streep ( the devil wears prada ) |
++----+--------+----------------------------------+------------------------------------+-----------+----------------------------------------+
+Frase: renée zellweger had a result of 6 nominations and awards in total .
+Answer [t/f/n]: t
+
+
+# 13/30
+id: 1d95c92eb31a735bd37e244a26e1938001ba3be6 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: outline of hungary
++----+----------------------------+----------------+----------------------+--------------+----------------------+--------------------+
+|    | name of county             | county seat    |   area ( km square ) |   population |   population density |   towns / villages |
+|----+----------------------------+----------------+----------------------+--------------+----------------------+--------------------|
+|  0 | bács - kiskun              | kecskemét      |                 8445 |       541584 |                   64 |                119 |
+|  1 | baranya                    | pécs           |                 4430 |       402260 |                   91 |                301 |
+|  2 | békés                      | békéscsaba     |                 5631 |       392845 |                   70 |                 75 |
+|  3 | borsod - abaúj - zemplén   | miskolc        |                 7247 |       739143 |                  102 |                355 |
+|  4 | csongrád                   | szeged         |                 4263 |       425785 |                  100 |                 60 |
+|  5 | fejér                      | székesfehérvár |                 4359 |       428579 |                   98 |                108 |
+|  6 | győr - moson - sopron      | győr           |                 4208 |       440138 |                  105 |                182 |
+|  7 | hajdú - bihar              | debrecen       |                 6211 |       550265 |                   89 |                 82 |
+|  8 | heves                      | eger           |                 3637 |       323769 |                   89 |                119 |
+|  9 | jász - nagykun - szolnok   | szolnok        |                 5582 |       413174 |                   74 |                 75 |
+| 10 | komárom - esztergom        | tatabánya      |                 2265 |       315886 |                  139 |                 76 |
+| 11 | nógrád                     | salgótarján    |                 2546 |       218218 |                   86 |                129 |
+| 12 | pest                       | budapest       |                 6393 |      1124395 |                  176 |                186 |
+| 13 | somogy                     | kaposvár       |                 6036 |       334065 |                   55 |                244 |
+| 14 | szabolcs - szatmár - bereg | nyíregyháza    |                 5936 |       583564 |                   98 |                228 |
+| 15 | tolna                      | szekszárd      |                 3703 |       247287 |                   67 |                108 |
+| 16 | vas                        | szombathely    |                 3336 |       266342 |                   80 |                216 |
+| 17 | veszprém                   | veszprém       |                 4493 |       368519 |                   82 |                217 |
++----+----------------------------+----------------+----------------------+--------------+----------------------+--------------------+
+Frase: borsod - abaúj - zemplén is the only county seat with more than 350 towns / villages .
+Answer [t/f/n]: t
+
+
+# 14/30
+id: ce83b72fefd8db63dbd75936f551324a1fd92604 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: canon open
++----+--------+------------+-----------------+-----------+--------------+-----------+-------------------+
+|    |   year | dates      | champion        | country   | score        |     purse |   winner 's share |
+|----+--------+------------+-----------------+-----------+--------------+-----------+-------------------|
+|  0 |   2012 | oct 4 - 7  | yuta ikeda      | japan     | 271 ( - 17 ) | 150000000 |          30000000 |
+|  1 |   2011 | oct 6 - 9  | kenichi kuboya  | japan     | 274 ( - 14 ) | 150000000 |          30000000 |
+|  2 |   2010 | oct 7 - 10 | shinichi yokota | japan     | 274 ( - 14 ) | 150000000 |          30000000 |
+|  3 |   2009 | oct 8 - 11 | yuta ikeda      | japan     | 200 ( - 16 ) | 150000000 |          30000000 |
+|  4 |   2008 | oct 9 - 12 | makoto inoue    | japan     | 275 ( - 13 ) | 200000000 |          40000000 |
++----+--------+------------+-----------------+-----------+--------------+-----------+-------------------+
+Frase: 2009 was the only year that canon opened in 2009 .
+Answer [t/f/n]: n
+
+
+# 15/30
+id: 209a7e19717f28bbaa86d0aa56dbd3f2431fa876 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: catalina sandino moreno
++----+--------+---------------------------------------------+---------------------+------------------------------------------+-----------+
+|    |   year | award                                       | nominated work      | category                                 | result    |
+|----+--------+---------------------------------------------+---------------------+------------------------------------------+-----------|
+|  0 |   2004 | academy awards                              | maria full of grace | best actress                             | nominated |
+|  1 |   2004 | screen actors guild awards                  | maria full of grace | best actress                             | nominated |
+|  2 |   2004 | independent spirit awards                   | maria full of grace | best female lead                         | won       |
+|  3 |   2004 | chicago film critics association            | maria full of grace | most promising performer                 | won       |
+|  4 |   2004 | colombian cinema award                      | maria full of grace | best actress                             | won       |
+|  5 |   2004 | gotham awards                               | maria full of grace | breakthrough performance                 | won       |
+|  6 |   2004 | imagen foundation awards                    | maria full of grace | best actress - film                      | won       |
+|  7 |   2004 | los angeles film critics association awards | maria full of grace | award for new generation                 | won       |
+|  8 |   2004 | online film critics society awards          | maria full of grace | best breakthrough performance            | won       |
+|  9 |   2004 | premios ace                                 | maria full of grace | best actress                             | won       |
+| 10 |   2004 | seattle international film festival         | maria full of grace | best actress                             | won       |
+| 11 |   2004 | showest award                               | maria full of grace | international star of the year           | won       |
+| 12 |   2004 | berlin international film festival          | maria full of grace | best actress                             | won       |
+| 13 |   2004 | broadcast film critics association          | maria full of grace | best actress                             | nominated |
+| 14 |   2004 | chlotrudis awards                           | maria full of grace | best actress                             | nominated |
+| 15 |   2004 | satellite awards                            | maria full of grace | best actress in a motion picture , drama | nominated |
+| 16 |   2005 | london critics circle film awards           | maria full of grace | actress of the year                      | nominated |
++----+--------+---------------------------------------------+---------------------+------------------------------------------+-----------+
+Frase: catalina sandino had a result of nominated for a total of six awards .
+Answer [t/f/n]: f
+
+
+# 16/30
+id: dc177d67d8eab0738c5470ca8e8e414086b75fb9 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 1932 vfl season
++----+-----------------+-------------------+-------------+-------------------+-----------------------+---------+-------------+
+|    | home team       | home team score   | away team   | away team score   | venue                 |   crowd | date        |
+|----+-----------------+-------------------+-------------+-------------------+-----------------------+---------+-------------|
+|  0 | footscray       | 13.14 ( 92 )      | st kilda    | 8.10 ( 58 )       | western oval          |   14000 | 28 may 1932 |
+|  1 | fitzroy         | 12.6 ( 78 )       | geelong     | 20.10 ( 130 )     | brunswick street oval |   13000 | 28 may 1932 |
+|  2 | carlton         | 13.15 ( 93 )      | collingwood | 11.7 ( 73 )       | princes park          |   32000 | 28 may 1932 |
+|  3 | north melbourne | 18.10 ( 118 )     | melbourne   | 12.16 ( 88 )      | arden street oval     |   12000 | 28 may 1932 |
+|  4 | richmond        | 13.18 ( 96 )      | hawthorn    | 6.9 ( 45 )        | punt road oval        |   10000 | 28 may 1932 |
+|  5 | south melbourne | 14.15 ( 99 )      | essendon    | 9.11 ( 65 )       | lake oval             |   28000 | 28 may 1932 |
++----+-----------------+-------------------+-------------+-------------------+-----------------------+---------+-------------+
+Frase: in the 1932 vfl season , the home team with the highest score at princes park had a higher score than the home team at brunswick street oval .
+Answer [t/f/n]: t
+
+
+# 17/30
+id: 48215cf424ac507d08b292d2672aa7e6ac259c0f - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 1949 vfl season
++----+-------------+-------------------+-----------------+-------------------+----------------+---------+--------------+
+|    | home team   | home team score   | away team       | away team score   | venue          |   crowd | date         |
+|----+-------------+-------------------+-----------------+-------------------+----------------+---------+--------------|
+|  0 | st kilda    | 16.15 ( 111 )     | south melbourne | 13.13 ( 91 )      | junction oval  |    6000 | 16 july 1949 |
+|  1 | essendon    | 8.22 ( 70 )       | north melbourne | 6.13 ( 49 )       | windy hill     |   16000 | 16 july 1949 |
+|  2 | collingwood | 7.16 ( 58 )       | melbourne       | 10.13 ( 73 )      | victoria park  |   22000 | 16 july 1949 |
+|  3 | carlton     | 9.13 ( 67 )       | fitzroy         | 9.8 ( 62 )        | princes park   |   17500 | 16 july 1949 |
+|  4 | richmond    | 16.21 ( 117 )     | hawthorn        | 9.13 ( 67 )       | punt road oval |    7000 | 16 july 1949 |
+|  5 | geelong     | 13.15 ( 93 )      | footscray       | 4.10 ( 34 )       | kardinia park  |   15000 | 16 july 1949 |
++----+-------------+-------------------+-----------------+-------------------+----------------+---------+--------------+
+Frase: all games of the 1949 vfl season were played on the 16th of july .
+Answer [t/f/n]: t
+
+
+# 18/30
+id: 84bad6bd5fe9c6b4b36dce1b87c8283563b71bfa - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 2006 asp world tour
++----+--------------------------+-----------------------+------------------+----------------------------+-------------------------------+-------------------------------+
+|    | date                     | location              | country          | event                      | winner                        | runner - up                   |
+|----+--------------------------+-----------------------+------------------+----------------------------+-------------------------------+-------------------------------|
+|  0 | february 28 - march 12   | gold coast            | australia        | roxy pro gold coast        | melanie redman - carr ( aus ) | layne beachley ( aus )        |
+|  1 | april 22 - april 29      | tavarua               | fiji             | roxy pro fiji              | melanie redman - carr ( aus ) | layne beachley ( aus )        |
+|  2 | may 4 - may 16           | teahupoo , tahiti     | french polynesia | billabong pro tahiti women | melanie redman - carr ( aus ) | chelsea georgeson ( aus )     |
+|  3 | august 21 - august 28    | itacarã               | brazil           | billabong girls pro        | layne beachley ( aus )        | jessi miley - dyer ( aus )    |
+|  4 | august 31 - september 5  | hossegor              | france           | rip curl pro mademoiselle  | chelsea georgeson ( aus )     | melanie redman - carr ( aus ) |
+|  5 | october 9 - october 15   | manly beach           | australia        | havaianas beachley classic | stephanie gilmore ( aus )     | layne beachley ( aus )        |
+|  6 | november 24 - december 6 | sunset beach , hawaii | united states    | roxy pro                   | melanie bartels ( haw )       | stephanie gilmore ( aus )     |
+|  7 | december 8 - december 20 | honolua bay , hawaii  | united states    | billabong pro              | jessi miley - dyer ( aus )    | keala kennelly ( haw )        |
++----+--------------------------+-----------------------+------------------+----------------------------+-------------------------------+-------------------------------+
+Frase: aus won 7 events in the 2006 asp world tour .
+Answer [t/f/n]: t
+
+
+# 19/30
+id: 748027879a1607c658dbed4be3ccb6079fce9a98 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: eurovision song contest 1961
++----+--------+-----------------+----------------------+-----------------------------------------+----------------------------+---------+----------+
+|    |   draw | language        | artist               | song                                    | english translation        |   place |   points |
+|----+--------+-----------------+----------------------+-----------------------------------------+----------------------------+---------+----------|
+|  0 |     01 | spanish         | conchita bautista    | estando contigo                         | when i 'm with you         |       9 |        8 |
+|  1 |     02 | french          | colette deréal       | allons , allons les enfants             | come on , come on children |      10 |        6 |
+|  2 |     03 | german          | jimmy makulis        | sehnsucht                               | longing                    |      15 |        1 |
+|  3 |     04 | finnish         | laila kinnunen       | valoa ikkunassa                         | the lights in the window   |      10 |        6 |
+|  4 |     05 | serbian         | ljiljana petrović    | neke davne zvezde ( неке давне звезде ) | some ancient stars         |       8 |        9 |
+|  5 |     06 | dutch           | greetje kauffeld     | wat een dag                             | what a day                 |      10 |        6 |
+|  6 |     07 | swedish         | lill - babs          | april , april                           | -                          |      14 |        2 |
+|  7 |     08 | german , french | lale andersen        | einmal sehen wir uns wieder             | we will meet again         |      13 |        3 |
+|  8 |     09 | french          | jean - paul mauric   | printemps , avril carillonne            | spring , april rings       |       4 |       13 |
+|  9 |     10 | french          | franca di rienzo     | nous aurons demain                      | we 'll have tomorrow       |       3 |       16 |
+| 10 |     11 | dutch           | bob benny            | september , gouden roos                 | september , golden rose    |      15 |        1 |
+| 11 |     12 | norwegian       | nora brockstedt      | sommer i palma                          | summer in palma            |       7 |       10 |
+| 12 |     13 | danish          | dario campeotto      | angelique                               | -                          |       5 |       12 |
+| 13 |     14 | french          | jean - claude pascal | nous les amoureux                       | we the lovers              |       1 |       31 |
+| 14 |     15 | english         | the allisons         | are you sure                            | -                          |       2 |       24 |
+| 15 |     16 | italian         | betty curtis         | al di là                                | beyond                     |       5 |       12 |
++----+--------+-----------------+----------------------+-----------------------------------------+----------------------------+---------+----------+
+Frase: the song sommer i palma was the only song to be sung in norwegian .
+Answer [t/f/n]: t
+
+
+# 20/30
+id: 3669398f725602684f891cce7765a1b4a83d9dac - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: indiana high school athletics conferences : ohio river valley - western indiana
++----+-----------------+---------------+-------------+--------+---------------+---------------+
+|    | school          | location      | mascot      |   size | ihsaa class   | county        |
+|----+-----------------+---------------+-------------+--------+---------------+---------------|
+|  0 | crawford county | marengo       | wolfpack    |    487 | aa            | 13 crawford   |
+|  1 | mitchell        | mitchell      | bluejackets |    620 | aaa           | 47 lawrence   |
+|  2 | orleans         | orleans       | bulldogs    |    258 | a             | 59 orange     |
+|  3 | paoli           | paoli         | rams        |    511 | aa            | 59 orange     |
+|  4 | perry central   | leopold       | commodores  |    334 | aa            | 62 perry      |
+|  5 | springs valley  | french lick   | blackhawks  |    319 | a             | 59 orange     |
+|  6 | west washington | campbellsburg | senators    |    307 | a             | 88 washington |
++----+-----------------+---------------+-------------+--------+---------------+---------------+
+Frase: in the ohio river valley - western indiana conference , among the schools in the ohio river valley - western indiana conference that are in springs valley , only one of them are in springs valley .
+Answer [t/f/n]: n
+
+
+# 21/30
+id: f565b6e31aba323e820a922e694e0b58ac44f642 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 2006 - 07 coventry city f.c. season
++----+-----------------+----------------+--------------+----------+---------+
+|    | name            |   championship |   league cup |   fa cup | total   |
+|----+-----------------+----------------+--------------+----------+---------|
+|  0 | dele adebola    |              8 |            1 |        0 | 0 9     |
+|  1 | leon mckenzie   |              7 |            0 |        1 | 0 8     |
+|  2 | stern john      |              5 |            0 |        1 | 0 6     |
+|  3 | michael mifsud  |              4 |            0 |        0 | 0 4     |
+|  4 | michael doyle   |              3 |            0 |        0 | 0 3     |
+|  5 | kevin kyle      |              3 |            0 |        0 | 0 3     |
+|  6 | jay tabb        |              3 |            0 |        0 | 0 3     |
+|  7 | elliott ward    |              3 |            0 |        0 | 0 3     |
+|  8 | colin cameron   |              2 |            0 |        1 | 0 3     |
+|  9 | chris birchall  |              2 |            0 |        0 | 0 2     |
+| 10 | wayne andrews   |              1 |            0 |        0 | 0 1     |
+| 11 | stephen hughes  |              1 |            0 |        0 | 0 1     |
+| 12 | gary mcsheffrey |              1 |            0 |        0 | 0 1     |
+| 13 | kevin thornton  |              1 |            0 |        0 | 0 1     |
+| 14 | adam virgo      |              1 |            0 |        0 | 0 1     |
++----+-----------------+----------------+--------------+----------+---------+
+Frase: in the 2006 - 07 coventry city f.c. season , when the fa cup is over , the 2nd highest number of championships is for stern john .
+Answer [t/f/n]: n
+
+
+# 22/30
+id: 7c123f2c6a170fa7b0b5298bfef03cdf0ddb8eee - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 1993 san diego chargers season
++----+--------+---------------------+----------------------+-----------+--------------+
+|    |   week | date                | opponent             | result    |   attendance |
+|----+--------+---------------------+----------------------+-----------+--------------|
+|  0 |      1 | september 5 , 1993  | seattle seahawks     | w 18 - 12 |        58039 |
+|  1 |      2 | september 12 , 1993 | denver broncos       | l 34 - 17 |        75074 |
+|  2 |      3 | september 19 , 1993 | houston oilers       | w 18 - 17 |        58519 |
+|  3 |      5 | october 3 , 1993    | seattle seahawks     | l 31 - 14 |        54778 |
+|  4 |      6 | october 10 , 1993   | pittsburgh steelers  | l 16 - 3  |        55264 |
+|  5 |      7 | october 17 , 1993   | kansas city chiefs   | l 17 - 14 |        60729 |
+|  6 |      9 | october 31 , 1993   | los angeles raiders  | w 30 - 23 |        45122 |
+|  7 |     10 | november 7 , 1993   | minnesota vikings    | w 30 - 17 |        55527 |
+|  8 |     11 | november 14 , 1993  | chicago bears        | l 16 - 13 |        58459 |
+|  9 |     12 | november 21 , 1993  | los angeles raiders  | l 12 - 7  |        60615 |
+| 10 |     13 | november 29 , 1993  | indianapolis colts   | w 31 - 0  |        54110 |
+| 11 |     14 | december 5 , 1993   | denver broncos       | w 13 - 10 |        60233 |
+| 12 |     15 | december 12 , 1993  | green bay packers    | l 20 - 13 |        57930 |
+| 13 |     16 | december 19 , 1993  | kansas city chiefs   | l 28 - 24 |        74778 |
+| 14 |     17 | december 27 , 1993  | miami dolphins       | w 45 - 20 |        60311 |
+| 15 |     18 | january 2 , 1994    | tampa bay buccaneers | w 32 - 17 |        35587 |
++----+--------+---------------------+----------------------+-----------+--------------+
+Frase: in the 1993 san diego chargers season , the first game in september took place in 18 .
+Answer [t/f/n]: f
+
+
+# 23/30
+id: 0b825400929286c794f10cec2a312f038cae2779 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: dick rathmann
++----+--------+---------+----------+----------+----------+
+|    |   year |    qual | rank     | finish   | laps     |
+|----+--------+---------+----------+----------+----------|
+|  0 |   1950 | 130.928 | 17       | 32       | 25       |
+|  1 |   1956 | 144.471 | 6        | 5        | 200      |
+|  2 |   1957 | 140.78  | withdrew | withdrew | withdrew |
+|  3 |   1958 | 145.974 | 1        | 27       | 0        |
+|  4 |   1959 | 144.248 | 5        | 20       | 150      |
+|  5 |   1960 | 145.543 | 6        | 31       | 42       |
+|  6 |   1961 | 146.033 | 8        | 13       | 164      |
+|  7 |   1962 | 147.161 | 13       | 24       | 51       |
+|  8 |   1963 | 149.13  | 14       | 10       | 200      |
+|  9 |   1964 | 151.86  | 17       | 7        | 197      |
++----+--------+---------+----------+----------+----------+
+Frase: dick rathmann finished more laps in 1956 than he did in 1959 .
+Answer [t/f/n]: t
+
+
+# 24/30
+id: cd7d1ce12592ff99d8a6287b5f85d1575e8347a3 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: list of european ultra prominent peaks
++----+-------------------+-----------+-------------------+--------------------+-------------+
+|    | peak              | country   |   elevation ( m ) |   prominence ( m ) |   col ( m ) |
+|----+-------------------+-----------+-------------------+--------------------+-------------|
+|  0 | gerlachovský štít | slovakia  |              2655 |               2355 |         300 |
+|  1 | parngu mare       | romania   |              2519 |               2103 |         416 |
+|  2 | moldoveanu peak   | romania   |              2544 |               2046 |         498 |
+|  3 | peleaga           | romania   |              2509 |               1759 |         750 |
+|  4 | pietrosul rodnei  | romania   |              2303 |               1565 |         738 |
++----+-------------------+-----------+-------------------+--------------------+-------------+
+Frase: of the european ultra prominent peaks , the peak with the highest elevation is gerlachovský štít .
+Answer [t/f/n]: t
+
+
+# 25/30
+id: bdb91826c79b3afe1347e097718836b36ecedbfa - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: kjrt
++----+-------------+-----------------+---------------------+---------+---------+------------+
+|    | call sign   |   frequency mhz | city of license     |   erp w | class   | fcc info   |
+|----+-------------+-----------------+---------------------+---------+---------+------------|
+|  0 | k201bm      |            88.1 | canadian , texas    |      74 | d       | fcc        |
+|  1 | k202ck      |            88.3 | childress , texas   |     200 | d       | fcc        |
+|  2 | k216 gg     |            91.1 | plainview , texas   |      40 | a       | fcc        |
+|  3 | k220cp      |            91.9 | pampa , texas       |      67 | d       | fcc        |
+|  4 | k220iz      |            91.9 | perryton , texas    |     250 | d       | fcc        |
+|  5 | k220jz      |            91.9 | memphis , texas     |      25 | d       | fcc        |
+|  6 | k219lo      |            91.7 | hereford , texas    |      10 | d       | fcc        |
+|  7 | k229by      |            93.7 | tulia , texas       |     100 | d       | fcc        |
+|  8 | k291aq      |           106.1 | dumas , texas       |      92 | d       | fcc        |
+|  9 | k202ag      |            88.3 | elk city , oklahoma |      38 | d       | fcc        |
++----+-------------+-----------------+---------------------+---------+---------+------------+
+Frase: the frequency of plainview , texas has a lower frequency than the frequency of pampa , texas .
+Answer [t/f/n]: t
+
+
+# 26/30
+id: ff8f311d7c9a8eff57aae9d5fa8bde49f9bf7fab - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: modern guilt
++----+----------------+---------------+---------+------------------+---------------+
+|    | region         | date          | label   | format           | catalog       |
+|----+----------------+---------------+---------+------------------+---------------|
+|  0 | world          | july 8 , 2008 | dgc     | digital download |               |
+|  1 | argentina      | july 8 , 2008 | dgc     | cd               | 1775441       |
+|  2 | australia      | july 8 , 2008 | dgc     | cd               | 1775441       |
+|  3 | canada         | july 8 , 2008 | dgc     | cd               | b001150702    |
+|  4 | united states  | july 8 , 2008 | dgc     | cd               | b0011507 - 02 |
+|  5 | united states  | july 8 , 2008 | dgc     | lp               | b0011630 - 01 |
+|  6 | united kingdom | july 8 , 2008 | dgc     | cd               | b001150702    |
+|  7 | united kingdom | july 8 , 2008 | xl      | cd               | xlcd369       |
+|  8 | united kingdom | july 8 , 2008 | xl      | lp               | xllp 369      |
+|  9 | europe         | july 8 , 2008 | xl      | lp               | xllp 369      |
+| 10 | europe         | july 8 , 2008 | xl      | cd               | xlcd369       |
++----+----------------+---------------+---------+------------------+---------------+
+Frase: all of the formats of modern guilt were released on july 8 , 2008 .
+Answer [t/f/n]: t
+
+
+# 27/30
+id: 4c5fd854d8d6624ee4ac09de204d69384c7e0790 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: raphael butler
++----+-------+----------+-----------------+------------------------+---------+--------+-----------------------------------------+
+|    | res   | record   | opponent        | method                 |   round | time   | location                                |
+|----+-------+----------+-----------------+------------------------+---------+--------+-----------------------------------------|
+|  0 | win   | 7 - 0    | joseph bryant   | tko ( strikes )        |       1 | 1:04   | rio rancho , new mexico , united states |
+|  1 | win   | 6 - 0    | jeremiah o'neal | ko ( punches )         |       1 | 2:19   | thackerville , oklahoma , united states |
+|  2 | win   | 5 - 0    | brett murphy    | ko ( punch )           |       1 | 0:13   | st paul , minnesota , united states     |
+|  3 | win   | 4 - 0    | steven shaw     | submission ( armbar )  |       1 | 4:35   | maplewood , minnesota , united states   |
+|  4 | win   | 3 - 0    | richard white   | submission ( punches ) |       2 | 3:18   | rochester , minnesota , united states   |
+|  5 | win   | 2 - 0    | jeremy beck     | ko ( punches )         |       1 | 3:36   | red wing , minnesota , united states    |
+|  6 | win   | 1 - 0    | gabe hobbs      | ko ( punch )           |       1 | 0:36   | welch , minnesota , united states       |
++----+-------+----------+-----------------+------------------------+---------+--------+-----------------------------------------+
+Frase: the majority of fights that raphael butler played in were in round 1 .
+Answer [t/f/n]: t
+
+
+# 28/30
+id: d402cda8a03588818755a66ea3a108d3dc1c8adb - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: joseba etxeberria
++----+------------------+--------------------------------------------+---------+----------+------------------------------+
+|    | date             | venue                                      | score   | result   | competition                  |
+|----+------------------+--------------------------------------------+---------+----------+------------------------------|
+|  0 | 19 november 1997 | lluís sitjar , palma , spain               | 1 - 0   | 1 - 1    | friendly                     |
+|  1 | 25 march 1998    | balaídos , vigo , spain                    | 4 - 0   | 4 - 0    | friendly                     |
+|  2 | 14 october 1998  | ramat gan , tel aviv , israel              | 1 - 2   | 1 - 2    | euro 2000 qualifying         |
+|  3 | 31 march 1999    | olimpico , serravalle , san marino         | 0 - 6   | 0 - 6    | euro 2000 qualifying         |
+|  4 | 5 june 1999      | el madrigal , vila - real , spain          | 3 - 0   | 9 - 0    | euro 2000 qualifying         |
+|  5 | 5 june 1999      | el madrigal , vila - real , spain          | 4 - 0   | 9 - 0    | euro 2000 qualifying         |
+|  6 | 18 june 2000     | amsterdam arena , amsterdam , netherlands  | 1 - 2   | 1 - 2    | uefa euro 2000               |
+|  7 | 2 september 2000 | koševo , sarajevo , bosnia and herzegovina | 1 - 2   | 1 - 2    | 2002 world cup qualification |
+|  8 | 29 march 2003    | olimpiyskiy , kiev , ukraine               | 1 - 2   | 2 - 2    | euro 2004 qualifying         |
+|  9 | 6 november 2003  | afonso henriques , guimarães , portugal    | 0 - 1   | 0 - 3    | friendly                     |
+| 10 | 19 november 2003 | ullevaal , oslo , norway                   | 0 - 3   | 0 - 3    | euro 2004 qualifying         |
+| 11 | 18 february 2004 | lluís companys , barcelona , spain         | 1 - 1   | 2 - 1    | friendly                     |
++----+------------------+--------------------------------------------+---------+----------+------------------------------+
+Frase: joseba etxeberria scored more goals in the match on november 19 , 1997 than he did in the match on november 19 , 2003 .
+Answer [t/f/n]: t
+
+
+# 29/30
+id: b17bffb4f3b5c539824c0af5645c6cc509b01d39 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: juan bravo murillo
++----+-------------------+-----------------+-----------------------+------------+----------------+----------------+
+|    |   election number | election date   | district              | province   | took office    | left office    |
+|----+-------------------+-----------------+-----------------------+------------+----------------+----------------|
+|  0 |                 9 | 1837 - 9 - 22   | large                 | seville    | 1837 - 12 - 19 | 1839 - 06 - 01 |
+|  1 |                11 | 1840 - 1 - 19   | large                 | ávila      | 1840 - 02 - 21 | 1840 - 10 - 11 |
+|  2 |                14 | 1843 - 9 - 15   | large                 | badajoz    | 1843 - 10 - 18 | 1844 - 07 - 10 |
+|  3 |                15 | 1844 - 9 - 3    | large                 | badajoz    | 1844 - 10 - 14 | 1846 - 10 - 31 |
+|  4 |                16 | 1846 - 6 - 21   | fregenal de la sierra | badajoz    | 1847 - 01 - 03 | 1848 - 12 - 18 |
+|  5 |                16 | 1846 - 6 - 21   | fregenal de la sierra | badajoz    | 1847 - 12 - 20 | 1850 - 08 - 04 |
+|  6 |                17 | 1850 - 8 - 31   | fregenal de la sierra | badajoz    | 1850 - 11 - 06 | 1851 - 04 - 07 |
+|  7 |                17 | 1850 - 8 - 31   | huelva                | huelva     | 1850 - 11 - 06 | 1850 - 11 - 15 |
+|  8 |                18 | 1851 - 5 - 10   | elche de la sierra    | albacete   | 1851 - 06 - 04 | 1851 - 06 - 17 |
+|  9 |                18 | 1851 - 5 - 10   | fregenal de la sierra | badajoz    | 1851 - 06 - 04 | 1852 - 12 - 02 |
+| 10 |                19 | 1853 - 2 - 4    | fregenal de la sierra | badajoz    | 1853 - 03 - 15 | 1853 - 12 - 10 |
++----+-------------------+-----------------+-----------------------+------------+----------------+----------------+
+Frase: juan bravo murillo served a higher proportion of the votes in badajoz than in fregenal de la sierra .
+Answer [t/f/n]: n
+
+
+# 30/30
+id: c23eb3cc7fae1252946b395bcceff0e4c4642abc - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: list of hewitts and nuttalls in england
++----+--------------------------+----------------+--------------+---------+-----------------------+
+|    | peak                     |   height ( m ) |   prom ( m ) | class   | parent                |
+|----+--------------------------+----------------+--------------+---------+-----------------------|
+|  0 | whernside                |            736 |          408 | marilyn | cross fell            |
+|  1 | ingleborough             |            724 |          428 | marilyn | cross fell            |
+|  2 | great whernside          |            704 |          288 | marilyn | whernside             |
+|  3 | buckden pike             |            702 |          207 | marilyn | great whernside       |
+|  4 | pen - y - ghent          |            694 |          306 | marilyn | whernside             |
+|  5 | great coum               |            687 |          221 | marilyn | whernside             |
+|  6 | plover hill              |            680 |           59 | hewitt  | pen - y - ghent       |
+|  7 | great knoutberry hill    |            672 |          254 | marilyn | great whernside       |
+|  8 | dodd fell hill           |            668 |          230 | marilyn | great knoutberry hill |
+|  9 | fountains fell           |            668 |          243 | marilyn | pen - y - ghent       |
+| 10 | fountains fell south top |            662 |           15 | nuttall | fountains fell        |
+| 11 | simon fell               |            650 |           35 | hewitt  | ingleborough          |
+| 12 | yockenthwaite moor       |            643 |           86 | hewitt  | dodd fell hill        |
+| 13 | green hill               |            628 |           24 | nuttall | great coum            |
+| 14 | gragareth                |            627 |           30 | hewitt  | great coum            |
+| 15 | darnbrook fell           |            624 |           40 | hewitt  | fountains fell        |
+| 16 | drumaldrace              |            614 |           66 | hewitt  | dodd fell hill        |
+| 17 | birks fell               |            610 |          158 | marilyn | pen - y - ghent       |
++----+--------------------------+----------------+--------------+---------+-----------------------+
+Frase: the average height of hewitts and nuttalls in england is 670 meters .
+Answer [t/f/n]: f
+
+

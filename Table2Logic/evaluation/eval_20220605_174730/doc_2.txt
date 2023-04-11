@@ -1,0 +1,659 @@
+Instrucciones
+A continuación verás 30 frases acompañadas de una tabla y su título (de la tabla). Las frases dicen algo de la tabla y tendrás que decir si lo que dice es cierto (t) o falso (f) en base a la información presente en la tabla y el título. 
+Si lo que se dice en la frase no está respaldado por ningún dato de la tabla o del título, la frase se considerará falsa. 
+Si la frase menciona información que pueda ser deducida de la tabla como resultado de de sumas, restas, medias, etc... la frase se considerará correcta.
+Puede que algunas frases estén mal escritas o que digan obviedades como 'in the 1975 formula one season, the race on march 1st was the only one to take place on march 1st'. En estos casos, si la frase se puede entender y lo que dice sigue siendo cierto, se considerarán ciertas (t).
+Hay casos extremos en los que las frases pueden no tener ningún sentido y sea imposible valorar si lo que dicen es cierto o falso. En estos casos la respuesta debe ser 'n' de nonsense.
+Escribe tu respuesta t, f o n en 'Answer [t/f/n]: ' por ejemplo para una frase correcta -> Answer [t/f/n]: t
+Cuando termines, guarda el archivo de texto y evíamelo de vuelta a me@email.com o por el canal que más fácil te resulte (Telegram, etc...)
+Si tienes alguna duda durante la evaluación preguntame sin problema :)
+Te agradezco mucho la ayuda ^^
+
+PARA VER BIEN LAS TABLAS: Si usas Sublime Text (cosa que recomiendo), vete a View y desactiva Word Wrap. Así, las tablas que no quepan en horizontal no pasarán a la siguiente línea (haciéndolas muy difíciles de leer).
+Si usas otro editor y quieres saber cómo desactivarlo, busca cómo desabilitar el 'line wrap' en google o pregúntame a mí.
+
+
+# 1/30
+id: 8c20a502d41244b8d91182aeb2a1f5180bb8a143 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: vissel kobe
++----+----------+-------+-------+-------+------------------+------------------+
+|    |   season | div   |   tms |   pos |   attendance / g | emperor 's cup   |
+|----+----------+-------+-------+-------+------------------+------------------|
+|  0 |     1997 | j1    |    17 |    16 |             6567 | 4th round        |
+|  1 |     1998 | j1    |    18 |    17 |             7686 | 3rd round        |
+|  2 |     1999 | j1    |    16 |    10 |             7691 | 3rd round        |
+|  3 |     2000 | j1    |    16 |    13 |             7512 | semi - final     |
+|  4 |     2001 | j1    |    16 |    12 |            13872 | 4th round        |
+|  5 |     2002 | j1    |    16 |    14 |            10467 | 3rd round        |
+|  6 |     2003 | j1    |    16 |    13 |            11195 | quarter - final  |
+|  7 |     2004 | j1    |    16 |    11 |            15735 | 4th round        |
+|  8 |     2005 | j1    |    18 |    18 |            14913 | 4th round        |
+|  9 |     2006 | j2    |    13 |     3 |             6910 | 3rd round        |
+| 10 |     2007 | j1    |    18 |    10 |            12460 | 5th round        |
+| 11 |     2008 | j1    |    18 |    10 |            12981 | 5th round        |
+| 12 |     2009 | j1    |    18 |    14 |            13068 | 4th round        |
+| 13 |     2010 | j1    |    18 |    15 |            12824 | 3rd round        |
+| 14 |     2011 | j1    |    18 |     9 |            13233 | 3rd round        |
+| 15 |     2012 | j1    |    18 |    16 |            14638 | 2nd round        |
++----+----------+-------+-------+-------+------------------+------------------+
+Frase: vissel kobe had a total of 15 divs in his career .
+Answer [t/f/n]: 
+
+
+# 2/30
+id: e2a8e1b85e4ce6f94e56d69bd71736e91b533ff7 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: claudia hoffmann
++----+--------+-------------------------------+-----------------------------+------------+---------------+
+|    |   year | competition                   | venue                       | position   | event         |
+|----+--------+-------------------------------+-----------------------------+------------+---------------|
+|  0 |   2000 | world junior championships    | santiago , chile            | 5th        | 4 400 m relay |
+|  1 |   2001 | european junior championships | grosseto , italy            | 4th        | 400 m         |
+|  2 |   2005 | world championships           | helsinki , finland          | 6th        | 4 400 m relay |
+|  3 |   2006 | european championships        | gothenburg , sweden         | 5th        | 4 400 m relay |
+|  4 |   2007 | european indoor championships | birmingham , united kingdom | 5th        | 4 400 m relay |
+|  5 |   2010 | european championships        | barcelona , spain           | 2nd        | 4 400 m relay |
++----+--------+-------------------------------+-----------------------------+------------+---------------+
+Frase: 2005 was the only year that claudia hoffmann competed in the year 2005 .
+Answer [t/f/n]: 
+
+
+# 3/30
+id: ee0410a6f1e44c7249d285b13c65f4c1c2f0fad6 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: tri - eastern conference ( ihsaa )
++----+----------------+----------------+-------------+-------------+---------------+----------------------------------+-------------+-----------------------------------------+
+|    | school         | location       | mascot      | county      |   year joined | previous conference              |   year left | conference joined                       |
+|----+----------------+----------------+-------------+-------------+---------------+----------------------------------+-------------+-----------------------------------------|
+|  0 | cambridge city | cambridge city | wampus cats | 89 wayne    |          1962 | eastern indiana                  |        1965 | none ( consolidated into lincoln )      |
+|  1 | knightstown    | knightstown    | panthers    | 32 henry    |          1962 | east central                     |        1969 | big blue river                          |
+|  2 | liberty        | liberty        | lancers     | 81 union    |          1962 | east central / whitewater valley |        1965 | none ( consolidated into short )        |
+|  3 | short          | liberty        | lancers     | 81 union    |          1965 | none ( new school )              |        1973 | none ( consolidated into union county ) |
+|  4 | brookville     | brookville     | greyhounds  | 24 franklin |          1966 | eastern indiana                  |        1973 | eastern indiana                         |
++----+----------------+----------------+-------------+-------------+---------------+----------------------------------+-------------+-----------------------------------------+
+Frase: the majority of schools in the tri-eastern conference in 1962 joined the conference .
+Answer [t/f/n]: 
+
+
+# 4/30
+id: e6a326b44353138081fc99ba88c9ae5cb8e217a3 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: fil world luge championships 1961
++----+--------+--------------+--------+----------+----------+---------+
+|    |   rank | nation       |   gold |   silver |   bronze |   total |
+|----+--------+--------------+--------+----------+----------+---------|
+|  0 |      1 | austria      |      0 |        0 |        3 |       3 |
+|  1 |      2 | italy        |      1 |        1 |        0 |       2 |
+|  2 |      3 | west germany |      0 |        2 |        0 |       2 |
+|  3 |      4 | poland       |      1 |        0 |        0 |       1 |
+|  4 |      5 | switzerland  |      1 |        0 |        0 |       1 |
++----+--------+--------------+--------+----------+----------+---------+
+Frase: austria was the only country to win 0 bronze medals at the fil world luge championships .
+Answer [t/f/n]: 
+
+
+# 5/30
+id: d8dcaf50fc291ad4d4b8e8a763d1e63a7cd7cd34 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: eurovision song contest 1963
++----+--------+------------------+-------------------------+---------------------------------+-----------------------------+---------+----------+
+|    |   draw | language         | artist                  | song                            | english translation         |   place |   points |
+|----+--------+------------------+-------------------------+---------------------------------+-----------------------------+---------+----------|
+|  0 |     01 | english          | ronnie carroll          | say wonderful things            | -                           |       4 |       28 |
+|  1 |     02 | dutch            | annie palmen            | een speeldoos                   | a musical box               |      13 |        0 |
+|  2 |     03 | german           | heidi brühl             | marcel                          | -                           |       9 |        5 |
+|  3 |     04 | german , english | carmela corren          | vielleicht geschieht ein wunder | maybe a miracle will happen |       7 |       16 |
+|  4 |     05 | norwegian        | anita thallaug          | solhverv                        | solstice                    |      13 |        0 |
+|  5 |     06 | italian          | emilio pericoli         | uno per tutte                   | one for all                 |       3 |       37 |
+|  6 |     07 | finnish          | laila halme             | muistojeni laulu                | the song of my memories     |      13 |        0 |
+|  7 |     08 | danish           | grethe & jørgen ingmann | dansevise                       | dance ballad                |       1 |       42 |
+|  8 |     09 | croatian         | vice vukov              | brodovi                         | ships                       |      11 |        3 |
+|  9 |     10 | french           | esther ofarim           | t ' en va pas                   | do n't go away              |       2 |       40 |
+| 10 |     11 | french           | alain barrière          | elle était si jolie             | she was so pretty           |       5 |       25 |
+| 11 |     12 | spanish          | josé guardiola          | algo prodigioso                 | something marvellous        |      12 |        2 |
+| 12 |     13 | swedish          | monica zetterlund       | en gång i stockholm             | once in stockholm           |      13 |        0 |
+| 13 |     14 | dutch            | jacques raymond         | waarom                          | why                         |      10 |        4 |
+| 14 |     15 | french           | françoise hardy         | l'amour s ' en va               | love goes away              |       5 |       25 |
+| 15 |     16 | french           | nana mouskouri          | à force de prier                | by the might of prayer      |       8 |       13 |
++----+--------+------------------+-------------------------+---------------------------------+-----------------------------+---------+----------+
+Frase: ronnie carroll was the only artist who represented ronnie carroll .
+Answer [t/f/n]: 
+
+
+# 6/30
+id: 70e3a75db000a758d18a71b6a2041ae5804ad5f6 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: james calado
++----+----------+----------------------------------------------+-------------------+---------+--------+---------+------------+-----------+----------+------------+
+|    |   season | series                                       | team              |   races |   wins |   poles |   f / laps |   podiums |   points | position   |
+|----+----------+----------------------------------------------+-------------------+---------+--------+---------+------------+-----------+----------+------------|
+|  0 |     2008 | british formula renault 2.0                  | fortec motorsport |      20 |      1 |       2 |          0 |         4 |      292 | 7th        |
+|  1 |     2008 | formula renault 2.0 nec                      | fortec motorsport |       3 |      0 |       0 |          0 |         0 |       38 | 25th       |
+|  2 |     2008 | british formula renault 2.0 winter series    | fortec motorsport |       4 |      2 |       3 |          4 |         3 |      116 | 1st        |
+|  3 |     2008 | portuguese formula renault 2.0 winter series | fortec motorsport |       4 |      3 |       2 |          2 |         4 |       60 | 1st        |
+|  4 |     2009 | british formula renault 2.0                  | fortec motorsport |      20 |      8 |      10 |          7 |        12 |      457 | 2nd        |
+|  5 |     2009 | formula renault 2.0 eurocup                  | fortec motorsport |       6 |      0 |       0 |          1 |         0 |       10 | 17th       |
+|  6 |     2010 | british formula three championship           | carlin            |      30 |      5 |       2 |          4 |        12 |      293 | 2nd        |
+|  7 |     2011 | gp3 series                                   | lotus art         |      16 |      1 |       1 |          2 |         6 |       55 | 2nd        |
+|  8 |     2011 | gp2 final                                    | lotus art         |       2 |      1 |       0 |          0 |         1 |        7 | 5th        |
+|  9 |     2012 | gp2 series                                   | lotus gp          |      24 |      2 |       2 |          1 |         7 |      160 | 5th        |
++----+----------+----------------------------------------------+-------------------+---------+--------+---------+------------+-----------+----------+------------+
+Frase: james calado had the highest number of races in the 2010 season .
+Answer [t/f/n]: 
+
+
+# 7/30
+id: 7627738b57e48911bbc6f9054f251edd85e824e5 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: list of south american countries by gdp ( ppp ) per capita
++----+-----------------------+--------------+-----------+----------------+-------------------------+
+|    |   south american rank |   world rank | nation    |   2011 ( imf ) |   2008 ( cia factbook ) |
+|----+-----------------------+--------------+-----------+----------------+-------------------------|
+|  0 |                     1 |           51 | argentina |          17376 |                   14500 |
+|  1 |                     2 |           55 | chile     |          16171 |                   15400 |
+|  2 |                     3 |           59 | uruguay   |          15469 |                   12300 |
+|  3 |                     4 |           71 | venezuela |          12407 |                   13500 |
+|  4 |                     5 |           74 | brazil    |          11845 |                   10513 |
+|  5 |                     6 |           82 | colombia  |          10155 |                    9000 |
+|  6 |                     7 |           83 | peru      |          10000 |                    8500 |
+|  7 |                     8 |           86 | suriname  |           9492 |                    8900 |
+|  8 |                     9 |           91 | ecuador   |           8335 |                    7700 |
+|  9 |                    10 |           96 | guyana    |           7541 |                    4000 |
+| 10 |                    11 |          110 | paraguay  |           5548 |                    4400 |
++----+-----------------------+--------------+-----------+----------------+-------------------------+
+Frase: chile has the second lowest gdp per capita among south american countries by gdp .
+Answer [t/f/n]: 
+
+
+# 8/30
+id: ec730184263425b3aa9daf4c764d4232a9cc25a8 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 2008 manx grand prix
++----+--------+----------------------+-----------------+------------+------------+
+|    |   rank | rider                | team            | speed      | time       |
+|----+--------+----------------------+-----------------+------------+------------|
+|  0 |      1 | roy richardson       | 349cc honda     | 99.814 mph | 1:08.02.42 |
+|  1 |      2 | paul coward          | 348cc k4 honda  | 98.136 mph | 1:09.12.26 |
+|  2 |      3 | ryan farquhar        | 347cc honda     | 97.873 mph | 1:09.23.39 |
+|  3 |      4 | rich hawkins         | 348cc k4 honda  | 97.743 mph | 1:09.29.85 |
+|  4 |      5 | wattie brown         | 350cc honda     | 94.349 mph | 1:11.58.88 |
+|  5 |      6 | john burrows         | 350cc honda     | 93.929 mph | 1:12.18.19 |
+|  6 |      7 | bob price            | 350cc honda     | 93.537 mph | 1:12.36.41 |
+|  7 |      8 | paul dobbs           | 350cc aermacchi | 93.161 mph | 1:12.53.99 |
+|  8 |      9 | dave madsen - mygdal | 349cc honda     | 92.922 mph | 1:13.05.25 |
+|  9 |     10 | alec whitwell        | 349cc honda     | 92.234 mph | 1:13.37.95 |
++----+--------+----------------------+-----------------+------------+------------+
+Frase: the average speed of riders in the 2008 manx grand prix was 93 mph .
+Answer [t/f/n]: 
+
+
+# 9/30
+id: 4041b1d4e44f258206184cab0d90181c9c6474fe - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: united states house of representatives elections , 1946
++----+-------------+------------------+------------+-----------------+--------------+--------------------------------------------------------+
+|    | district    | incumbent        | party      |   first elected | result       | candidates                                             |
+|----+-------------+------------------+------------+-----------------+--------------+--------------------------------------------------------|
+|  0 | new york 16 | ellsworth b buck | republican |            1944 | re - elected | ellsworth b buck ( r ) 61.2 % john burry ( d ) 38.8 %  |
+|  1 | new york 20 | sol bloom        | democratic |            1923 | re - elected | sol bloom ( d ) 61.1 % jules j justin ( r ) 38.9 %     |
+|  2 | new york 28 | ralph a gamble   | republican |            1937 | re - elected | ralph a gamble ( r ) 75.4 % morris karnes ( d ) 24.6 % |
+|  3 | new york 30 | jay le fevre     | republican |            1942 | re - elected | jay le fevre ( r ) 69.5 % john f killgrew ( d ) 30.5 % |
+|  4 | new york 35 | hadwen c fuller  | republican |            1943 | re - elected | hadwen c fuller ( r ) 54.3 % frank a emma ( d ) 45.7 % |
++----+-------------+------------------+------------+-----------------+--------------+--------------------------------------------------------+
+Frase: all of the incumbents in the election of 1946 for united states house of representatives , were re-elected .
+Answer [t/f/n]: 
+
+
+# 10/30
+id: 034d79777c5b44c62fc1eacd7d79577358ad304e - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 2006 - 07 in welsh rugby union
++----+----------------------+----------+-------+---------+--------+--------------+------------------+-------------+----------+
+|    | club                 | played   | won   | drawn   | lost   | points for   | points against   | tries for   | points   |
+|----+----------------------+----------+-------+---------+--------+--------------+------------------+-------------+----------|
+|  0 | club                 | played   | won   | drawn   | lost   | points for   | points against   | tries for   | points   |
+|  1 | beddau rfc           | 22       | 19    | 0       | 3      | 654          | 321              | 85          | 57       |
+|  2 | bargoed rfc          | 22       | 17    | 0       | 5      | 665          | 436              | 89          | 51       |
+|  3 | newbridge rfc        | 22       | 17    | 0       | 5      | 516          | 281              | 63          | 51       |
+|  4 | pontypool rfc        | 22       | 15    | 0       | 7      | 515          | 370              | 59          | 45       |
+|  5 | fleur de lys rfc     | 22       | 10    | 0       | 12     | 422          | 523              | 49          | 30       |
+|  6 | uwic rfc             | 22       | 9     | 1       | 12     | 625          | 604              | 74          | 28       |
+|  7 | newport saracens rfc | 22       | 9     | 1       | 12     | 368          | 457              | 46          | 28       |
+|  8 | llanharan rfc        | 22       | 9     | 0       | 13     | 546          | 565              | 66          | 27       |
+|  9 | caerphilly rfc       | 22       | 9     | 0       | 14     | 402          | 572              | 47          | 24       |
+| 10 | blackwood rfc        | 22       | 6     | 1       | 15     | 433          | 511              | 51          | 19       |
+| 11 | abercynon rfc        | 22       | 5     | 2       | 15     | 365          | 718              | 45          | 17       |
+| 12 | ystrad rhondda rfc   | 22       | 5     | 1       | 16     | 417          | 570              | 47          | 16       |
++----+----------------------+----------+-------+---------+--------+--------------+------------------+-------------+----------+
+Frase: only three of the teams in the 2006 - 07 welsh rugby union season won more than 50 points .
+Answer [t/f/n]: 
+
+
+# 11/30
+id: 26567c93a3156a2e276c91d86489649477cd1429 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 1955 vfl season
++----+-----------------+-------------------+-----------------+-------------------+-----------------------+---------+---------------+
+|    | home team       | home team score   | away team       | away team score   | venue                 |   crowd | date          |
+|----+-----------------+-------------------+-----------------+-------------------+-----------------------+---------+---------------|
+|  0 | st kilda        | 8.5 ( 53 )        | south melbourne | 11.16 ( 82 )      | junction oval         |   10150 | 6 august 1955 |
+|  1 | footscray       | 10.13 ( 73 )      | geelong         | 10.16 ( 76 )      | western oval          |   33902 | 6 august 1955 |
+|  2 | fitzroy         | 6.17 ( 53 )       | richmond        | 11.9 ( 75 )       | brunswick street oval |   14000 | 6 august 1955 |
+|  3 | north melbourne | 8.12 ( 60 )       | hawthorn        | 8.5 ( 53 )        | arden street oval     |    9000 | 6 august 1955 |
+|  4 | melbourne       | 16.23 ( 119 )     | essendon        | 7.12 ( 54 )       | mcg                   |   49352 | 6 august 1955 |
+|  5 | collingwood     | 12.17 ( 89 )      | carlton         | 7.10 ( 52 )       | victoria park         |   28000 | 6 august 1955 |
++----+-----------------+-------------------+-----------------+-------------------+-----------------------+---------+---------------+
+Frase: all games of the 1955 vfl season were played on the 6th of august .
+Answer [t/f/n]: 
+
+
+# 12/30
+id: 92fdd289388a4689e75fe180057da154b9e06eb6 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: locomotives of the southern railway
++----+-----------+-----------+---------------------+---------+-------------+------------------+
+|    | iwcr no   | name      | wheel arrangement   | sr no   |   year made |   year withdrawn |
+|----+-----------+-----------+---------------------+---------+-------------+------------------|
+|  0 | 1 ( 1st ) | pioneer   | 2 - 2 - 2t          | -       |        1861 |             1904 |
+|  1 | 2 ( 1st ) | precursor | 2 - 2 - 2t          | -       |        1861 |             1904 |
+|  2 | 1 ( 2nd ) | -         | 0 - 4 - 0t          | -       |        1906 |             1918 |
+|  3 | 2 ( 2nd ) | -         | 0 - 4 - 4t          | -       |        1895 |             1917 |
+|  4 | 3         | -         | 0 - 4 - 2t          | -       |        1870 |             1918 |
+|  5 | 4         | cowes     | 2 - 4 - 0t          | w4      |        1876 |             1925 |
+|  6 | 5         | osborne   | 2 - 4 - 0t          | w5      |        1876 |             1926 |
+|  7 | 6 ( 1st ) | newport   | 2 - 2 - 2t          | -       |        1861 |             1895 |
+|  8 | 6 ( 2nd ) | -         | 4 - 4 - 0t          | w6      |        1890 |             1926 |
+|  9 | 7 ( 1st ) | -         | 4 - 4 - 0t          | -       |        1861 |             1906 |
+| 10 | 7 ( 2nd ) | -         | 2 - 4 - 0t          | w7      |        1882 |             1926 |
+| 11 | 8         | -         | 2 - 4 - 0t          | w8      |        1898 |             1929 |
+| 12 | 9         | -         | 0 - 6 - 0t          | w9      |        1872 |             1927 |
+| 13 | 10        | -         | 0 - 6 - 0t          | w10     |        1874 |             1936 |
+| 14 | 11        | -         | 0 - 6 - 0t          | w11     |        1878 |             1963 |
+| 15 | 12        | -         | 0 - 6 - 0t          | w12     |        1880 |             1936 |
++----+-----------+-----------+---------------------+---------+-------------+------------------+
+Frase: two of the southern railway locomotives of the southern railway were withdrawn in 1936 .
+Answer [t/f/n]: 
+
+
+# 13/30
+id: e0371b3044dca224b4c6fa09bd67385b2cb2e26a - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: indiana high school athletics conferences : ohio river valley - western indiana
++----+-----------------+---------------+-------------+--------+---------------+---------------+
+|    | school          | location      | mascot      |   size | ihsaa class   | county        |
+|----+-----------------+---------------+-------------+--------+---------------+---------------|
+|  0 | crawford county | marengo       | wolfpack    |    487 | aa            | 13 crawford   |
+|  1 | mitchell        | mitchell      | bluejackets |    620 | aaa           | 47 lawrence   |
+|  2 | orleans         | orleans       | bulldogs    |    258 | a             | 59 orange     |
+|  3 | paoli           | paoli         | rams        |    511 | aa            | 59 orange     |
+|  4 | perry central   | leopold       | commodores  |    334 | aa            | 62 perry      |
+|  5 | springs valley  | french lick   | blackhawks  |    319 | a             | 59 orange     |
+|  6 | west washington | campbellsburg | senators    |    307 | a             | 88 washington |
++----+-----------------+---------------+-------------+--------+---------------+---------------+
+Frase: mitchell is the largest school in the indiana high school athletics conference .
+Answer [t/f/n]: 
+
+
+# 14/30
+id: 9c580d913cca12b5a4c552da7de17a222e08d54c - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 2009 - 10 temple owls men 's basketball team
++----+--------+-------------+-------------------+-----------+------------------+------------------+--------------------+-----------------------------------------------+----------+
+|    |   game | date        | team              | score     | high points      | high rebounds    | high assists       | location attendance                           | record   |
+|----+--------+-------------+-------------------+-----------+------------------+------------------+--------------------+-----------------------------------------------+----------|
+|  0 |      1 | november 14 | delaware          | w 76 - 56 | ryan brooks - 23 | lavoy allen - 15 | juan fernandez - 5 | bob carpenter center , newark , de ( 3080 )   | 1 - 0    |
+|  1 |      2 | november 17 | georgetown ( 19 ) | l 46 - 45 | allen - 12       | allen - 14       | luiz guzman - 6    | verizon center , washington , dc ( 8712 )     | 1 - 1    |
+|  2 |      3 | november 21 | siena             | w 73 - 69 | fernandez - 20   | allen - 7        | allen - 5          | liacouras center , philadelphia , pa ( 6759 ) | 2 - 1    |
+|  3 |      4 | november 24 | ball state        | w 66 - 46 | brooks - 17      | allen - 9        | allen / brooks - 7 | liacouras center , philadelphia , pa ( 3597 ) | 3 - 1    |
+|  4 |      5 | november 27 | virginia tech     | w 61 - 50 | allen - 18       | allen - 10       | fernandez - 6      | palestra , philadelphia , pa ( 3750 )         | 4 - 1    |
++----+--------+-------------+-------------------+-----------+------------------+------------------+--------------------+-----------------------------------------------+----------+
+Frase: the 2009-10 temple owls basketball team won most of their games .
+Answer [t/f/n]: 
+
+
+# 15/30
+id: 87928c7b0622798da79b8a0febc248adc56e444d - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: the universal masters collection ( grace jones album )
++----+-----------+--------+----------------------------------------+----------------+----------------------+
+|    | region    |   year | name                                   | format ( s )   | label                |
+|----+-----------+--------+----------------------------------------+----------------+----------------------|
+|  0 | worldwide |   2003 | the universal masters collection       | cd             | universal            |
+|  1 | japan     |   2005 | best 1200                              | cd             | universal            |
+|  2 | worldwide |   2006 | colour collection                      | cd             | universal            |
+|  3 | germany   |   2008 | star - club prã ¤ sentiert grace jones | cd             | universal            |
+|  4 | worldwide |   2008 | classic grace jones                    | cd , download  | universal , spectrum |
++----+-----------+--------+----------------------------------------+----------------+----------------------+
+Frase: the only time the universal masters collection was released was in 2008 .
+Answer [t/f/n]: 
+
+
+# 16/30
+id: ce83b72fefd8db63dbd75936f551324a1fd92604 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: canon open
++----+--------+------------+-----------------+-----------+--------------+-----------+-------------------+
+|    |   year | dates      | champion        | country   | score        |     purse |   winner 's share |
+|----+--------+------------+-----------------+-----------+--------------+-----------+-------------------|
+|  0 |   2012 | oct 4 - 7  | yuta ikeda      | japan     | 271 ( - 17 ) | 150000000 |          30000000 |
+|  1 |   2011 | oct 6 - 9  | kenichi kuboya  | japan     | 274 ( - 14 ) | 150000000 |          30000000 |
+|  2 |   2010 | oct 7 - 10 | shinichi yokota | japan     | 274 ( - 14 ) | 150000000 |          30000000 |
+|  3 |   2009 | oct 8 - 11 | yuta ikeda      | japan     | 200 ( - 16 ) | 150000000 |          30000000 |
+|  4 |   2008 | oct 9 - 12 | makoto inoue    | japan     | 275 ( - 13 ) | 200000000 |          40000000 |
++----+--------+------------+-----------------+-----------+--------------+-----------+-------------------+
+Frase: 2009 was the only year in which canon open did not score any points .
+Answer [t/f/n]: 
+
+
+# 17/30
+id: a40306cc4d53d26c36fb50716252a74e005276d0 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 2008 formula 3 euro series season
++----+----------------------+---------+---------+---------+---------+---------+---------+
+|    | driver               | nor 1   | nor 2   | zan 1   | zan 2   | nür 1   | nür 2   |
+|----+----------------------+---------+---------+---------+---------+---------+---------|
+|  0 | erik janiš           | 8       | 22      | 12      | 10      | ret     | 12      |
+|  1 | mika mäki            | ret     | 18      | 2       | 5       | 4       | ret     |
+|  2 | jules bianchi        | ret     | 9       | 3       | 9       | 2       | 3       |
+|  3 | jon lancaster        | 5       | ret     | ret     | ret     | 7       | 1       |
+|  4 | richard philippe     | 22      | 16      | 16      | 12      | 10      | 18      |
+|  5 | robert wickens       | 7       | 2       | 8       | ret     | 12      | 16      |
+|  6 | stefano coletti      | 11      | 6       | 19      | ret     | 9       | ret     |
+|  7 | daniel campos - hull | 17      | 11      | 23      | 14      | 20      | 8       |
+|  8 | henkie waldschmidt   | 9       | ret     | 17      | ret     | 15      | 17      |
+|  9 | jens klingmann       | 15      | 10      | 21      | 18      | 16      | 10      |
+| 10 | martin plowman       | ret     | ret     | 20      | 17      | 17      | 21      |
+| 11 | driver               | nor 1   | nor 2   | zan 1   | zan 2   | nür 1   | nür 2   |
++----+----------------------+---------+---------+---------+---------+---------+---------+
+Frase: richard philippe drove more formula 3 races than stefano coletti .
+Answer [t/f/n]: 
+
+
+# 18/30
+id: 8138cabc70f0b0799d397a56caacd4a9fcb1d7ad - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: raphael butler
++----+-------+----------+-----------------+------------------------+---------+--------+-----------------------------------------+
+|    | res   | record   | opponent        | method                 |   round | time   | location                                |
+|----+-------+----------+-----------------+------------------------+---------+--------+-----------------------------------------|
+|  0 | win   | 7 - 0    | joseph bryant   | tko ( strikes )        |       1 | 1:04   | rio rancho , new mexico , united states |
+|  1 | win   | 6 - 0    | jeremiah o'neal | ko ( punches )         |       1 | 2:19   | thackerville , oklahoma , united states |
+|  2 | win   | 5 - 0    | brett murphy    | ko ( punch )           |       1 | 0:13   | st paul , minnesota , united states     |
+|  3 | win   | 4 - 0    | steven shaw     | submission ( armbar )  |       1 | 4:35   | maplewood , minnesota , united states   |
+|  4 | win   | 3 - 0    | richard white   | submission ( punches ) |       2 | 3:18   | rochester , minnesota , united states   |
+|  5 | win   | 2 - 0    | jeremy beck     | ko ( punches )         |       1 | 3:36   | red wing , minnesota , united states    |
+|  6 | win   | 1 - 0    | gabe hobbs      | ko ( punch )           |       1 | 0:36   | welch , minnesota , united states       |
++----+-------+----------+-----------------+------------------------+---------+--------+-----------------------------------------+
+Frase: raphael butler 's fight against brett murphy went on average 15 minutes and forty seconds .
+Answer [t/f/n]: 
+
+
+# 19/30
+id: 1a4610275faffd0afcf54aad272cfc5033f76f17 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 1990 masters tournament
++----+---------+------------------+---------------+-------------------------+----------+---------+
+|    | place   | player           | country       | score                   | to par   | money   |
+|----+---------+------------------+---------------+-------------------------+----------+---------|
+|  0 | t1      | nick faldo       | england       | 71 + 72 + 66 + 69 = 278 | - 10     | playoff |
+|  1 | t1      | raymond floyd    | united states | 70 + 68 + 68 + 72 = 278 | - 10     | playoff |
+|  2 | t3      | john huston      | united states | 66 + 74 + 68 + 75 = 283 | - 5      | 72500   |
+|  3 | t3      | lanny wadkins    | united states | 72 + 73 + 70 + 68 = 283 | - 5      | 72500   |
+|  4 | 5       | fred couples     | united states | 74 + 69 + 72 + 69 = 284 | - 4      | 50000   |
+|  5 | 6       | jack nicklaus    | united states | 72 + 70 + 69 + 74 = 285 | - 3      | 45000   |
+|  6 | t7      | seve ballesteros | spain         | 74 + 73 + 68 + 71 = 286 | - 2      | 35150   |
+|  7 | t7      | bill britton     | united states | 68 + 74 + 71 + 73 = 286 | - 2      | 35150   |
+|  8 | t7      | bernhard langer  | west germany  | 70 + 73 + 69 + 74 = 286 | - 2      | 35150   |
+|  9 | t7      | scott simpson    | united states | 74 + 71 + 68 + 73 = 286 | - 2      | 35150   |
+| 10 | t7      | curtis strange   | united states | 70 + 73 + 71 + 72 = 286 | - 2      | 35150   |
+| 11 | t7      | tom watson       | united states | 77 + 71 + 67 + 71 = 286 | - 2      | 35150   |
++----+---------+------------------+---------------+-------------------------+----------+---------+
+Frase: 5 players placed in the 1990 masters tournament .
+Answer [t/f/n]: 
+
+
+# 20/30
+id: 9ff1fecf859fd74f830402fe8b6df1b595ecdbf0 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: uk singles chart records and statistics
++----+------------+--------------------------+-------------------------------------+-----------------------+----------+
+|    | position   | artist                   | single                              | year                  | weeks    |
+|----+------------+--------------------------+-------------------------------------+-----------------------+----------|
+|  0 | 1st        | frankie laine            | i believe                           | 1953                  | 18 weeks |
+|  1 | 2nd        | bryan adams              | ( everything i do ) i do it for you | 1991                  | 16 weeks |
+|  2 | 3rd        | wet wet wet              | love is all around                  | 1994                  | 15 weeks |
+|  3 | 4th        | queen                    | bohemian rhapsody                   | 1975 / 76 & 1991 / 92 | 14 weeks |
+|  4 | 5th        | slim whitman             | rose marie                          | 1955                  | 11 weeks |
+|  5 | 6th        | david whitfield          | cara mia                            | 1954                  | 10 weeks |
+|  6 | 6th        | whitney houston          | i will always love you              | 1992                  | 10 weeks |
+|  7 | 6th        | rihanna ( feat jay - z ) | umbrella                            | 2007                  | 10 weeks |
++----+------------+--------------------------+-------------------------------------+-----------------------+----------+
+Frase: the average number of weeks for the uk singles chart records and statistics is 15 weeks .
+Answer [t/f/n]: 
+
+
+# 21/30
+id: c7af28e4bc3826504627be7d5d287b281f0be7c4 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: abebech negussie
++----+--------+-----------------------------------+------------------+----------+-------------------------+
+|    |   year | tournament                        | venue            | result   | extra                   |
+|----+--------+-----------------------------------+------------------+----------+-------------------------|
+|  0 |   2000 | world junior championships        | santiago , chile | 1st      | 1500 m                  |
+|  1 |   2001 | world cross country championships | ostend , belgium | 2nd      | junior race             |
+|  2 |   2001 | world cross country championships | ostend , belgium | 1st      | junior team competition |
+|  3 |   2002 | world cross country championships | dublin , ireland | 6th      | short race              |
+|  4 |   2002 | world cross country championships | dublin , ireland | 1st      | team competition        |
++----+--------+-----------------------------------+------------------+----------+-------------------------+
+Frase: the average number of times abbech negussie was in the junior division was 2.2 .
+Answer [t/f/n]: 
+
+
+# 22/30
+id: 9f36ff11d9dcc62bd1f995c1b6ca856dd36bec8d - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: sleepless nights ( patty loveless album )
++----+---------+-----------------------------------------------+------------------------------------------------+-------------------------------+--------------------+----------+
+|    |   track | song title                                    | writer ( s )                                   | original artist               |   original release | length   |
+|----+---------+-----------------------------------------------+------------------------------------------------+-------------------------------+--------------------+----------|
+|  0 |       1 | why baby why                                  | darrell edwards , george jones                 | george jones                  |               1955 | 2:18     |
+|  1 |       2 | the pain of loving you                        | dolly parton , porter wagoner                  | porter wagoner & dolly parton |               1971 | 2:46     |
+|  2 |       3 | he thinks i still care                        | dickey lee                                     | george jones                  |               1962 | 2:59     |
+|  3 |       4 | sleepless nights ( featuring vince gill )     | boudleaux bryant , felice bryant               | everly brothers               |               1960 | 4:21     |
+|  4 |       5 | crazy arms                                    | ralph mooney , chuck seals                     | ray price                     |               1956 | 4:00     |
+|  5 |       6 | there stands the glass                        | audrey greisham , russ hull , mary jean shurtz | webb pierce                   |               1953 | 2:35     |
+|  6 |       7 | that 's all it took ( featuring jedd hughes ) | darrell edwards , carlos grier , jones         | george jones & gene pitney    |               1966 | 2:35     |
+|  7 |       8 | color of the blues                            | jones , lawton williams                        | george jones                  |               1958 | 3:06     |
+|  8 |       9 | i forgot more than you 'll ever know          | cecil null                                     | the davis sisters             |               1953 | 3:30     |
+|  9 |      10 | next in line                                  | wayne kemp , curtis wayne                      | conway twitty                 |               1968 | 3:06     |
+| 10 |      11 | do n't let me cross over                      | penny jay                                      | carl butler and pearl         |               1962 | 3:23     |
+| 11 |      12 | please help me i 'm falling                   | hal blair , don robertson                      | hank locklin                  |               1960 | 2:40     |
+| 12 |      13 | there goes my everything                      | dallas frazier                                 | jack greene                   |               1966 | 2:50     |
+| 13 |      14 | cold , cold heart                             | hank williams                                  | hank williams                 |               1951 | 2:53     |
+| 14 |      15 | we 'll sweep out the ashes in the morning     | joyce ann allsup                               | carl butler & pearl           |               1969 | 3:14     |
+| 15 |      16 | if teardrops were pennies                     | carl butler                                    | carl smith                    |               1951 | 2:38     |
++----+---------+-----------------------------------------------+------------------------------------------------+-------------------------------+--------------------+----------+
+Frase: the longest version of the song " sleepless nights " is the one titled " 196 . " .
+Answer [t/f/n]: 
+
+
+# 23/30
+id: df6e33895715199fd34d1aa268789c8e46780c5a - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: manila
++----+-------------+--------------+------------------------------+----------------+---------------------------+
+|    | district    |   s barangay |   population ( 2010 census ) |   area ( has ) |   pop density ( per km2 ) |
+|----+-------------+--------------+------------------------------+----------------+---------------------------|
+|  0 | binondo     |           10 |                        12985 |          66.11 |                   19641.5 |
+|  1 | ermita      |           13 |                         7143 |         158.91 |                    4495   |
+|  2 | intramuros  |            5 |                         4925 |          67.26 |                    7322.3 |
+|  3 | malate      |           57 |                        77513 |         259.58 |                   29860.9 |
+|  4 | paco        |           43 |                        70978 |         278.69 |                   25468.4 |
+|  5 | pandacan    |           38 |                        73895 |         166    |                   44515.1 |
+|  6 | port area   |            5 |                        57405 |         315.28 |                   18207.6 |
+|  7 | quiapo      |           16 |                        24886 |          84.69 |                   29384.8 |
+|  8 | sampaloc    |          192 |                       241528 |         513.71 |                   47016.4 |
+|  9 | san andrãs  |           65 |                       115942 |         168.02 |                   69004.9 |
+| 10 | san miguel  |           12 |                        15992 |          91.37 |                   17502.5 |
+| 11 | san nicolas |           15 |                        44241 |         163.85 |                   27000.9 |
+| 12 | santa ana   |           34 |                        60952 |         169.42 |                   35976.9 |
+| 13 | santa cruz  |           82 |                       115747 |         309.01 |                   37457.4 |
+| 14 | santa mesa  |           51 |                        99933 |         261.01 |                   38287   |
++----+-------------+--------------+------------------------------+----------------+---------------------------+
+Frase: the average population of districts in manila in 2010 was 68,253 .
+Answer [t/f/n]: 
+
+
+# 24/30
+id: bdb91826c79b3afe1347e097718836b36ecedbfa - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: kjrt
++----+-------------+-----------------+---------------------+---------+---------+------------+
+|    | call sign   |   frequency mhz | city of license     |   erp w | class   | fcc info   |
+|----+-------------+-----------------+---------------------+---------+---------+------------|
+|  0 | k201bm      |            88.1 | canadian , texas    |      74 | d       | fcc        |
+|  1 | k202ck      |            88.3 | childress , texas   |     200 | d       | fcc        |
+|  2 | k216 gg     |            91.1 | plainview , texas   |      40 | a       | fcc        |
+|  3 | k220cp      |            91.9 | pampa , texas       |      67 | d       | fcc        |
+|  4 | k220iz      |            91.9 | perryton , texas    |     250 | d       | fcc        |
+|  5 | k220jz      |            91.9 | memphis , texas     |      25 | d       | fcc        |
+|  6 | k219lo      |            91.7 | hereford , texas    |      10 | d       | fcc        |
+|  7 | k229by      |            93.7 | tulia , texas       |     100 | d       | fcc        |
+|  8 | k291aq      |           106.1 | dumas , texas       |      92 | d       | fcc        |
+|  9 | k202ag      |            88.3 | elk city , oklahoma |      38 | d       | fcc        |
++----+-------------+-----------------+---------------------+---------+---------+------------+
+Frase: plainview , texas has a higher erp wattage than pampa , tex has .
+Answer [t/f/n]: 
+
+
+# 25/30
+id: 2bea2b0520e89cb87f84dc8b314903bca53422bc - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: judo at the 1997 mediterranean games
++----+--------+------------+--------+----------+----------+---------+
+|    | rank   | nation     |   gold |   silver |   bronze |   total |
+|----+--------+------------+--------+----------+----------+---------|
+|  0 | 1      | france     |      7 |        3 |        4 |      14 |
+|  1 | 2      | italy      |      5 |        2 |        5 |      12 |
+|  2 | 3      | spain      |      1 |        2 |        6 |       9 |
+|  3 | 4      | turkey     |      1 |        1 |        4 |       5 |
+|  4 | 5      | algeria    |      0 |        2 |        1 |       3 |
+|  5 | 6 =    | tunisia    |      0 |        1 |        3 |       4 |
+|  6 | 6 =    | yugoslavia |      0 |        1 |        3 |       4 |
+|  7 | 8 =    | egypt      |      0 |        1 |        0 |       1 |
+|  8 | 8 =    | slovenia   |      0 |        1 |        0 |       1 |
+|  9 | 10     | morocco    |      0 |        0 |        2 |       2 |
++----+--------+------------+--------+----------+----------+---------+
+Frase: judo at the 1997 mediterranean games had 0 gold medals in all of his matches .
+Answer [t/f/n]: 
+
+
+# 26/30
+id: 98f783e7a8916895eaba20e217bcc2a0edcb96e5 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: stephin merritt discography
++----+--------------------------------+----------+--------+--------------------+-----------------------+
+|    | album title                    | format   |   year | original label     | chart positions       |
+|----+--------------------------------+----------+--------+--------------------+-----------------------|
+|  0 | distant plastic trees          | lp       |   1991 | red flame          | -                     |
+|  1 | the wayward bus                | lp       |   1992 | popup              | -                     |
+|  2 | the house of tomorrow          | ep       |   1992 | feel good all over | -                     |
+|  3 | the charm of the highway strip | lp       |   1994 | merge records      | -                     |
+|  4 | holiday                        | lp       |   1994 | feel good all over | -                     |
+|  5 | get lost                       | lp       |   1995 | merge records      | -                     |
+|  6 | 69 love songs                  | lp       |   1999 | merge records      | -                     |
+|  7 | i                              | lp       |   2004 | nonesuch records   | 152 ( billboard 200 ) |
+|  8 | distortion                     | lp       |   2008 | nonesuch records   | 77 ( billboard 200 )  |
+|  9 | realism                        | lp       |   2010 | nonesuch records   | 110 ( billboard 200 ) |
+| 10 | love at the bottom of the sea  | lp       |   2012 | merge records      | 89 ( billboard 200 )  |
++----+--------------------------------+----------+--------+--------------------+-----------------------+
+Frase: the majority of stephin merritt discography were released on the lp format .
+Answer [t/f/n]: 
+
+
+# 27/30
+id: db4e96a32b41e35356cc645900fb9330962133c2 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: list of appalachian regional commission counties
++----+-------------+--------------+---------------------+----------------------------+----------------+--------------+
+|    | county      |   population | unemployment rate   |   market income per capita | poverty rate   | status       |
+|----+-------------+--------------+---------------------+----------------------------+----------------+--------------|
+|  0 | allegany    |        49927 | 5.8 %               |                      16850 | 15.5 %         | - risk       |
+|  1 | broome      |       200536 | 5.0 %               |                      24199 | 12.8 %         | transitional |
+|  2 | cattaraugus |        83955 | 5.5 %               |                      21285 | 13.7 %         | transitional |
+|  3 | chautauqua  |       136409 | 4.9 %               |                      19622 | 13.8 %         | transitional |
+|  4 | chemung     |        91070 | 5.1 %               |                      22513 | 13.0 %         | transitional |
+|  5 | chenango    |        51401 | 5.5 %               |                      20896 | 14.4 %         | transitional |
+|  6 | cortland    |        48599 | 5.7 %               |                      21134 | 15.5 %         | transitional |
+|  7 | delaware    |        48055 | 4.9 %               |                      21160 | 12.9 %         | transitional |
+|  8 | otsego      |        61676 | 4.9 %               |                      21819 | 14.9 %         | transitional |
+|  9 | schoharie   |        31582 | 6.0 %               |                      23145 | 11.4 %         | transitional |
+| 10 | schuyler    |        19224 | 5.4 %               |                      21042 | 11.8 %         | transitional |
+| 11 | steuben     |        98726 | 5.6 %               |                      28065 | 13.2 %         | transitional |
+| 12 | tioga       |        51784 | 4.8 %               |                      24885 | 8.4 %          | transitional |
++----+-------------+--------------+---------------------+----------------------------+----------------+--------------+
+Frase: in the list of appalachian regional commission counties , the county with the highest unemployment rate is schoharie .
+Answer [t/f/n]: 
+
+
+# 28/30
+id: 03e8f69c92b33ddabb42f38b4fbf47e04720d807 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: abc saturday movie of the week
++----+----------+------------+-------------------+---------------------+------------------+-------------+--------+---------------------------+
+|    |   season |   episodes | timeslot ( et )   | season premiere     | season finale    | tv season   |   rank |   viewers ( in millions ) |
+|----+----------+------------+-------------------+---------------------+------------------+-------------+--------+---------------------------|
+|  0 |        1 |         10 | saturday 8:00 pm  | february 21 , 2004  | august 14 , 2004 | 2003 - 2004 |    123 |                      6.21 |
+|  1 |        2 |         17 | saturday 8:00 pm  | september 25 , 2004 | august 27 , 2005 | 2004 - 2005 |    107 |                      6.41 |
+|  2 |        3 |         25 | saturday 8:00 pm  | september 17 , 2005 | august 12 , 2006 | 2005 - 2006 |    126 |                      5.74 |
+|  3 |        4 |         25 | saturday 8:00 pm  | october 21 , 2006   | august 25 , 2007 | 2006 - 2007 |    180 |                      5.12 |
+|  4 |        5 |         23 | saturday 8:00 pm  | december 8 , 2007   | august 23 , 2008 | 2007 - 2008 |    160 |                      4.69 |
+|  5 |        6 |         21 | saturday 8:00 pm  | december 13 , 2008  | august 29 , 2009 | 2008 - 2009 |    149 |                      3.8  |
+|  6 |        7 |         18 | saturday 8:00 pm  | december 12 , 2009  | august 28 , 2010 | 2009 - 2010 |    119 |                      3.55 |
+|  7 |        8 |         22 | saturday 8:00 pm  | december 11 , 2010  | august 20 , 2011 | 2010 - 2011 |    170 |                      3.53 |
+|  8 |        9 |         14 | saturday 8:00 pm  | december 24 , 2011  | august 18 , 2012 | 2011 - 2012 |    156 |                      3.46 |
++----+----------+------------+-------------------+---------------------+------------------+-------------+--------+---------------------------+
+Frase: abc saturday movie of the week had a total of 3 viewers .
+Answer [t/f/n]: 
+
+
+# 29/30
+id: fe72d1a269f2f9bd7cde1601349c4951a66f84e1 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 2005 houston astros season
++----+---------+----------------+---------+-------------------+-------------------+--------------+------------+
+|    | date    | winning team   | score   | winning pitcher   | losing pitcher    |   attendance | location   |
+|----+---------+----------------+---------+-------------------+-------------------+--------------+------------|
+|  0 | may 20  | texas          | 7 - 3   | kenny rogers      | brandon backe     |        38109 | arlington  |
+|  1 | may 21  | texas          | 18 - 3  | chris young       | ezequiel astacio  |        35781 | arlington  |
+|  2 | may 22  | texas          | 2 - 0   | chan ho park      | roy oswalt        |        40583 | arlington  |
+|  3 | june 24 | houston        | 5 - 2   | roy oswalt        | ricardo rodriguez |        36199 | houston    |
+|  4 | june 25 | texas          | 6 - 5   | chris young       | brandon backe     |        41868 | houston    |
++----+---------+----------------+---------+-------------------+-------------------+--------------+------------+
+Frase: most of the games of the 2005 houston astros ' season were played in the location of arlington .
+Answer [t/f/n]: 
+
+
+# 30/30
+id: f2676bd62e35a938d014920cb633b82613a014c7 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: list of inter milan records and statistics
++----+--------+----------------------+-------------------------------------+----------+---------+
+|    |   rank | name                 | years                               |   league |   total |
+|----+--------+----------------------+-------------------------------------+----------+---------|
+|  0 |      1 | giuseppe meazza      | 1927 - 1940 1946 - 1947             |      247 |     284 |
+|  1 |      2 | alessandro altobelli | 1977 - 1988                         |      128 |     209 |
+|  2 |      3 | roberto boninsegna   | 1969 - 1976                         |      113 |     171 |
+|  3 |      4 | sandro mazzola       | 1960 - 1977                         |      116 |     160 |
+|  4 |      5 | luigi cevenini       | 1912 - 1915 1919 - 1921 1922 - 1927 |      158 |     158 |
+|  5 |      6 | benito lorenzi       | 1947 - 1958                         |      138 |     143 |
+|  6 |      7 | istván nyers         | 1948 - 1954                         |      133 |     133 |
+|  7 |      8 | christian vieri      | 1999 - 2005                         |      103 |     123 |
+|  8 |      9 | ermanno aebi         | 1909 - 1915 1919 - 1923             |      106 |     106 |
+|  9 |     10 | mario corso          | 1958 - 1973                         |       75 |      94 |
++----+--------+----------------------+-------------------------------------+----------+---------+
+Frase: in the list of inter milan records and statistics , benito lorenzi ranks 2nd .
+Answer [t/f/n]: 
+
+

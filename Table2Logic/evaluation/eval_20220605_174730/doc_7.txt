@@ -1,0 +1,655 @@
+Instrucciones
+A continuación verás 30 frases acompañadas de una tabla y su título (de la tabla). Las frases dicen algo de la tabla y tendrás que decir si lo que dice es cierto (t) o falso (f) en base a la información presente en la tabla y el título. 
+Si lo que se dice en la frase no está respaldado por ningún dato de la tabla o del título, la frase se considerará falsa. 
+Si la frase menciona información que pueda ser deducida de la tabla como resultado de de sumas, restas, medias, etc... la frase se considerará correcta.
+Puede que algunas frases estén mal escritas o que digan obviedades como 'in the 1975 formula one season, the race on march 1st was the only one to take place on march 1st'. En estos casos, si la frase se puede entender y lo que dice sigue siendo cierto, se considerarán ciertas (t).
+Hay casos extremos en los que las frases pueden no tener ningún sentido y sea imposible valorar si lo que dicen es cierto o falso. En estos casos la respuesta debe ser 'n' de nonsense.
+Escribe tu respuesta t, f o n en 'Answer [t/f/n]: ' por ejemplo para una frase correcta -> Answer [t/f/n]: t
+Cuando termines, guarda el archivo de texto y evíamelo de vuelta a me@email.com o por el canal que más fácil te resulte (Telegram, etc...)
+Si tienes alguna duda durante la evaluación preguntame sin problema :)
+Te agradezco mucho la ayuda ^^
+
+PARA VER BIEN LAS TABLAS: Si usas Sublime Text (cosa que recomiendo), vete a View y desactiva Word Wrap. Así, las tablas que no quepan en horizontal no pasarán a la siguiente línea (haciéndolas muy difíciles de leer).
+Si usas otro editor y quieres saber cómo desactivarlo, busca cómo desabilitar el 'line wrap' en google o pregúntame a mí.
+
+
+# 1/30
+id: e6a326b44353138081fc99ba88c9ae5cb8e217a3 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: fil world luge championships 1961
++----+--------+--------------+--------+----------+----------+---------+
+|    |   rank | nation       |   gold |   silver |   bronze |   total |
+|----+--------+--------------+--------+----------+----------+---------|
+|  0 |      1 | austria      |      0 |        0 |        3 |       3 |
+|  1 |      2 | italy        |      1 |        1 |        0 |       2 |
+|  2 |      3 | west germany |      0 |        2 |        0 |       2 |
+|  3 |      4 | poland       |      1 |        0 |        0 |       1 |
+|  4 |      5 | switzerland  |      1 |        0 |        0 |       1 |
++----+--------+--------------+--------+----------+----------+---------+
+Frase: 0 nations were represented in the fil world luge championships of 1961 .
+Answer [t/f/n]: 
+
+
+# 2/30
+id: 8ef5f530d717f1822faa48175192664026115a66 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: northern nevada 4a region
++----+-----------------+-----------+----------------------+-------------+--------------+
+|    | school          | mascot    | location             | league      |   enrollment |
+|----+-----------------+-----------+----------------------+-------------+--------------|
+|  0 | carson          | senators  | carson city , nevada | sierra      |         2503 |
+|  1 | damonte ranch   | mustangs  | reno , nevada        | sierra      |         1253 |
+|  2 | douglas         | tigers    | minden , nevada      | sierra      |         1522 |
+|  3 | galena          | grizzlies | reno , nevada        | sierra      |         1510 |
+|  4 | hug             | hawks     | reno , nevada        | high desert |         1266 |
+|  5 | manogue         | miners    | reno , nevada        | sierra      |          650 |
+|  6 | mcqueen         | lancers   | reno , nevada        | high desert |         1945 |
+|  7 | north valleys   | panthers  | reno , nevada        | high desert |         2227 |
+|  8 | reed            | raiders   | sparks , nevada      | high desert |         2464 |
+|  9 | reno            | huskies   | reno , nevada        | high desert |         1896 |
+| 10 | spanish springs | cougars   | sparks , nevada      | high desert |         2186 |
+| 11 | wooster         | colts     | reno , nevada        | sierra      |         1519 |
++----+-----------------+-----------+----------------------+-------------+--------------+
+Frase: there are 6 schools in the northern nevada 4a region .
+Answer [t/f/n]: 
+
+
+# 3/30
+id: 75fe8178634d74fddf78f716f6144a0beec80497 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: croatian bol ladies open
++----+--------+------------+------------------------------------+-------------------------------------+-----------------------+
+|    |   year | category   | champions                          | runners - up                        | score                 |
+|----+--------+------------+------------------------------------+-------------------------------------+-----------------------|
+|  0 |   1991 | v          | laura golarsa magdalena maleeva    | sandra cecchini laura garrone       | walkover              |
+|  1 |   1995 | iii        | mercedes paz rene simpson          | laura golarsa irina spîrlea         | 7 - 5 , 6 - 2         |
+|  2 |   1996 | iv         | laura montalvo paola suárez        | alexia dechaume alexandra fusai     | 6 - 7 , 6 - 3 , 6 - 4 |
+|  3 |   1997 | iv         | laura montalvo henrieta nagyová    | maría josé gaidano marion maruska   | 6 - 3 , 6 - 1         |
+|  4 |   1998 | iva        | laura montalvo paola suárez        | joannette kruger mirjana lučić      | walkover              |
+|  5 |   1999 | iv         | jelena kostanić michaela paštiková | meghann shaughnessy andreea vanc    | 7 - 5 , 6 - 7 , 6 - 2 |
+|  6 |   2000 | iii        | julie halard corina morariu        | tina križan katarina srebotnik      | 6 - 2 , 6 - 2         |
+|  7 |   2001 | iii        | maría martínez anabel medina       | nadia petrova tina pisnik           | 7 - 5 , 6 - 4         |
+|  8 |   2002 | iii        | tathiana garbin angelique widjaja  | elena bovina henrieta nagyová       | 7 - 5 , 3 - 6 , 6 - 4 |
+|  9 |   2003 | iii        | petra mandula patricia wartusch    | emmanuelle gagliardi patty schnyder | 6 - 3 , 6 - 2         |
++----+--------+------------+------------------------------------+-------------------------------------+-----------------------+
+Frase: 1995 was the only year that mercedes paz rene simpson was the champion of the croatian bol ladies open .
+Answer [t/f/n]: 
+
+
+# 4/30
+id: 82df83554fc31ac5755d1d84d46225d1a10918a6 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: geography of moldova
++----+--------------------------+--------------------+------------------------------------------+-------------+----------------+
+|    | land formation           |   area , km square |   of which currently forests , km square | % forests   | habitat type   |
+|----+--------------------------+--------------------+------------------------------------------+-------------+----------------|
+|  0 | northern moldavian hills |               4630 |                                      476 | 10.3 %      | forest steppe  |
+|  1 | dniester - rāut ridge    |               2480 |                                      363 | 14.6 %      | forest steppe  |
+|  2 | middle prut valley       |               2930 |                                      312 | 10.6 %      | forest steppe  |
+|  3 | bălţi steppe             |               1920 |                                       51 | 2.7 %       | steppe         |
+|  4 | ciuluc - soloneţ hills   |               1690 |                                      169 | 10.0 %      | forest steppe  |
+|  5 | corneşti hills ( codru ) |               4740 |                                     1300 | 27.5 %      | forest         |
+|  6 | lower dniester hills     |               3040 |                                      371 | 12.2 %      | forest steppe  |
+|  7 | lower prut valley        |               1810 |                                      144 | 8.0 %       | forest steppe  |
+|  8 | tigheci hills            |               3550 |                                      533 | 15.0 %      | forest steppe  |
+|  9 | bugeac plain             |               3210 |                                      195 | 6.1 %       | steppe         |
+| 10 | part of podolian plateau |               1920 |                                      175 | 9.1 %       | forest steppe  |
+| 11 | part of eurasian steppe  |               1920 |                                      140 | 7.3 %       | steppe         |
++----+--------------------------+--------------------+------------------------------------------+-------------+----------------+
+Frase: there are 8 habitats that can be found in moldova .
+Answer [t/f/n]: 
+
+
+# 5/30
+id: dc177d67d8eab0738c5470ca8e8e414086b75fb9 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 1932 vfl season
++----+-----------------+-------------------+-------------+-------------------+-----------------------+---------+-------------+
+|    | home team       | home team score   | away team   | away team score   | venue                 |   crowd | date        |
+|----+-----------------+-------------------+-------------+-------------------+-----------------------+---------+-------------|
+|  0 | footscray       | 13.14 ( 92 )      | st kilda    | 8.10 ( 58 )       | western oval          |   14000 | 28 may 1932 |
+|  1 | fitzroy         | 12.6 ( 78 )       | geelong     | 20.10 ( 130 )     | brunswick street oval |   13000 | 28 may 1932 |
+|  2 | carlton         | 13.15 ( 93 )      | collingwood | 11.7 ( 73 )       | princes park          |   32000 | 28 may 1932 |
+|  3 | north melbourne | 18.10 ( 118 )     | melbourne   | 12.16 ( 88 )      | arden street oval     |   12000 | 28 may 1932 |
+|  4 | richmond        | 13.18 ( 96 )      | hawthorn    | 6.9 ( 45 )        | punt road oval        |   10000 | 28 may 1932 |
+|  5 | south melbourne | 14.15 ( 99 )      | essendon    | 9.11 ( 65 )       | lake oval             |   28000 | 28 may 1932 |
++----+-----------------+-------------------+-------------+-------------------+-----------------------+---------+-------------+
+Frase: princes park venue recorded the highest crowd participation during the 1932 vfl season .
+Answer [t/f/n]: 
+
+
+# 6/30
+id: 1a4610275faffd0afcf54aad272cfc5033f76f17 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 1990 masters tournament
++----+---------+------------------+---------------+-------------------------+----------+---------+
+|    | place   | player           | country       | score                   | to par   | money   |
+|----+---------+------------------+---------------+-------------------------+----------+---------|
+|  0 | t1      | nick faldo       | england       | 71 + 72 + 66 + 69 = 278 | - 10     | playoff |
+|  1 | t1      | raymond floyd    | united states | 70 + 68 + 68 + 72 = 278 | - 10     | playoff |
+|  2 | t3      | john huston      | united states | 66 + 74 + 68 + 75 = 283 | - 5      | 72500   |
+|  3 | t3      | lanny wadkins    | united states | 72 + 73 + 70 + 68 = 283 | - 5      | 72500   |
+|  4 | 5       | fred couples     | united states | 74 + 69 + 72 + 69 = 284 | - 4      | 50000   |
+|  5 | 6       | jack nicklaus    | united states | 72 + 70 + 69 + 74 = 285 | - 3      | 45000   |
+|  6 | t7      | seve ballesteros | spain         | 74 + 73 + 68 + 71 = 286 | - 2      | 35150   |
+|  7 | t7      | bill britton     | united states | 68 + 74 + 71 + 73 = 286 | - 2      | 35150   |
+|  8 | t7      | bernhard langer  | west germany  | 70 + 73 + 69 + 74 = 286 | - 2      | 35150   |
+|  9 | t7      | scott simpson    | united states | 74 + 71 + 68 + 73 = 286 | - 2      | 35150   |
+| 10 | t7      | curtis strange   | united states | 70 + 73 + 71 + 72 = 286 | - 2      | 35150   |
+| 11 | t7      | tom watson       | united states | 77 + 71 + 67 + 71 = 286 | - 2      | 35150   |
++----+---------+------------------+---------------+-------------------------+----------+---------+
+Frase: in the 1990 masters tournament , the 5th place player was fred couples .
+Answer [t/f/n]: 
+
+
+# 7/30
+id: dedb7aab082c1e480256828ac0c3cd35ac9bb558 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: weightlifting at the 2007 pan american games
++----+-------------------------+--------------+----------+----------------+----------------+
+|    | name                    |   bodyweight | snatch   | clean & jerk   | total ( kg )   |
+|----+-------------------------+--------------+----------+----------------+----------------|
+|  0 | joël mackenzie ( cub )  |       101.4  | 175.0    | 205.0          | 380.0          |
+|  1 | pedro stetsiuk ( arg )  |       102.45 | 160.0    | 180.0          | 340.0          |
+|  2 | damian abbiate ( arg )  |       104.45 | 150.0    | 188.0          | 338.0          |
+|  3 | bruno brandão ( bra )   |        99.1  | 157.0    | 180.0          | 337.0          |
+|  4 | christian lópez ( gua ) |       104.7  | 153.0    | 182.0          | 335.0          |
+|  5 | víctor osorio ( chi )   |       103.05 | 140.0    | 176.0          | 316.0          |
+|  6 | ivorn mcknee ( bar )    |       103.25 | 140.0    | -              | dnf            |
+|  7 | josé espinoza ( nca )   |        99.4  | -        | -              | dnf            |
+|  8 | boris burov ( ecu )     |       100.4  | -        | -              | dnf            |
+|  9 | akos sandor ( can )     |       104.95 | -        | -              | dnf            |
+| 10 | fabrício mafra ( bra )  |       100.75 | 151.0    | 187.0          | dsq            |
++----+-------------------------+--------------+----------+----------------+----------------+
+Frase: joel mackenzie lifted the heaviest weight of any person at the 2007 pan american games .
+Answer [t/f/n]: 
+
+
+# 8/30
+id: 748027879a1607c658dbed4be3ccb6079fce9a98 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: eurovision song contest 1961
++----+--------+-----------------+----------------------+-----------------------------------------+----------------------------+---------+----------+
+|    |   draw | language        | artist               | song                                    | english translation        |   place |   points |
+|----+--------+-----------------+----------------------+-----------------------------------------+----------------------------+---------+----------|
+|  0 |     01 | spanish         | conchita bautista    | estando contigo                         | when i 'm with you         |       9 |        8 |
+|  1 |     02 | french          | colette deréal       | allons , allons les enfants             | come on , come on children |      10 |        6 |
+|  2 |     03 | german          | jimmy makulis        | sehnsucht                               | longing                    |      15 |        1 |
+|  3 |     04 | finnish         | laila kinnunen       | valoa ikkunassa                         | the lights in the window   |      10 |        6 |
+|  4 |     05 | serbian         | ljiljana petrović    | neke davne zvezde ( неке давне звезде ) | some ancient stars         |       8 |        9 |
+|  5 |     06 | dutch           | greetje kauffeld     | wat een dag                             | what a day                 |      10 |        6 |
+|  6 |     07 | swedish         | lill - babs          | april , april                           | -                          |      14 |        2 |
+|  7 |     08 | german , french | lale andersen        | einmal sehen wir uns wieder             | we will meet again         |      13 |        3 |
+|  8 |     09 | french          | jean - paul mauric   | printemps , avril carillonne            | spring , april rings       |       4 |       13 |
+|  9 |     10 | french          | franca di rienzo     | nous aurons demain                      | we 'll have tomorrow       |       3 |       16 |
+| 10 |     11 | dutch           | bob benny            | september , gouden roos                 | september , golden rose    |      15 |        1 |
+| 11 |     12 | norwegian       | nora brockstedt      | sommer i palma                          | summer in palma            |       7 |       10 |
+| 12 |     13 | danish          | dario campeotto      | angelique                               | -                          |       5 |       12 |
+| 13 |     14 | french          | jean - claude pascal | nous les amoureux                       | we the lovers              |       1 |       31 |
+| 14 |     15 | english         | the allisons         | are you sure                            | -                          |       2 |       24 |
+| 15 |     16 | italian         | betty curtis         | al di là                                | beyond                     |       5 |       12 |
++----+--------+-----------------+----------------------+-----------------------------------------+----------------------------+---------+----------+
+Frase: the song sommer i palma was the only song to be sung in norwegian .
+Answer [t/f/n]: 
+
+
+# 9/30
+id: ecaf0412b11134b806d7f1f642e9cfbaf8c920ab - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 1967 vfl season
++----+-----------------+-------------------+-------------+-------------------+-------------------+---------+------------+
+|    | home team       | home team score   | away team   | away team score   | venue             |   crowd | date       |
+|----+-----------------+-------------------+-------------+-------------------+-------------------+---------+------------|
+|  0 | north melbourne | 10.8 ( 68 )       | richmond    | 11.22 ( 88 )      | arden street oval |   12750 | 6 may 1967 |
+|  1 | hawthorn        | 10.6 ( 66 )       | st kilda    | 15.11 ( 101 )     | glenferrie oval   |   20352 | 6 may 1967 |
+|  2 | fitzroy         | 9.10 ( 64 )       | geelong     | 22.13 ( 145 )     | princes park      |    9747 | 6 may 1967 |
+|  3 | collingwood     | 13.17 ( 95 )      | footscray   | 5.7 ( 37 )        | victoria park     |   21855 | 6 may 1967 |
+|  4 | south melbourne | 18.19 ( 127 )     | essendon    | 13.10 ( 88 )      | lake oval         |   18756 | 6 may 1967 |
+|  5 | melbourne       | 5.15 ( 45 )       | carlton     | 16.8 ( 104 )      | mcg               |   48513 | 6 may 1967 |
++----+-----------------+-------------------+-------------+-------------------+-------------------+---------+------------+
+Frase: in the 1967 vfl season , south melbourne had a higher scoring game than north melbourne .
+Answer [t/f/n]: 
+
+
+# 10/30
+id: c7af28e4bc3826504627be7d5d287b281f0be7c4 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: abebech negussie
++----+--------+-----------------------------------+------------------+----------+-------------------------+
+|    |   year | tournament                        | venue            | result   | extra                   |
+|----+--------+-----------------------------------+------------------+----------+-------------------------|
+|  0 |   2000 | world junior championships        | santiago , chile | 1st      | 1500 m                  |
+|  1 |   2001 | world cross country championships | ostend , belgium | 2nd      | junior race             |
+|  2 |   2001 | world cross country championships | ostend , belgium | 1st      | junior team competition |
+|  3 |   2002 | world cross country championships | dublin , ireland | 6th      | short race              |
+|  4 |   2002 | world cross country championships | dublin , ireland | 1st      | team competition        |
++----+--------+-----------------------------------+------------------+----------+-------------------------+
+Frase: abebech negan had an average result of 2.2 times in the year 2000 to 2008 .
+Answer [t/f/n]: 
+
+
+# 11/30
+id: 2bea2b0520e89cb87f84dc8b314903bca53422bc - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: judo at the 1997 mediterranean games
++----+--------+------------+--------+----------+----------+---------+
+|    | rank   | nation     |   gold |   silver |   bronze |   total |
+|----+--------+------------+--------+----------+----------+---------|
+|  0 | 1      | france     |      7 |        3 |        4 |      14 |
+|  1 | 2      | italy      |      5 |        2 |        5 |      12 |
+|  2 | 3      | spain      |      1 |        2 |        6 |       9 |
+|  3 | 4      | turkey     |      1 |        1 |        4 |       5 |
+|  4 | 5      | algeria    |      0 |        2 |        1 |       3 |
+|  5 | 6 =    | tunisia    |      0 |        1 |        3 |       4 |
+|  6 | 6 =    | yugoslavia |      0 |        1 |        3 |       4 |
+|  7 | 8 =    | egypt      |      0 |        1 |        0 |       1 |
+|  8 | 8 =    | slovenia   |      0 |        1 |        0 |       1 |
+|  9 | 10     | morocco    |      0 |        0 |        2 |       2 |
++----+--------+------------+--------+----------+----------+---------+
+Frase: judo at the 1997 mediterranean games had 0 gold medals in all of his matches .
+Answer [t/f/n]: 
+
+
+# 12/30
+id: d402cda8a03588818755a66ea3a108d3dc1c8adb - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: joseba etxeberria
++----+------------------+--------------------------------------------+---------+----------+------------------------------+
+|    | date             | venue                                      | score   | result   | competition                  |
+|----+------------------+--------------------------------------------+---------+----------+------------------------------|
+|  0 | 19 november 1997 | lluís sitjar , palma , spain               | 1 - 0   | 1 - 1    | friendly                     |
+|  1 | 25 march 1998    | balaídos , vigo , spain                    | 4 - 0   | 4 - 0    | friendly                     |
+|  2 | 14 october 1998  | ramat gan , tel aviv , israel              | 1 - 2   | 1 - 2    | euro 2000 qualifying         |
+|  3 | 31 march 1999    | olimpico , serravalle , san marino         | 0 - 6   | 0 - 6    | euro 2000 qualifying         |
+|  4 | 5 june 1999      | el madrigal , vila - real , spain          | 3 - 0   | 9 - 0    | euro 2000 qualifying         |
+|  5 | 5 june 1999      | el madrigal , vila - real , spain          | 4 - 0   | 9 - 0    | euro 2000 qualifying         |
+|  6 | 18 june 2000     | amsterdam arena , amsterdam , netherlands  | 1 - 2   | 1 - 2    | uefa euro 2000               |
+|  7 | 2 september 2000 | koševo , sarajevo , bosnia and herzegovina | 1 - 2   | 1 - 2    | 2002 world cup qualification |
+|  8 | 29 march 2003    | olimpiyskiy , kiev , ukraine               | 1 - 2   | 2 - 2    | euro 2004 qualifying         |
+|  9 | 6 november 2003  | afonso henriques , guimarães , portugal    | 0 - 1   | 0 - 3    | friendly                     |
+| 10 | 19 november 2003 | ullevaal , oslo , norway                   | 0 - 3   | 0 - 3    | euro 2004 qualifying         |
+| 11 | 18 february 2004 | lluís companys , barcelona , spain         | 1 - 1   | 2 - 1    | friendly                     |
++----+------------------+--------------------------------------------+---------+----------+------------------------------+
+Frase: joseba etxeberria scored the same number of goals as he did on november 19 , 1997 .
+Answer [t/f/n]: 
+
+
+# 13/30
+id: db4e96a32b41e35356cc645900fb9330962133c2 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: list of appalachian regional commission counties
++----+-------------+--------------+---------------------+----------------------------+----------------+--------------+
+|    | county      |   population | unemployment rate   |   market income per capita | poverty rate   | status       |
+|----+-------------+--------------+---------------------+----------------------------+----------------+--------------|
+|  0 | allegany    |        49927 | 5.8 %               |                      16850 | 15.5 %         | - risk       |
+|  1 | broome      |       200536 | 5.0 %               |                      24199 | 12.8 %         | transitional |
+|  2 | cattaraugus |        83955 | 5.5 %               |                      21285 | 13.7 %         | transitional |
+|  3 | chautauqua  |       136409 | 4.9 %               |                      19622 | 13.8 %         | transitional |
+|  4 | chemung     |        91070 | 5.1 %               |                      22513 | 13.0 %         | transitional |
+|  5 | chenango    |        51401 | 5.5 %               |                      20896 | 14.4 %         | transitional |
+|  6 | cortland    |        48599 | 5.7 %               |                      21134 | 15.5 %         | transitional |
+|  7 | delaware    |        48055 | 4.9 %               |                      21160 | 12.9 %         | transitional |
+|  8 | otsego      |        61676 | 4.9 %               |                      21819 | 14.9 %         | transitional |
+|  9 | schoharie   |        31582 | 6.0 %               |                      23145 | 11.4 %         | transitional |
+| 10 | schuyler    |        19224 | 5.4 %               |                      21042 | 11.8 %         | transitional |
+| 11 | steuben     |        98726 | 5.6 %               |                      28065 | 13.2 %         | transitional |
+| 12 | tioga       |        51784 | 4.8 %               |                      24885 | 8.4 %          | transitional |
++----+-------------+--------------+---------------------+----------------------------+----------------+--------------+
+Frase: of the appalachian regional commission counties , the highest unemployment rate is for schoharie .
+Answer [t/f/n]: 
+
+
+# 14/30
+id: b17bffb4f3b5c539824c0af5645c6cc509b01d39 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: juan bravo murillo
++----+-------------------+-----------------+-----------------------+------------+----------------+----------------+
+|    |   election number | election date   | district              | province   | took office    | left office    |
+|----+-------------------+-----------------+-----------------------+------------+----------------+----------------|
+|  0 |                 9 | 1837 - 9 - 22   | large                 | seville    | 1837 - 12 - 19 | 1839 - 06 - 01 |
+|  1 |                11 | 1840 - 1 - 19   | large                 | ávila      | 1840 - 02 - 21 | 1840 - 10 - 11 |
+|  2 |                14 | 1843 - 9 - 15   | large                 | badajoz    | 1843 - 10 - 18 | 1844 - 07 - 10 |
+|  3 |                15 | 1844 - 9 - 3    | large                 | badajoz    | 1844 - 10 - 14 | 1846 - 10 - 31 |
+|  4 |                16 | 1846 - 6 - 21   | fregenal de la sierra | badajoz    | 1847 - 01 - 03 | 1848 - 12 - 18 |
+|  5 |                16 | 1846 - 6 - 21   | fregenal de la sierra | badajoz    | 1847 - 12 - 20 | 1850 - 08 - 04 |
+|  6 |                17 | 1850 - 8 - 31   | fregenal de la sierra | badajoz    | 1850 - 11 - 06 | 1851 - 04 - 07 |
+|  7 |                17 | 1850 - 8 - 31   | huelva                | huelva     | 1850 - 11 - 06 | 1850 - 11 - 15 |
+|  8 |                18 | 1851 - 5 - 10   | elche de la sierra    | albacete   | 1851 - 06 - 04 | 1851 - 06 - 17 |
+|  9 |                18 | 1851 - 5 - 10   | fregenal de la sierra | badajoz    | 1851 - 06 - 04 | 1852 - 12 - 02 |
+| 10 |                19 | 1853 - 2 - 4    | fregenal de la sierra | badajoz    | 1853 - 03 - 15 | 1853 - 12 - 10 |
++----+-------------------+-----------------+-----------------------+------------+----------------+----------------+
+Frase: juan bravo murillo was elected in badajoz in the majority of elections .
+Answer [t/f/n]: 
+
+
+# 15/30
+id: c23eb3cc7fae1252946b395bcceff0e4c4642abc - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: list of hewitts and nuttalls in england
++----+--------------------------+----------------+--------------+---------+-----------------------+
+|    | peak                     |   height ( m ) |   prom ( m ) | class   | parent                |
+|----+--------------------------+----------------+--------------+---------+-----------------------|
+|  0 | whernside                |            736 |          408 | marilyn | cross fell            |
+|  1 | ingleborough             |            724 |          428 | marilyn | cross fell            |
+|  2 | great whernside          |            704 |          288 | marilyn | whernside             |
+|  3 | buckden pike             |            702 |          207 | marilyn | great whernside       |
+|  4 | pen - y - ghent          |            694 |          306 | marilyn | whernside             |
+|  5 | great coum               |            687 |          221 | marilyn | whernside             |
+|  6 | plover hill              |            680 |           59 | hewitt  | pen - y - ghent       |
+|  7 | great knoutberry hill    |            672 |          254 | marilyn | great whernside       |
+|  8 | dodd fell hill           |            668 |          230 | marilyn | great knoutberry hill |
+|  9 | fountains fell           |            668 |          243 | marilyn | pen - y - ghent       |
+| 10 | fountains fell south top |            662 |           15 | nuttall | fountains fell        |
+| 11 | simon fell               |            650 |           35 | hewitt  | ingleborough          |
+| 12 | yockenthwaite moor       |            643 |           86 | hewitt  | dodd fell hill        |
+| 13 | green hill               |            628 |           24 | nuttall | great coum            |
+| 14 | gragareth                |            627 |           30 | hewitt  | great coum            |
+| 15 | darnbrook fell           |            624 |           40 | hewitt  | fountains fell        |
+| 16 | drumaldrace              |            614 |           66 | hewitt  | dodd fell hill        |
+| 17 | birks fell               |            610 |          158 | marilyn | pen - y - ghent       |
++----+--------------------------+----------------+--------------+---------+-----------------------+
+Frase: the average height of hewitts and nuttalls in england is 670 .
+Answer [t/f/n]: 
+
+
+# 16/30
+id: 03e8f69c92b33ddabb42f38b4fbf47e04720d807 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: abc saturday movie of the week
++----+----------+------------+-------------------+---------------------+------------------+-------------+--------+---------------------------+
+|    |   season |   episodes | timeslot ( et )   | season premiere     | season finale    | tv season   |   rank |   viewers ( in millions ) |
+|----+----------+------------+-------------------+---------------------+------------------+-------------+--------+---------------------------|
+|  0 |        1 |         10 | saturday 8:00 pm  | february 21 , 2004  | august 14 , 2004 | 2003 - 2004 |    123 |                      6.21 |
+|  1 |        2 |         17 | saturday 8:00 pm  | september 25 , 2004 | august 27 , 2005 | 2004 - 2005 |    107 |                      6.41 |
+|  2 |        3 |         25 | saturday 8:00 pm  | september 17 , 2005 | august 12 , 2006 | 2005 - 2006 |    126 |                      5.74 |
+|  3 |        4 |         25 | saturday 8:00 pm  | october 21 , 2006   | august 25 , 2007 | 2006 - 2007 |    180 |                      5.12 |
+|  4 |        5 |         23 | saturday 8:00 pm  | december 8 , 2007   | august 23 , 2008 | 2007 - 2008 |    160 |                      4.69 |
+|  5 |        6 |         21 | saturday 8:00 pm  | december 13 , 2008  | august 29 , 2009 | 2008 - 2009 |    149 |                      3.8  |
+|  6 |        7 |         18 | saturday 8:00 pm  | december 12 , 2009  | august 28 , 2010 | 2009 - 2010 |    119 |                      3.55 |
+|  7 |        8 |         22 | saturday 8:00 pm  | december 11 , 2010  | august 20 , 2011 | 2010 - 2011 |    170 |                      3.53 |
+|  8 |        9 |         14 | saturday 8:00 pm  | december 24 , 2011  | august 18 , 2012 | 2011 - 2012 |    156 |                      3.46 |
++----+----------+------------+-------------------+---------------------+------------------+-------------+--------+---------------------------+
+Frase: the season 3 season of abc on the week website had the 3rd highest viewer count .
+Answer [t/f/n]: 
+
+
+# 17/30
+id: f4b03e0cc16c29330323fe4c0cc0f3d9c9de7e9c - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 1914 in brazilian football
++----+------------+--------------------+----------+----------+-------+---------+--------+-------+-----------+--------------+
+|    |   position | team               |   points |   played |   won |   drawn |   lost |   for |   against | difference   |
+|----+------------+--------------------+----------+----------+-------+---------+--------+-------+-----------+--------------|
+|  0 |          1 | aa são bento       |       15 |       10 |     7 |       1 |      2 |    21 |        16 | 5            |
+|  1 |          2 | paulistano         |       14 |       10 |     7 |       0 |      3 |    22 |        15 | 7            |
+|  2 |          3 | mackenzie          |       11 |       10 |     5 |       1 |      4 |    20 |        14 | 6            |
+|  3 |          4 | ypiranga - sp      |       11 |       10 |     4 |       3 |      3 |    19 |        15 | 4            |
+|  4 |          5 | scottish wanderers |        5 |       10 |     2 |       1 |      7 |    13 |        23 | - 10         |
++----+------------+--------------------+----------+----------+-------+---------+--------+-------+-----------+--------------+
+Frase: the majority of brazilian football teams scored less than 11 points .
+Answer [t/f/n]: 
+
+
+# 18/30
+id: 0d440b3836d95ecf17149609fc91038933c86eca - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: dwbl
++----+------------------+------------+-------------+---------+----------------+
+|    | branding         | callsign   | frequency   | power   | location       |
+|----+------------------+------------+-------------+---------+----------------|
+|  0 | dwbl 1242        | dwbl       | 1242 khz    | 20 kw   | metro manila   |
+|  1 | mellow 947       | dwll       | 94.7 mhz    | 20 kw   | metro manila   |
+|  2 | mellow 887       | dyku       | 88.7 mhz    | 10 kw   | iloilo city    |
+|  3 | mellow 957       | dxbl       | 95.7 mhz    | 10 kw   | cagayan de oro |
+|  4 | mellow 947 davao | dxll       | 94.7 mhz    | 20 kw   | davao city     |
++----+------------------+------------+-------------+---------+----------------+
+Frase: the dwll power station has 10 more power than the dyku station .
+Answer [t/f/n]: 
+
+
+# 19/30
+id: 6764a7b2b18cf8e0dda0c0416f8f7b3089dfd168 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 2008 - 09 detroit red wings season
++----+--------+-----------+---------+---------+------------+--------------+----------+
+|    | date   | visitor   | score   | home    | decision   |   attendance | series   |
+|----+--------+-----------+---------+---------+------------+--------------+----------|
+|  0 | may 17 | chicago   | 2 - 5   | detroit | osgood     |        20066 | 1 - 0    |
+|  1 | may 19 | chicago   | 2 - 3   | detroit | osgood     |        20066 | 2 - 0    |
+|  2 | may 22 | detroit   | 3 - 4   | chicago | osgood     |        22678 | 2 - 1    |
+|  3 | may 24 | detroit   | 6 - 1   | chicago | conklin    |        22663 | 3 - 1    |
+|  4 | may 27 | chicago   | 1 - 2   | detroit | osgood     |        20066 | 4 - 1    |
++----+--------+-----------+---------+---------+------------+--------------+----------+
+Frase: in the 2008 - 09 detroit red wings season , there were three home games .
+Answer [t/f/n]: 
+
+
+# 20/30
+id: 47e9745076cad3673f6fbc01466469d93506d3af - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: hatem aqel
++----+------------------+-----------+---------+----------+-----------------------------------+
+|    | date             | venue     | score   | result   | competition                       |
+|----+------------------+-----------+---------+----------+-----------------------------------|
+|  0 | 16 december 2002 | kuwait    | 1 - 1   | draw     | 2002 arab nations cup             |
+|  1 | 17 october 2003  | amman     | 1 - 0   | win      | 2004 afc asian cup qualification  |
+|  2 | 18 february 2004 | amman     | 5 - 0   | win      | 2006 fifa world cup qualification |
+|  3 | 18 august 2004   | amman     | 1 - 1   | draw     | friendly                          |
+|  4 | 14 february 2006 | amman     | 2 - 0   | win      | friendly                          |
+|  5 | 22 february 2006 | amman     | 3 - 0   | win      | 2007 afc asian cup qualification  |
+|  6 | 28 january 2009  | singapore | 2 - 1   | loss     | 2011 afc asian cup qualification  |
+|  7 | 9 september 2009 | amman     | 1 - 3   | loss     | friendly                          |
+|  8 | 28 october 2013  | amman     | 1 - 0   | win      | friendly                          |
++----+------------------+-----------+---------+----------+-----------------------------------+
+Frase: hatem aqel 's second highest score was in the 2007 afc asian cup qualification .
+Answer [t/f/n]: 
+
+
+# 21/30
+id: fe72d1a269f2f9bd7cde1601349c4951a66f84e1 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 2005 houston astros season
++----+---------+----------------+---------+-------------------+-------------------+--------------+------------+
+|    | date    | winning team   | score   | winning pitcher   | losing pitcher    |   attendance | location   |
+|----+---------+----------------+---------+-------------------+-------------------+--------------+------------|
+|  0 | may 20  | texas          | 7 - 3   | kenny rogers      | brandon backe     |        38109 | arlington  |
+|  1 | may 21  | texas          | 18 - 3  | chris young       | ezequiel astacio  |        35781 | arlington  |
+|  2 | may 22  | texas          | 2 - 0   | chan ho park      | roy oswalt        |        40583 | arlington  |
+|  3 | june 24 | houston        | 5 - 2   | roy oswalt        | ricardo rodriguez |        36199 | houston    |
+|  4 | june 25 | texas          | 6 - 5   | chris young       | brandon backe     |        41868 | houston    |
++----+---------+----------------+---------+-------------------+-------------------+--------------+------------+
+Frase: arlington was the first location used by houston during the 2005 season .
+Answer [t/f/n]: 
+
+
+# 22/30
+id: f2676bd62e35a938d014920cb633b82613a014c7 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: list of inter milan records and statistics
++----+--------+----------------------+-------------------------------------+----------+---------+
+|    |   rank | name                 | years                               |   league |   total |
+|----+--------+----------------------+-------------------------------------+----------+---------|
+|  0 |      1 | giuseppe meazza      | 1927 - 1940 1946 - 1947             |      247 |     284 |
+|  1 |      2 | alessandro altobelli | 1977 - 1988                         |      128 |     209 |
+|  2 |      3 | roberto boninsegna   | 1969 - 1976                         |      113 |     171 |
+|  3 |      4 | sandro mazzola       | 1960 - 1977                         |      116 |     160 |
+|  4 |      5 | luigi cevenini       | 1912 - 1915 1919 - 1921 1922 - 1927 |      158 |     158 |
+|  5 |      6 | benito lorenzi       | 1947 - 1958                         |      138 |     143 |
+|  6 |      7 | istván nyers         | 1948 - 1954                         |      133 |     133 |
+|  7 |      8 | christian vieri      | 1999 - 2005                         |      103 |     123 |
+|  8 |      9 | ermanno aebi         | 1909 - 1915 1919 - 1923             |      106 |     106 |
+|  9 |     10 | mario corso          | 1958 - 1973                         |       75 |      94 |
++----+--------+----------------------+-------------------------------------+----------+---------+
+Frase: in the list of inter milan records and statistics , benito lorenzi had 2 more years than christian vieri .
+Answer [t/f/n]: 
+
+
+# 23/30
+id: 32ea4136fb9bc77e81a85d417cbb8b712af75930 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: list of schools in the hawke 's bay region
++----+------------------------------------+---------+----------+------------+------------------+----------+--------+
+|    | name                               | years   | gender   | area       | authority        |   decile |   roll |
+|----+------------------------------------+---------+----------+------------+------------------+----------+--------|
+|  0 | frasertown school                  | 1 - 6   | coed     | frasertown | state            |        4 |    107 |
+|  1 | kotemaori school                   | 1 - 8   | coed     | kotemaori  | state            |        4 |      6 |
+|  2 | mohaka school                      | 1 - 8   | coed     | mohaka     | state            |        1 |     36 |
+|  3 | nuhaka school                      | 1 - 8   | coed     | nuhaka     | state            |        2 |    123 |
+|  4 | ohuka school                       | 1 - 8   | coed     | ohuka      | state            |       10 |     12 |
+|  5 | putere school                      | 1 - 8   | coed     | putere     | state            |        2 |     12 |
+|  6 | ruakituri school                   | 1 - 8   | coed     | ruakituri  | state            |        7 |      9 |
+|  7 | st joseph 's school                | 1 - 8   | coed     | wairoa     | state integrated |        3 |    122 |
+|  8 | te kura o waikaremoana             | 1 - 8   | coed     | tuai       | state            |        2 |     27 |
+|  9 | te mahia school                    | 1 - 8   | coed     | mahia      | state            |        1 |     48 |
+| 10 | tiaho primary school               | 1 - 6   | coed     | wairoa     | state            |        2 |    150 |
+| 11 | tkkm o ngati kahungunu o te wairoa | 1 - 8   | coed     | wairoa     | state            |        1 |     61 |
+| 12 | wairoa college                     | 7 - 15  | coed     | wairoa     | state            |        2 |    544 |
+| 13 | wairoa primary school              | 1 - 6   | coed     | wairoa     | state            |        2 |    228 |
++----+------------------------------------+---------+----------+------------+------------------+----------+--------+
+Frase: one of the schools in the hawke 's bay region are under state integrated authority .
+Answer [t/f/n]: 
+
+
+# 24/30
+id: 32ea4136fb9bc77e81a85d417cbb8b712af75930 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: list of schools in the hawke 's bay region
++----+------------------------------------+---------+----------+------------+------------------+----------+--------+
+|    | name                               | years   | gender   | area       | authority        |   decile |   roll |
+|----+------------------------------------+---------+----------+------------+------------------+----------+--------|
+|  0 | frasertown school                  | 1 - 6   | coed     | frasertown | state            |        4 |    107 |
+|  1 | kotemaori school                   | 1 - 8   | coed     | kotemaori  | state            |        4 |      6 |
+|  2 | mohaka school                      | 1 - 8   | coed     | mohaka     | state            |        1 |     36 |
+|  3 | nuhaka school                      | 1 - 8   | coed     | nuhaka     | state            |        2 |    123 |
+|  4 | ohuka school                       | 1 - 8   | coed     | ohuka      | state            |       10 |     12 |
+|  5 | putere school                      | 1 - 8   | coed     | putere     | state            |        2 |     12 |
+|  6 | ruakituri school                   | 1 - 8   | coed     | ruakituri  | state            |        7 |      9 |
+|  7 | st joseph 's school                | 1 - 8   | coed     | wairoa     | state integrated |        3 |    122 |
+|  8 | te kura o waikaremoana             | 1 - 8   | coed     | tuai       | state            |        2 |     27 |
+|  9 | te mahia school                    | 1 - 8   | coed     | mahia      | state            |        1 |     48 |
+| 10 | tiaho primary school               | 1 - 6   | coed     | wairoa     | state            |        2 |    150 |
+| 11 | tkkm o ngati kahungunu o te wairoa | 1 - 8   | coed     | wairoa     | state            |        1 |     61 |
+| 12 | wairoa college                     | 7 - 15  | coed     | wairoa     | state            |        2 |    544 |
+| 13 | wairoa primary school              | 1 - 6   | coed     | wairoa     | state            |        2 |    228 |
++----+------------------------------------+---------+----------+------------+------------------+----------+--------+
+Frase: one of the schools in the hawke 's bay region is state integrated .
+Answer [t/f/n]: 
+
+
+# 25/30
+id: 43e1c0b56a77c71ed243c4f9be6f9d3f58f9bfa8 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: usa today all - usa high school basketball team
++----+-----------------+----------+---------------------------+-------------------+--------------------+-----------------------------------------------+
+|    | player          | height   | school                    | hometown          | college            | nba draft                                     |
+|----+-----------------+----------+---------------------------+-------------------+--------------------+-----------------------------------------------|
+|  0 | johnny o'bryant | 6 - 10   | east side high school     | cleveland , ms    | lsu                | has not yet declared for the nba draft        |
+|  1 | kyle wiltjer    | 6 - 10   | jesuit high school        | portland , or     | kentucky / gonzaga | has not yet declared for the nba draft        |
+|  2 | tyrone johnson  | 6 - 3    | montrose christian school | rockville , md    | villanova          | has not yet declared for the nba draft        |
+|  3 | shannon scott   | 6 - 2    | alpharetta high school    | alpharetta , ga   | ohio state         | has not yet declared for the nba draft        |
+|  4 | marquis teague  | 6 - 1    | pike high school          | indianapolis , in | kentucky           | 1st round - 29th pick of 2012 draft ( bulls ) |
++----+-----------------+----------+---------------------------+-------------------+--------------------+-----------------------------------------------+
+Frase: in the usa high school basketball team , marquis teague is the shortest .
+Answer [t/f/n]: 
+
+
+# 26/30
+id: 43e1c0b56a77c71ed243c4f9be6f9d3f58f9bfa8 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: usa today all - usa high school basketball team
++----+-----------------+----------+---------------------------+-------------------+--------------------+-----------------------------------------------+
+|    | player          | height   | school                    | hometown          | college            | nba draft                                     |
+|----+-----------------+----------+---------------------------+-------------------+--------------------+-----------------------------------------------|
+|  0 | johnny o'bryant | 6 - 10   | east side high school     | cleveland , ms    | lsu                | has not yet declared for the nba draft        |
+|  1 | kyle wiltjer    | 6 - 10   | jesuit high school        | portland , or     | kentucky / gonzaga | has not yet declared for the nba draft        |
+|  2 | tyrone johnson  | 6 - 3    | montrose christian school | rockville , md    | villanova          | has not yet declared for the nba draft        |
+|  3 | shannon scott   | 6 - 2    | alpharetta high school    | alpharetta , ga   | ohio state         | has not yet declared for the nba draft        |
+|  4 | marquis teague  | 6 - 1    | pike high school          | indianapolis , in | kentucky           | 1st round - 29th pick of 2012 draft ( bulls ) |
++----+-----------------+----------+---------------------------+-------------------+--------------------+-----------------------------------------------+
+Frase: in the usa high school basketball team , marquis teague is the only player who was drafted .
+Answer [t/f/n]: 
+
+
+# 27/30
+id: 43e1c0b56a77c71ed243c4f9be6f9d3f58f9bfa8 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: usa today all - usa high school basketball team
++----+-----------------+----------+---------------------------+-------------------+--------------------+-----------------------------------------------+
+|    | player          | height   | school                    | hometown          | college            | nba draft                                     |
+|----+-----------------+----------+---------------------------+-------------------+--------------------+-----------------------------------------------|
+|  0 | johnny o'bryant | 6 - 10   | east side high school     | cleveland , ms    | lsu                | has not yet declared for the nba draft        |
+|  1 | kyle wiltjer    | 6 - 10   | jesuit high school        | portland , or     | kentucky / gonzaga | has not yet declared for the nba draft        |
+|  2 | tyrone johnson  | 6 - 3    | montrose christian school | rockville , md    | villanova          | has not yet declared for the nba draft        |
+|  3 | shannon scott   | 6 - 2    | alpharetta high school    | alpharetta , ga   | ohio state         | has not yet declared for the nba draft        |
+|  4 | marquis teague  | 6 - 1    | pike high school          | indianapolis , in | kentucky           | 1st round - 29th pick of 2012 draft ( bulls ) |
++----+-----------------+----------+---------------------------+-------------------+--------------------+-----------------------------------------------+
+Frase: marquis teague is the only player whose hometown is pick in the usa today all-usa high school basketball team .
+Answer [t/f/n]: 
+
+
+# 28/30
+id: 6bdb6d99bfb48c651dfb6c3ae3741f28f43f9347 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 1894 - 95 fa cup
++----+----------+-------------------------+---------+----------------------+------------------+
+|    | tie no   | home team               | score   | away team            | date             |
+|----+----------+-------------------------+---------+----------------------+------------------|
+|  0 | 1        | liverpool               | 0 - 2   | nottingham forest    | 16 february 1895 |
+|  1 | 2        | aston villa             | 7 - 1   | newcastle united     | 16 february 1895 |
+|  2 | 3        | sheffield wednesday     | 6 - 1   | middlesbrough        | 16 february 1895 |
+|  3 | 4        | bolton wanderers        | 1 - 0   | bury                 | 16 february 1895 |
+|  4 | 5        | wolverhampton wanderers | 2 - 0   | stoke                | 16 february 1895 |
+|  5 | 6        | sunderland              | 2 - 0   | preston north end    | 16 february 1895 |
+|  6 | 7        | everton                 | 1 - 1   | blackburn rovers     | 16 february 1895 |
+|  7 | replay   | blackburn rovers        | 2 - 3   | everton              | 20 february 1895 |
+|  8 | 8        | sheffield united        | 1 - 1   | west bromwich albion | 16 february 1895 |
+|  9 | replay   | west bromwich albion    | 2 - 1   | sheffield united     | 20 february 1895 |
++----+----------+-------------------------+---------+----------------------+------------------+
+Frase: in the 1994 - 95 fa cup , the game with the highest score was against aston villa .
+Answer [t/f/n]: 
+
+
+# 29/30
+id: 6bdb6d99bfb48c651dfb6c3ae3741f28f43f9347 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 1894 - 95 fa cup
++----+----------+-------------------------+---------+----------------------+------------------+
+|    | tie no   | home team               | score   | away team            | date             |
+|----+----------+-------------------------+---------+----------------------+------------------|
+|  0 | 1        | liverpool               | 0 - 2   | nottingham forest    | 16 february 1895 |
+|  1 | 2        | aston villa             | 7 - 1   | newcastle united     | 16 february 1895 |
+|  2 | 3        | sheffield wednesday     | 6 - 1   | middlesbrough        | 16 february 1895 |
+|  3 | 4        | bolton wanderers        | 1 - 0   | bury                 | 16 february 1895 |
+|  4 | 5        | wolverhampton wanderers | 2 - 0   | stoke                | 16 february 1895 |
+|  5 | 6        | sunderland              | 2 - 0   | preston north end    | 16 february 1895 |
+|  6 | 7        | everton                 | 1 - 1   | blackburn rovers     | 16 february 1895 |
+|  7 | replay   | blackburn rovers        | 2 - 3   | everton              | 20 february 1895 |
+|  8 | 8        | sheffield united        | 1 - 1   | west bromwich albion | 16 february 1895 |
+|  9 | replay   | west bromwich albion    | 2 - 1   | sheffield united     | 20 february 1895 |
++----+----------+-------------------------+---------+----------------------+------------------+
+Frase: in the 1994 - 95 fa cup , the highest score was by aston villa .
+Answer [t/f/n]: 
+
+
+# 30/30
+id: 6bdb6d99bfb48c651dfb6c3ae3741f28f43f9347 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 1894 - 95 fa cup
++----+----------+-------------------------+---------+----------------------+------------------+
+|    | tie no   | home team               | score   | away team            | date             |
+|----+----------+-------------------------+---------+----------------------+------------------|
+|  0 | 1        | liverpool               | 0 - 2   | nottingham forest    | 16 february 1895 |
+|  1 | 2        | aston villa             | 7 - 1   | newcastle united     | 16 february 1895 |
+|  2 | 3        | sheffield wednesday     | 6 - 1   | middlesbrough        | 16 february 1895 |
+|  3 | 4        | bolton wanderers        | 1 - 0   | bury                 | 16 february 1895 |
+|  4 | 5        | wolverhampton wanderers | 2 - 0   | stoke                | 16 february 1895 |
+|  5 | 6        | sunderland              | 2 - 0   | preston north end    | 16 february 1895 |
+|  6 | 7        | everton                 | 1 - 1   | blackburn rovers     | 16 february 1895 |
+|  7 | replay   | blackburn rovers        | 2 - 3   | everton              | 20 february 1895 |
+|  8 | 8        | sheffield united        | 1 - 1   | west bromwich albion | 16 february 1895 |
+|  9 | replay   | west bromwich albion    | 2 - 1   | sheffield united     | 20 february 1895 |
++----+----------+-------------------------+---------+----------------------+------------------+
+Frase: in the first round of the 1894 - 95 fa cup , aston villa had the highest score .
+Answer [t/f/n]: 
+
+

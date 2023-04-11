@@ -1,0 +1,633 @@
+Instrucciones
+A continuación verás 30 frases acompañadas de una tabla y su título (de la tabla). Las frases dicen algo de la tabla y tendrás que decir si lo que dice es cierto (t) o falso (f) en base a la información presente en la tabla y el título. 
+Si lo que se dice en la frase no está respaldado por ningún dato de la tabla o del título, la frase se considerará falsa. 
+Si la frase menciona información que pueda ser deducida de la tabla como resultado de de sumas, restas, medias, etc... la frase se considerará correcta.
+Puede que algunas frases estén mal escritas o que digan obviedades como 'in the 1975 formula one season, the race on march 1st was the only one to take place on march 1st'. En estos casos, si la frase se puede entender y lo que dice sigue siendo cierto, se considerarán ciertas (t).
+Hay casos extremos en los que las frases pueden no tener ningún sentido y sea imposible valorar si lo que dicen es cierto o falso. En estos casos la respuesta debe ser 'n' de nonsense.
+Escribe tu respuesta t, f o n en 'Answer [t/f/n]: ' por ejemplo para una frase correcta -> Answer [t/f/n]: t
+Cuando termines, guarda el archivo de texto y evíamelo de vuelta a me@email.com o por el canal que más fácil te resulte (Telegram, etc...)
+Si tienes alguna duda durante la evaluación preguntame sin problema :)
+Te agradezco mucho la ayuda ^^
+
+PARA VER BIEN LAS TABLAS: Si usas Sublime Text (cosa que recomiendo), vete a View y desactiva Word Wrap. Así, las tablas que no quepan en horizontal no pasarán a la siguiente línea (haciéndolas muy difíciles de leer).
+Si usas otro editor y quieres saber cómo desactivarlo, busca cómo desabilitar el 'line wrap' en google o pregúntame a mí.
+
+
+# 1/30
+id: 2ee8f5e0b4ab77464e0a4720d9db2d7b33cfde77 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 2008 in paraguayan football
++----+-------------------+-----------+----------+----------+---------+---------+----------+
+|    | team              |   average |   points |   played | 2006    | 2007    | 2008     |
+|----+-------------------+-----------+----------+----------+---------+---------+----------|
+|  0 | libertad          |     2.179 |      279 |      126 | 83 / 40 | 95 / 44 | 101 / 44 |
+|  1 | cerro porteño     |     2.023 |      259 |      126 | 92 / 40 | 92 / 44 | 75 / 44  |
+|  2 | nacional          |     1.484 |      190 |      126 | 53 / 40 | 60 / 44 | 77 / 44  |
+|  3 | olimpia           |     1.406 |      180 |      126 | 50 / 40 | 76 / 44 | 54 / 44  |
+|  4 | sol de américa    |     1.363 |      120 |       86 | n / a   | 57 / 44 | 63 / 44  |
+|  5 | sportivo luqueño  |     1.335 |      171 |      126 | 56 / 40 | 66 / 44 | 49 / 44  |
+|  6 | tacuary           |     1.335 |      171 |      126 | 66 / 40 | 51 / 44 | 54 / 44  |
+|  7 | guaraní           |     1.265 |      162 |      126 | 42 / 40 | 41 / 44 | 79 / 44  |
+|  8 | 2 de mayo         |     1.126 |      142 |      126 | 58 / 40 | 34 / 44 | 50 / 42  |
+|  9 | 12 de octubre     |     1.132 |      145 |      126 | 42 / 40 | 49 / 44 | 53 / 44  |
+| 10 | 3 de febrero      |     1.062 |      136 |      126 | 36 / 40 | 49 / 44 | 51 / 44  |
+| 11 | silvio pettirossi |     0.5   |       22 |       42 | n / a   | n / a   | 22 / 44  |
++----+-------------------+-----------+----------+----------+---------+---------+----------+
+Frase: the majority of clubs in the 2008 paraguayan football league played 126 matches .
+Answer [t/f/n]: t
+
+
+# 2/30
+id: e2a8e1b85e4ce6f94e56d69bd71736e91b533ff7 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: claudia hoffmann
++----+--------+-------------------------------+-----------------------------+------------+---------------+
+|    |   year | competition                   | venue                       | position   | event         |
+|----+--------+-------------------------------+-----------------------------+------------+---------------|
+|  0 |   2000 | world junior championships    | santiago , chile            | 5th        | 4 400 m relay |
+|  1 |   2001 | european junior championships | grosseto , italy            | 4th        | 400 m         |
+|  2 |   2005 | world championships           | helsinki , finland          | 6th        | 4 400 m relay |
+|  3 |   2006 | european championships        | gothenburg , sweden         | 5th        | 4 400 m relay |
+|  4 |   2007 | european indoor championships | birmingham , united kingdom | 5th        | 4 400 m relay |
+|  5 |   2010 | european championships        | barcelona , spain           | 2nd        | 4 400 m relay |
++----+--------+-------------------------------+-----------------------------+------------+---------------+
+Frase: 2005 was the only year that claudia hoffmann finished in 6th place .
+Answer [t/f/n]: t
+
+
+# 3/30
+id: e6a326b44353138081fc99ba88c9ae5cb8e217a3 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: fil world luge championships 1961
++----+--------+--------------+--------+----------+----------+---------+
+|    |   rank | nation       |   gold |   silver |   bronze |   total |
+|----+--------+--------------+--------+----------+----------+---------|
+|  0 |      1 | austria      |      0 |        0 |        3 |       3 |
+|  1 |      2 | italy        |      1 |        1 |        0 |       2 |
+|  2 |      3 | west germany |      0 |        2 |        0 |       2 |
+|  3 |      4 | poland       |      1 |        0 |        0 |       1 |
+|  4 |      5 | switzerland  |      1 |        0 |        0 |       1 |
++----+--------+--------------+--------+----------+----------+---------+
+Frase: austria was the only team to win no gold medals in the 1961 fil world luge championships .
+Answer [t/f/n]: f
+
+
+# 4/30
+id: edf91356af5394dea1d7fd34d82a5d2f07362678 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 1955 vfl season
++----+-----------------+-------------------+-----------------+-------------------+-----------------------+---------+---------------+
+|    | home team       | home team score   | away team       | away team score   | venue                 |   crowd | date          |
+|----+-----------------+-------------------+-----------------+-------------------+-----------------------+---------+---------------|
+|  0 | st kilda        | 8.5 ( 53 )        | south melbourne | 11.16 ( 82 )      | junction oval         |   10150 | 6 august 1955 |
+|  1 | footscray       | 10.13 ( 73 )      | geelong         | 10.16 ( 76 )      | western oval          |   33902 | 6 august 1955 |
+|  2 | fitzroy         | 6.17 ( 53 )       | richmond        | 11.9 ( 75 )       | brunswick street oval |   14000 | 6 august 1955 |
+|  3 | north melbourne | 8.12 ( 60 )       | hawthorn        | 8.5 ( 53 )        | arden street oval     |    9000 | 6 august 1955 |
+|  4 | melbourne       | 16.23 ( 119 )     | essendon        | 7.12 ( 54 )       | mcg                   |   49352 | 6 august 1955 |
+|  5 | collingwood     | 12.17 ( 89 )      | carlton         | 7.10 ( 52 )       | victoria park         |   28000 | 6 august 1955 |
++----+-----------------+-------------------+-----------------+-------------------+-----------------------+---------+---------------+
+Frase: the average crowd size during the 1955 vfl season was 24067 .
+Answer [t/f/n]: t
+
+
+# 5/30
+id: 489d19643ba2f65d2fbed249936e3ddd66c2daf9 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: ana timotić
++----+-----------+----------------------------------+-----------+---------------+---------------+-----------+-------------------+-----------+-----------------------+
+|    |   edition | zone                             | round     | date          | against       | surface   | opponent          | outcome   | result                |
+|----+-----------+----------------------------------+-----------+---------------+---------------+-----------+-------------------+-----------+-----------------------|
+|  0 |      2005 | europe / africa group i c        | 1r        | 21 april 2005 | slovenia      | clay      | tina pisnik       | loss      | 6 - 0 , 6 - 1         |
+|  1 |      2005 | europe / africa group i c        | 2r        | 22 april 2005 | great britain | clay      | elena baltacha    | win       | 5 - 7 , 6 - 3 , 6 - 0 |
+|  2 |      2005 | europe / africa group play - off | semifinal | 23 april 2005 | israel        | clay      | shahar pe'er      | loss      | 6 - 4 , 4 - 6 , 6 - 3 |
+|  3 |      2006 | europe / africa group i b        | 1r        | 18 april 2006 | slovenia      | clay      | polona reberšak   | loss      | 6 - 3 , 6 - 2         |
+|  4 |      2006 | europe / africa group i b        | 3r        | 20 april 2006 | denmark       | clay      | eva dyrberg       | win       | 2 - 6 , 6 - 4 , 6 - 4 |
+|  5 |      2006 | europe / africa group i          | semifinal | 22 april 2006 | israel        | clay      | anna smashnova    | win       | 5 - 7 , 4 - 5 ret     |
+|  6 |      2007 | europe / africa group i c        | 1r        | 20 april 2007 | slovenia      | clay      | maša zec peškirič | loss      | 6 - 3 , 4 - 6 , 6 - 0 |
+|  7 |      2007 | europe / africa group i c        | semifinal | 21 april 2007 | romania       | clay      | mădălina gojnea   | loss      | 1 - 6 , 6 - 4 , 6 - 3 |
++----+-----------+----------------------------------+-----------+---------------+---------------+-----------+-------------------+-----------+-----------------------+
+Frase: all of the games that ana timotić played in the division of europe were on a surface of clay .
+Answer [t/f/n]: t
+
+
+# 6/30
+id: ad3003c6a2c1820f4b2814b46f5aa17af1930ff4 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 1981 toronto blue jays season
++----+-----------+------------+------------------------------------+------------------------------------+------------------------------------+
+|    | date      | opponent   | score                              | loss                               | record                             |
+|----+-----------+------------+------------------------------------+------------------------------------+------------------------------------|
+|  0 | august 10 | tigers     | 4 - 3                              | mclaughlin ( 0 - 5 )               | 16 - 43                            |
+|  1 | august 11 | tigers     | 6 - 4                              | schatzeder ( 3 - 5 )               | 17 - 43                            |
+|  2 | august 12 | tigers     | 4 - 3                              | morris ( 9 - 4 )                   | 18 - 43                            |
+|  3 | august 14 | brewers    | 5 - 4                              | easterly ( 2 - 2 )                 | 19 - 43                            |
+|  4 | august 15 | brewers    | 4 - 3                              | cleveland ( 2 - 2 )                | 20 - 43                            |
+|  5 | august 16 | brewers    | 6 - 2                              | stieb ( 5 - 8 )                    | 20 - 44                            |
+|  6 | august 16 | brewers    | 2 - 0                              | todd ( 2 - 6 )                     | 20 - 45                            |
+|  7 | august 17 | royals     | 5 - 3                              | clancy ( 3 - 6 )                   | 20 - 46                            |
+|  8 | august 18 | royals     | 5 - 3                              | jones ( 1 - 1 )                    | 21 - 46                            |
+|  9 | august 19 | royals     | 9 - 4                              | leonard ( 7 - 8 )                  | 22 - 46                            |
+| 10 | august 21 | white sox  | 5 - 4                              | farmer ( 2 - 3 )                   | 23 - 46                            |
+| 11 | august 22 | white sox  | 8 - 0                              | clancy ( 3 - 7 )                   | 23 - 47                            |
+| 12 | august 23 | white sox  | 13 - 2                             | leal ( 4 - 9 )                     | 23 - 48                            |
+| 13 | august 24 | rangers    | 3 - 0                              | berenguer ( 2 - 5 )                | 23 - 49                            |
+| 14 | august 25 | rangers    | 6 - 1                              | stieb ( 6 - 9 )                    | 23 - 50                            |
+| 15 | august 27 | royals     | 11 - 5                             | clancy ( 3 - 8 )                   | 23 - 51                            |
+| 16 | august 28 | royals     | 4 - 3                              | brett ( 1 - 1 )                    | 24 - 51                            |
+| 17 | august 29 | royals     | 2 - 0                              | berenguer ( 2 - 6 )                | 24 - 52                            |
+| 18 | august 30 | royals     | postponed ( rain ) not rescheduled | postponed ( rain ) not rescheduled | postponed ( rain ) not rescheduled |
+| 19 | august 31 | rangers    | 3 - 0                              | jenkins ( 5 - 7 )                  | 25 - 52                            |
++----+-----------+------------+------------------------------------+------------------------------------+------------------------------------+
+Frase: the toronto blue jays played against the royals 7 times .
+Answer [t/f/n]: t
+
+
+# 7/30
+id: ea73d7e8d65e1fd8e650d3e0020681f051a6f77e - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 2007 u.s. women 's open golf championship
++----+---------+-----------------+---------------+-------------------------+----------+---------+
+|    | place   | player          | country       | score                   | to par   |   money |
+|----+---------+-----------------+---------------+-------------------------+----------+---------|
+|  0 | 1       | cristie kerr    | united states | 71 + 72 + 66 + 70 = 279 | - 5      |  560000 |
+|  1 | t2      | angela park     | brazil        | 68 + 69 + 74 + 70 = 281 | - 3      |  271022 |
+|  2 | t2      | lorena ochoa    | mexico        | 71 + 71 + 68 + 71 = 281 | - 3      |  271022 |
+|  3 | t4      | se ri pak       | south korea   | 74 + 72 + 68 + 68 = 282 | - 2      |  130549 |
+|  4 | t4      | inbee park      | south korea   | 69 + 73 + 71 + 69 = 282 | - 2      |  130549 |
+|  5 | 6       | jiyai shin      | south korea   | 70 + 69 + 71 + 74 = 284 | e        |  103581 |
+|  6 | 7       | jee young lee   | south korea   | 72 + 71 + 71 + 71 = 285 | + 1      |   93031 |
+|  7 | t8      | mi hyun kim     | south korea   | 71 + 75 + 70 + 70 = 286 | + 2      |   82464 |
+|  8 | t8      | jeong jang      | south korea   | 72 + 71 + 70 + 73 = 286 | + 2      |   82464 |
+|  9 | t10     | ai miyazato     | japan         | 73 + 73 + 72 + 69 = 287 | + 3      |   66177 |
+| 10 | t10     | kyeong bae      | south korea   | 74 + 71 + 72 + 70 = 287 | + 3      |   66177 |
+| 11 | t10     | julieta granada | paraguay      | 70 + 69 + 75 + 73 = 287 | + 3      |   66177 |
+| 12 | t10     | morgan pressel  | united states | 71 + 70 + 69 + 77 = 287 | + 3      |   66177 |
++----+---------+-----------------+---------------+-------------------------+----------+---------+
+Frase: in the 2007 u.s. women 's open , the average money amount was 153030 .
+Answer [t/f/n]: f
+
+
+# 8/30
+id: 70e3a75db000a758d18a71b6a2041ae5804ad5f6 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: james calado
++----+----------+----------------------------------------------+-------------------+---------+--------+---------+------------+-----------+----------+------------+
+|    |   season | series                                       | team              |   races |   wins |   poles |   f / laps |   podiums |   points | position   |
+|----+----------+----------------------------------------------+-------------------+---------+--------+---------+------------+-----------+----------+------------|
+|  0 |     2008 | british formula renault 2.0                  | fortec motorsport |      20 |      1 |       2 |          0 |         4 |      292 | 7th        |
+|  1 |     2008 | formula renault 2.0 nec                      | fortec motorsport |       3 |      0 |       0 |          0 |         0 |       38 | 25th       |
+|  2 |     2008 | british formula renault 2.0 winter series    | fortec motorsport |       4 |      2 |       3 |          4 |         3 |      116 | 1st        |
+|  3 |     2008 | portuguese formula renault 2.0 winter series | fortec motorsport |       4 |      3 |       2 |          2 |         4 |       60 | 1st        |
+|  4 |     2009 | british formula renault 2.0                  | fortec motorsport |      20 |      8 |      10 |          7 |        12 |      457 | 2nd        |
+|  5 |     2009 | formula renault 2.0 eurocup                  | fortec motorsport |       6 |      0 |       0 |          1 |         0 |       10 | 17th       |
+|  6 |     2010 | british formula three championship           | carlin            |      30 |      5 |       2 |          4 |        12 |      293 | 2nd        |
+|  7 |     2011 | gp3 series                                   | lotus art         |      16 |      1 |       1 |          2 |         6 |       55 | 2nd        |
+|  8 |     2011 | gp2 final                                    | lotus art         |       2 |      1 |       0 |          0 |         1 |        7 | 5th        |
+|  9 |     2012 | gp2 series                                   | lotus gp          |      24 |      2 |       2 |          1 |         7 |      160 | 5th        |
++----+----------+----------------------------------------------+-------------------+---------+--------+---------+------------+-----------+----------+------------+
+Frase: james calado had the most points in the 2010 season .
+Answer [t/f/n]: f
+
+
+# 9/30
+id: 16543047b414fd9c0f5f12b4ef5c6e13aaa86f98 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: sheri - ann brooks
++----+--------+---------------------+-----------------------+----------+-----------------+
+|    |   year | tournament          | venue                 | result   | extra           |
+|----+--------+---------------------+-----------------------+----------+-----------------|
+|  0 |   2006 | commonwealth games  | melbourne , australia | 1st      | 100 m           |
+|  1 |   2006 | commonwealth games  | melbourne , australia | 5th      | 200 m           |
+|  2 |   2006 | commonwealth games  | melbourne , australia | 1st      | 4 x 100 m relay |
+|  3 |   2007 | pan american games  | rio , brazil          | 2nd      | 200 m           |
+|  4 |   2007 | pan american games  | rio , brazil          | 1st      | 4 x 400 m relay |
+|  5 |   2007 | world championships | osaka , japan         | 2nd      | 4 x 100 m relay |
++----+--------+---------------------+-----------------------+----------+-----------------+
+Frase: the highest number of results that sheri - ann brooks had was 5th .
+Answer [t/f/n]: f
+
+
+# 10/30
+id: d56af4b99f9c79e689c62df9449416b088ea952c - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 2008 nascar craftsman truck series
++----+-------+-------+---------------+-----------+----------------------------+
+|    |   pos |   car | driver        | make      | team                       |
+|----+-------+-------+---------------+-----------+----------------------------|
+|  0 |     1 |     5 | mike skinner  | toyota    | bill davis racing          |
+|  1 |     2 |    99 | erik darnell  | ford      | roush fenway racing        |
+|  2 |     3 |    88 | matt crafton  | chevrolet | thorsport racing           |
+|  3 |     4 |    15 | john andretti | toyota    | billy ballew motorsports   |
+|  4 |     5 |    33 | ron hornaday  | chevrolet | kevin harvick incorporated |
+|  5 |     6 |    51 | kyle busch    | toyota    | billy ballew motorsports   |
+|  6 |     7 |    40 | jeff green    | chevrolet | key motorsports            |
+|  7 |     8 |     7 | t j bell      | chevrolet | the racer 's group         |
+|  8 |     9 |    30 | todd bodine   | toyota    | germain racing             |
+|  9 |    10 |    81 | donny lia r   | chevrolet | randy moss motorsports     |
++----+-------+-------+---------------+-----------+----------------------------+
+Frase: 4 cars in the 2008 nascar craftsman truck series were made with toyota .
+Answer [t/f/n]: t
+
+
+# 11/30
+id: 4041b1d4e44f258206184cab0d90181c9c6474fe - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: united states house of representatives elections , 1946
++----+-------------+------------------+------------+-----------------+--------------+--------------------------------------------------------+
+|    | district    | incumbent        | party      |   first elected | result       | candidates                                             |
+|----+-------------+------------------+------------+-----------------+--------------+--------------------------------------------------------|
+|  0 | new york 16 | ellsworth b buck | republican |            1944 | re - elected | ellsworth b buck ( r ) 61.2 % john burry ( d ) 38.8 %  |
+|  1 | new york 20 | sol bloom        | democratic |            1923 | re - elected | sol bloom ( d ) 61.1 % jules j justin ( r ) 38.9 %     |
+|  2 | new york 28 | ralph a gamble   | republican |            1937 | re - elected | ralph a gamble ( r ) 75.4 % morris karnes ( d ) 24.6 % |
+|  3 | new york 30 | jay le fevre     | republican |            1942 | re - elected | jay le fevre ( r ) 69.5 % john f killgrew ( d ) 30.5 % |
+|  4 | new york 35 | hadwen c fuller  | republican |            1943 | re - elected | hadwen c fuller ( r ) 54.3 % frank a emma ( d ) 45.7 % |
++----+-------------+------------------+------------+-----------------+--------------+--------------------------------------------------------+
+Frase: all incumbents of the us house of representatives elections in the year 1946 were re - elected .
+Answer [t/f/n]: t
+
+
+# 12/30
+id: bf6f658dc68e0c120c9c85b113424f845ca99d58 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: lark rise to candleford ( tv series )
++----+----+---------------------------------------------+------------------+------------------+---------------------+------------------+
+|    |    | episode                                     | writer           | director         | original air date   | viewing figure   |
+|----+----+---------------------------------------------+------------------+------------------+---------------------+------------------|
+|  0 | 11 | episode 1 ( 75 - minute christmas special ) | bill gallagher   | alan grint       | 21 december 2008    | 6.58 million     |
+|  1 | 12 | episode 2                                   | bill gallagher   | alan grint       | 4 january 2009      | 6.53 million     |
+|  2 | 13 | episode 3                                   | bill gallagher   | alan grint       | 11 january 2009     | 6.13 million     |
+|  3 | 14 | episode 4                                   | carolyn bonnyman | maurice phillips | 18 january 2009     | 6.49 million     |
+|  4 | 15 | episode 5                                   | bill gallagher   | julian holmes    | 25 january 2009     | 6.31 million     |
+|  5 | 16 | episode 6                                   | gaby chiappe     | moira armstrong  | 1 february 2009     | 6.54 million     |
+|  6 | 17 | episode 7                                   | gaby chiappe     | sue tully        | 8 february 2009     | 6.14 million     |
+|  7 | 18 | episode 8                                   | kate gartside    | alan grint       | 15 february 2009    | 6.20 million     |
+|  8 | 19 | episode 9                                   | kate gartside    | david tucker     | 22 february 2009    | 6.32 million     |
+|  9 | 20 | episode 10                                  | carolyn bonnyman | patrick lau      | 1 march 2009        | 6.34 million     |
+| 10 | 21 | episode 11                                  | gaby chiappe     | paul marcus      | 8 march 2009        | 6.78 million     |
++----+----+---------------------------------------------+------------------+------------------+---------------------+------------------+
+Frase: episode 5 had more viewers than episode 7 .
+Answer [t/f/n]: t
+
+
+# 13/30
+id: bcec1371ffd2dd91b19710683eec2babd6734ec2 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: united states house of representatives elections , 1978
++----+------------+----------------+------------+-----------------+--------------+----------------------------------------------------------+
+|    | district   | incumbent      | party      |   first elected | result       | candidates                                               |
+|----+------------+----------------+------------+-----------------+--------------+----------------------------------------------------------|
+|  0 | missouri 2 | robert a young | democratic |            1976 | re - elected | robert a young ( d ) 56.4 % bob chase ( r ) 43.6 %       |
+|  1 | missouri 3 | dick gephardt  | democratic |            1976 | re - elected | dick gephardt ( d ) 81.9 % lee buchschacher ( r ) 18.1 % |
+|  2 | missouri 4 | ike skelton    | democratic |            1976 | re - elected | ike skelton ( d ) 72.8 % bill baker ( r ) 27.2 %         |
+|  3 | missouri 7 | gene taylor    | republican |            1972 | re - elected | gene taylor ( r ) 61.2 % jim thomas ( d ) 38.8 %         |
+|  4 | missouri 9 | harold volkmer | democratic |            1976 | re - elected | harold volkmer ( d ) 74.7 % jerry dent ( r ) 25.3 %      |
++----+------------+----------------+------------+-----------------+--------------+----------------------------------------------------------+
+Frase: all of the incumbents of the 1978 house of representatives elections were re - elected .
+Answer [t/f/n]: t
+
+
+# 14/30
+id: b0ac5366ff3b71a45c5e4520647143b7b0df13d5 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 2007 - 08 plymouth argyle f.c. season
++----+------------+-----------+----------+----------------------+-------------------+--------+----------------+
+|    | name       | country   | type     | moving from          | transfer window   |   ends | transfer fee   |
+|----+------------+-----------+----------+----------------------+-------------------+--------+----------------|
+|  0 | abdou      | fra       | signed   | sedan                | summer            |   2008 | free           |
+|  1 | mabiala    | fra       | loan     | parissaint - germain | summer            |   2008 | loan           |
+|  2 | martin     | eng       | loan     | manchester united    | summer            |   2008 | loan           |
+|  3 | easter     | wal       | transfer | wycombe wanderers    | winter            |   2008 | 210k           |
+|  4 | jutkiewicz | eng       | loan     | everton              | winter            |   2008 | loan           |
+|  5 | folly      | fra       | transfer | sheffield wednesday  | winter            |   2008 | xxxk           |
++----+------------+-----------+----------+----------------------+-------------------+--------+----------------+
+Frase: abdou is the only player that was moved from sedan during the 2007 - 08 plymouth argyle f.c. season .
+Answer [t/f/n]: t
+
+
+# 15/30
+id: 3716d9b6f9b6311236072fd07f8426a8f5a793f8 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 2010 afc champions league
++----+-------+----------------------+------------------------+---------+---------------+--------------+-----------+
+|    |   pos | member association   |   points ( total 500 ) |   clubs |   group stage |   play - off |   afc cup |
+|----+-------+----------------------+------------------------+---------+---------------+--------------+-----------|
+|  0 |     4 | saudi arabia         |                    365 |      12 |             4 |            0 |         0 |
+|  1 |     5 | uae                  |                    356 |      12 |             3 |            1 |         0 |
+|  2 |     7 | iran                 |                    340 |      18 |             4 |            0 |         0 |
+|  3 |     9 | uzbekistan           |                    289 |      16 |             2 |            0 |         1 |
+|  4 |    10 | qatar                |                    270 |      10 |             2 |            0 |         0 |
++----+-------+----------------------+------------------------+---------+---------------+--------------+-----------+
+Frase: in the 2010 afc champions league , there were three clubs with over 300 points .
+Answer [t/f/n]: t
+
+
+# 16/30
+id: a5935565ee6ea2fc1899138df558d035b9219221 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: fifa beach soccer world cup
++----+--------------+-----------------------------------------------+-------------------------+----------------------------------+-------------------------+-------------------+
+|    | year         | location                                      | number of teams         | player of the tournament         | top goalscorer ( s )    | best goalkeeper   |
+|----+--------------+-----------------------------------------------+-------------------------+----------------------------------+-------------------------+-------------------|
+|  0 | 2009 details | jumeirah beach , dubai , united arab emirates | dejan stankovic ( sui ) | 16 goals dejan stankovic ( sui ) | mão ( bra )             | 269 ( 8.7 )       |
+|  1 | 2008 details | plage du prado , marseille , france           | amarelle ( esp )        | 13 goals madjer ( por )          | roberto valeiro ( esp ) | 258 ( 8.3 )       |
+|  2 | 2007 details | copacabana beach , rio de janeiro , brazil    | buru ( bra )            | 10 goals buru ( bra )            | not awarded             | 261 ( 8.2 )       |
+|  3 | 2006 details | copacabana beach , rio de janeiro , brazil    | madjer ( por )          | 21 goals madjer ( por )          | not awarded             | 286 ( 8.9 )       |
+|  4 | 2005 details | copacabana beach , rio de janeiro , brazil    | madjer ( por )          | 12 goals madjer ( por )          | not awarded             | 164 ( 8.2 )       |
++----+--------------+-----------------------------------------------+-------------------------+----------------------------------+-------------------------+-------------------+
+Frase: in the fifa beach soccer world cup , when the year is 2006 , the total number of teams is 33 .
+Answer [t/f/n]: n
+
+
+# 17/30
+id: e0371b3044dca224b4c6fa09bd67385b2cb2e26a - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: indiana high school athletics conferences : ohio river valley - western indiana
++----+-----------------+---------------+-------------+--------+---------------+---------------+
+|    | school          | location      | mascot      |   size | ihsaa class   | county        |
+|----+-----------------+---------------+-------------+--------+---------------+---------------|
+|  0 | crawford county | marengo       | wolfpack    |    487 | aa            | 13 crawford   |
+|  1 | mitchell        | mitchell      | bluejackets |    620 | aaa           | 47 lawrence   |
+|  2 | orleans         | orleans       | bulldogs    |    258 | a             | 59 orange     |
+|  3 | paoli           | paoli         | rams        |    511 | aa            | 59 orange     |
+|  4 | perry central   | leopold       | commodores  |    334 | aa            | 62 perry      |
+|  5 | springs valley  | french lick   | blackhawks  |    319 | a             | 59 orange     |
+|  6 | west washington | campbellsburg | senators    |    307 | a             | 88 washington |
++----+-----------------+---------------+-------------+--------+---------------+---------------+
+Frase: mitchell has the smallest size of schools in the ohio river valley - western indiana conference .
+Answer [t/f/n]: f
+
+
+# 18/30
+id: 473d3b0e806517dc4b21cf2c97c97a75a91d6f2c - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: sans contrefaçon
++----+-----------------------------------+----------+-----------------------------------+-------------------+--------+
+|    | version                           | length   | album                             | remixed by        |   year |
+|----+-----------------------------------+----------+-----------------------------------+-------------------+--------|
+|  0 | album version                     | 4:07     | ainsi soit je                     | -                 |   1987 |
+|  1 | single version                    | 3:50     | -                                 | laurent boutonnat |   1987 |
+|  2 | boy remix                         | 5:55     | dance remixes                     | thierry rogen     |   1987 |
+|  3 | girl remix                        | 4:20     | -                                 | thierry rogen     |   1987 |
+|  4 | music video                       | 8:43     | les clips vol ii , music videos i | -                 |   1987 |
+|  5 | live version ( recorded in 1989 ) | 6:10     | en concert                        | -                 |   1989 |
+|  6 | live version ( recorded in 1996 ) | 4:23     | live à bercy                      | -                 |   1996 |
+|  7 | live version ( recorded in 2000 ) | 0:34     | mylenium tour                     | -                 |   2000 |
+|  8 | album version                     | 4:15     | les mots                          | laurent boutonnat |   2001 |
+|  9 | jca remix                         | 5:52     | remixes                           | jca               |   2003 |
+| 10 | live version ( recorded in 2006 ) | 4:46     | avant que l'ombre à bercy         | -                 |   2006 |
+| 11 | live version ( recorded in 2009 ) | 4:09     | n degree5 on tour                 | -                 |   2009 |
++----+-----------------------------------+----------+-----------------------------------+-------------------+--------+
+Frase: 5 of the songs on the album sans contrefaçon were released in 1987 .
+Answer [t/f/n]: t
+
+
+# 19/30
+id: 19b26a368242e18fec7c825f4cc95c91f61efcb9 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: soybean oil
++----+---------------------------------------+-------------+-----------------+-------------------------------------+------------------------------------+-------------------------+
+|    |                                       | total fat   | saturated fat   | monounsaturated fat                 | polyunsaturated fat                | smoke point             |
+|----+---------------------------------------+-------------+-----------------+-------------------------------------+------------------------------------+-------------------------|
+|  0 | sunflower oil                         | 100 g       | 11 g            | 20 g ( 84 g in high oleic variety ) | 69 g ( 4 g in high oleic variety ) | degree                  |
+|  1 | soybean oil                           | 100 g       | 16 g            | 23 g                                | 58 g                               | degree                  |
+|  2 | canola oil                            | 100 g       | 7 g             | 63 g                                | 28 g                               | degree                  |
+|  3 | olive oil                             | 100 g       | 14 g            | 73 g                                | 11 g                               | degree                  |
+|  4 | corn oil                              | 100 g       | 15 g            | 30 g                                | 55 g                               | degree                  |
+|  5 | peanut oil                            | 100 g       | 17 g            | 46 g                                | 32 g                               | degree                  |
+|  6 | rice bran oil                         | 100 g       | 25 g            | 38 g                                | 37 g                               | degree                  |
+|  7 | vegetable shortening ( hydrogenated ) | 71 g        | 23 g ( 34 % )   | 8 g ( 11 % )                        | 37 g ( 52 % )                      | degree                  |
+|  8 | lard                                  | 100 g       | 39 g            | 45 g                                | 11 g                               | degree                  |
+|  9 | suet                                  | 94 g        | 52 g ( 55 % )   | 32 g ( 34 % )                       | 3 g ( 3 % )                        | 200degree ( 400degree ) |
++----+---------------------------------------+-------------+-----------------+-------------------------------------+------------------------------------+-------------------------+
+Frase: vegetable shortening is the only vegetable oil listed .
+Answer [t/f/n]: f
+
+
+# 20/30
+id: 8138cabc70f0b0799d397a56caacd4a9fcb1d7ad - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: raphael butler
++----+-------+----------+-----------------+------------------------+---------+--------+-----------------------------------------+
+|    | res   | record   | opponent        | method                 |   round | time   | location                                |
+|----+-------+----------+-----------------+------------------------+---------+--------+-----------------------------------------|
+|  0 | win   | 7 - 0    | joseph bryant   | tko ( strikes )        |       1 | 1:04   | rio rancho , new mexico , united states |
+|  1 | win   | 6 - 0    | jeremiah o'neal | ko ( punches )         |       1 | 2:19   | thackerville , oklahoma , united states |
+|  2 | win   | 5 - 0    | brett murphy    | ko ( punch )           |       1 | 0:13   | st paul , minnesota , united states     |
+|  3 | win   | 4 - 0    | steven shaw     | submission ( armbar )  |       1 | 4:35   | maplewood , minnesota , united states   |
+|  4 | win   | 3 - 0    | richard white   | submission ( punches ) |       2 | 3:18   | rochester , minnesota , united states   |
+|  5 | win   | 2 - 0    | jeremy beck     | ko ( punches )         |       1 | 3:36   | red wing , minnesota , united states    |
+|  6 | win   | 1 - 0    | gabe hobbs      | ko ( punch )           |       1 | 0:36   | welch , minnesota , united states       |
++----+-------+----------+-----------------+------------------------+---------+--------+-----------------------------------------+
+Frase: raphael butler 's matches lasted a combined total of 15 minutes and 41 seconds .
+Answer [t/f/n]: t
+
+
+# 21/30
+id: dedb7aab082c1e480256828ac0c3cd35ac9bb558 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: weightlifting at the 2007 pan american games
++----+-------------------------+--------------+----------+----------------+----------------+
+|    | name                    |   bodyweight | snatch   | clean & jerk   | total ( kg )   |
+|----+-------------------------+--------------+----------+----------------+----------------|
+|  0 | joël mackenzie ( cub )  |       101.4  | 175.0    | 205.0          | 380.0          |
+|  1 | pedro stetsiuk ( arg )  |       102.45 | 160.0    | 180.0          | 340.0          |
+|  2 | damian abbiate ( arg )  |       104.45 | 150.0    | 188.0          | 338.0          |
+|  3 | bruno brandão ( bra )   |        99.1  | 157.0    | 180.0          | 337.0          |
+|  4 | christian lópez ( gua ) |       104.7  | 153.0    | 182.0          | 335.0          |
+|  5 | víctor osorio ( chi )   |       103.05 | 140.0    | 176.0          | 316.0          |
+|  6 | ivorn mcknee ( bar )    |       103.25 | 140.0    | -              | dnf            |
+|  7 | josé espinoza ( nca )   |        99.4  | -        | -              | dnf            |
+|  8 | boris burov ( ecu )     |       100.4  | -        | -              | dnf            |
+|  9 | akos sandor ( can )     |       104.95 | -        | -              | dnf            |
+| 10 | fabrício mafra ( bra )  |       100.75 | 151.0    | 187.0          | dsq            |
++----+-------------------------+--------------+----------+----------------+----------------+
+Frase: in the 2007 pan american games , pedro stetsiuk lifted the most total ( kg ) .
+Answer [t/f/n]: f
+
+
+# 22/30
+id: 48215cf424ac507d08b292d2672aa7e6ac259c0f - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 1949 vfl season
++----+-------------+-------------------+-----------------+-------------------+----------------+---------+--------------+
+|    | home team   | home team score   | away team       | away team score   | venue          |   crowd | date         |
+|----+-------------+-------------------+-----------------+-------------------+----------------+---------+--------------|
+|  0 | st kilda    | 16.15 ( 111 )     | south melbourne | 13.13 ( 91 )      | junction oval  |    6000 | 16 july 1949 |
+|  1 | essendon    | 8.22 ( 70 )       | north melbourne | 6.13 ( 49 )       | windy hill     |   16000 | 16 july 1949 |
+|  2 | collingwood | 7.16 ( 58 )       | melbourne       | 10.13 ( 73 )      | victoria park  |   22000 | 16 july 1949 |
+|  3 | carlton     | 9.13 ( 67 )       | fitzroy         | 9.8 ( 62 )        | princes park   |   17500 | 16 july 1949 |
+|  4 | richmond    | 16.21 ( 117 )     | hawthorn        | 9.13 ( 67 )       | punt road oval |    7000 | 16 july 1949 |
+|  5 | geelong     | 13.15 ( 93 )      | footscray       | 4.10 ( 34 )       | kardinia park  |   15000 | 16 july 1949 |
++----+-------------+-------------------+-----------------+-------------------+----------------+---------+--------------+
+Frase: all games of the 1949 vfl season were played on the 16th of july .
+Answer [t/f/n]: t
+
+
+# 23/30
+id: 3b1e3287b8f9db13a7656cf0e2a2f631d4f200ea - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 2007 u.s. women 's open golf championship
++----+---------+-----------------+---------------+-------------------------+----------+---------+
+|    | place   | player          | country       | score                   | to par   |   money |
+|----+---------+-----------------+---------------+-------------------------+----------+---------|
+|  0 | 1       | cristie kerr    | united states | 71 + 72 + 66 + 70 = 279 | - 5      |  560000 |
+|  1 | t2      | angela park     | brazil        | 68 + 69 + 74 + 70 = 281 | - 3      |  271022 |
+|  2 | t2      | lorena ochoa    | mexico        | 71 + 71 + 68 + 71 = 281 | - 3      |  271022 |
+|  3 | t4      | se ri pak       | south korea   | 74 + 72 + 68 + 68 = 282 | - 2      |  130549 |
+|  4 | t4      | inbee park      | south korea   | 69 + 73 + 71 + 69 = 282 | - 2      |  130549 |
+|  5 | 6       | jiyai shin      | south korea   | 70 + 69 + 71 + 74 = 284 | e        |  103581 |
+|  6 | 7       | jee young lee   | south korea   | 72 + 71 + 71 + 71 = 285 | + 1      |   93031 |
+|  7 | t8      | mi hyun kim     | south korea   | 71 + 75 + 70 + 70 = 286 | + 2      |   82464 |
+|  8 | t8      | jeong jang      | south korea   | 72 + 71 + 70 + 73 = 286 | + 2      |   82464 |
+|  9 | t10     | ai miyazato     | japan         | 73 + 73 + 72 + 69 = 287 | + 3      |   66177 |
+| 10 | t10     | kyeong bae      | south korea   | 74 + 71 + 72 + 70 = 287 | + 3      |   66177 |
+| 11 | t10     | julieta granada | paraguay      | 70 + 69 + 75 + 73 = 287 | + 3      |   66177 |
+| 12 | t10     | morgan pressel  | united states | 71 + 70 + 69 + 77 = 287 | + 3      |   66177 |
++----+---------+-----------------+---------------+-------------------------+----------+---------+
+Frase: in the 2007 u.s. women 's open golf championship , South korea ranked the highest .
+Answer [t/f/n]: f
+
+
+# 24/30
+id: 84bad6bd5fe9c6b4b36dce1b87c8283563b71bfa - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 2006 asp world tour
++----+--------------------------+-----------------------+------------------+----------------------------+-------------------------------+-------------------------------+
+|    | date                     | location              | country          | event                      | winner                        | runner - up                   |
+|----+--------------------------+-----------------------+------------------+----------------------------+-------------------------------+-------------------------------|
+|  0 | february 28 - march 12   | gold coast            | australia        | roxy pro gold coast        | melanie redman - carr ( aus ) | layne beachley ( aus )        |
+|  1 | april 22 - april 29      | tavarua               | fiji             | roxy pro fiji              | melanie redman - carr ( aus ) | layne beachley ( aus )        |
+|  2 | may 4 - may 16           | teahupoo , tahiti     | french polynesia | billabong pro tahiti women | melanie redman - carr ( aus ) | chelsea georgeson ( aus )     |
+|  3 | august 21 - august 28    | itacarã               | brazil           | billabong girls pro        | layne beachley ( aus )        | jessi miley - dyer ( aus )    |
+|  4 | august 31 - september 5  | hossegor              | france           | rip curl pro mademoiselle  | chelsea georgeson ( aus )     | melanie redman - carr ( aus ) |
+|  5 | october 9 - october 15   | manly beach           | australia        | havaianas beachley classic | stephanie gilmore ( aus )     | layne beachley ( aus )        |
+|  6 | november 24 - december 6 | sunset beach , hawaii | united states    | roxy pro                   | melanie bartels ( haw )       | stephanie gilmore ( aus )     |
+|  7 | december 8 - december 20 | honolua bay , hawaii  | united states    | billabong pro              | jessi miley - dyer ( aus )    | keala kennelly ( haw )        |
++----+--------------------------+-----------------------+------------------+----------------------------+-------------------------------+-------------------------------+
+Frase: aus was the runner up 7 times in the 2006 asp world tour .
+Answer [t/f/n]: t
+
+
+# 25/30
+id: ecaf0412b11134b806d7f1f642e9cfbaf8c920ab - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 1967 vfl season
++----+-----------------+-------------------+-------------+-------------------+-------------------+---------+------------+
+|    | home team       | home team score   | away team   | away team score   | venue             |   crowd | date       |
+|----+-----------------+-------------------+-------------+-------------------+-------------------+---------+------------|
+|  0 | north melbourne | 10.8 ( 68 )       | richmond    | 11.22 ( 88 )      | arden street oval |   12750 | 6 may 1967 |
+|  1 | hawthorn        | 10.6 ( 66 )       | st kilda    | 15.11 ( 101 )     | glenferrie oval   |   20352 | 6 may 1967 |
+|  2 | fitzroy         | 9.10 ( 64 )       | geelong     | 22.13 ( 145 )     | princes park      |    9747 | 6 may 1967 |
+|  3 | collingwood     | 13.17 ( 95 )      | footscray   | 5.7 ( 37 )        | victoria park     |   21855 | 6 may 1967 |
+|  4 | south melbourne | 18.19 ( 127 )     | essendon    | 13.10 ( 88 )      | lake oval         |   18756 | 6 may 1967 |
+|  5 | melbourne       | 5.15 ( 45 )       | carlton     | 16.8 ( 104 )      | mcg               |   48513 | 6 may 1967 |
++----+-----------------+-------------------+-------------+-------------------+-------------------+---------+------------+
+Frase: south melbourne had a higher home team score than north melbourne .
+Answer [t/f/n]: t
+
+
+# 26/30
+id: c7af28e4bc3826504627be7d5d287b281f0be7c4 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: abebech negussie
++----+--------+-----------------------------------+------------------+----------+-------------------------+
+|    |   year | tournament                        | venue            | result   | extra                   |
+|----+--------+-----------------------------------+------------------+----------+-------------------------|
+|  0 |   2000 | world junior championships        | santiago , chile | 1st      | 1500 m                  |
+|  1 |   2001 | world cross country championships | ostend , belgium | 2nd      | junior race             |
+|  2 |   2001 | world cross country championships | ostend , belgium | 1st      | junior team competition |
+|  3 |   2002 | world cross country championships | dublin , ireland | 6th      | short race              |
+|  4 |   2002 | world cross country championships | dublin , ireland | 1st      | team competition        |
++----+--------+-----------------------------------+------------------+----------+-------------------------+
+Frase: abebech negan had an average result of 2.2 times in the year 2000 to 2008 .
+Answer [t/f/n]: n
+
+
+# 27/30
+id: feb255058cf63850631843f101daa5e94d95c5d2 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: list of sons of anarchy episodes
++----+----------------+----------------+--------------+-------------------------+-----------------------------+---------------------+-------------------+-------------------------+
+|    |   no in series |   no in season | title        | directedby              | writtenby                   | originalairdate     | production code   | usviewers ( million )   |
+|----+----------------+----------------+--------------+-------------------------+-----------------------------+---------------------+-------------------+-------------------------|
+|  0 |             14 |              1 | albification | guy ferland             | kurt sutter                 | september 8 , 2009  | 2wab01            | 4.29                    |
+|  1 |             15 |              2 | small tears  | stephen kay             | jack logiudice              | september 15 , 2009 | 2wab02            | n / a                   |
+|  2 |             16 |              3 | fix          | gwyneth horder - payton | dave erickson               | september 22 , 2009 | 2wab03            | 3.49                    |
+|  3 |             17 |              4 | eureka       | guy ferland             | kurt sutter & brett conrad  | september 29 , 2009 | 2wab04            | 3.76                    |
+|  4 |             18 |              5 | smite        | terrence o'hara         | chris collins               | october 6 , 2009    | 2wab05            | n / a                   |
+|  5 |             19 |              6 | falx cerebri | billy gierhart          | regina corrado              | october 13 , 2009   | 2wab06            | n / a                   |
+|  6 |             20 |              7 | gilead       | gwyneth horder - payton | kurt sutter & chris collins | october 20 , 2009   | 2wab07            | 3.70                    |
+|  7 |             21 |              8 | potlatch     | paul maibaum            | kurt sutter & misha green   | october 27 , 2009   | 2wab08            | 3.39                    |
+|  8 |             22 |              9 | fa guan      | stephen kay             | brett conrad & liz sagal    | november 3 , 2009   | 2wab09            | 3.52                    |
+|  9 |             23 |             10 | balm         | paris barclay           | dave erickson & stevie long | november 10 , 2009  | 2wab10            | 3.38                    |
+| 10 |             25 |             12 | the culling  | gwyneth horder - payton | kurt sutter & dave erickson | november 24 , 2009  | 2wab12            | n / a                   |
++----+----------------+----------------+--------------+-------------------------+-----------------------------+---------------------+-------------------+-------------------------+
+Frase: gilead had a higher number of viewers than fa guan .
+Answer [t/f/n]: t
+
+
+# 28/30
+id: 66f8e3a4a0276ba52c1998a221b8dffdb310764e - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 2008 chicago bears season
++----+-------------------------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------+
+|    | round                         | pick                          | player                        | position                      | college                       |
+|----+-------------------------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------|
+|  0 | 1                             | 14                            | chris williams                | ot                            | vanderbilt                    |
+|  1 | 2                             | 44                            | matt forte                    | rb                            | tulane                        |
+|  2 | 3                             | 70                            | earl bennett                  | wr                            | vanderbilt                    |
+|  3 | 3                             | 90                            | marcus harrison               | dt                            | arkansas                      |
+|  4 | 4                             | 120                           | craig steltz                  | s                             | lsu                           |
+|  5 | 5                             | 142                           | zack bowman                   | cb                            | nebraska                      |
+|  6 | 5                             | 158                           | kellen davis                  | te                            | michigan state                |
+|  7 | 7                             | 208                           | ervin baldwin                 | de                            | michigan state                |
+|  8 | 7                             | 222                           | chester adams                 | og                            | georgia                       |
+|  9 | 7                             | 243                           | joey larocque                 | lb                            | oregon state                  |
+| 10 | 7                             | 247                           | kirk barton                   | ot                            | ohio state                    |
+| 11 | 7                             | 248                           | marcus monk                   | wr                            | arkansas                      |
+| 12 | according to official website | according to official website | according to official website | according to official website | according to official website |
++----+-------------------------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------+
+Frase: in the 2008 chicago bears season , the second to last pick was marcus harrison .
+Answer [t/f/n]: f
+
+
+# 29/30
+id: d4e08782739c6e2321d7504bc898d38eb3c5ef5e - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: united states house of representatives elections , 2012
++----+-------------+------------------+------------+-----------------+--------------+-------------------------------------------------------+
+|    | district    | incumbent        | party      |   first elected | result       | candidates                                            |
+|----+-------------+------------------+------------+-----------------+--------------+-------------------------------------------------------|
+|  0 | minnesota 1 | tim walz         | democratic |            2006 | re - elected | tim walz ( d ) 57.6 % allen quist ( r ) 42.4 %        |
+|  1 | minnesota 2 | john kline       | republican |            2002 | re - elected | john kline ( r ) 54.1 % mike obermueller ( d ) 45.9 % |
+|  2 | minnesota 3 | erik paulsen     | republican |            2008 | re - elected | erik paulsen ( r ) 58.2 % brian barnes ( d ) 41.8 %   |
+|  3 | minnesota 5 | keith ellison    | democratic |            2006 | re - elected | keith ellison ( d ) 74.5 % chris fields ( r ) 25.5 %  |
+|  4 | minnesota 6 | michele bachmann | republican |            2006 | re - elected | michele bachmann ( r ) 50.6 % jim graves ( d ) 49.4 % |
++----+-------------+------------------+------------+-----------------+--------------+-------------------------------------------------------+
+Frase: keith ellison recorded the highest percentage ratio among all candidates of the 2012 house of representatives elections .
+Answer [t/f/n]: t
+
+
+# 30/30
+id: 98f783e7a8916895eaba20e217bcc2a0edcb96e5 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: stephin merritt discography
++----+--------------------------------+----------+--------+--------------------+-----------------------+
+|    | album title                    | format   |   year | original label     | chart positions       |
+|----+--------------------------------+----------+--------+--------------------+-----------------------|
+|  0 | distant plastic trees          | lp       |   1991 | red flame          | -                     |
+|  1 | the wayward bus                | lp       |   1992 | popup              | -                     |
+|  2 | the house of tomorrow          | ep       |   1992 | feel good all over | -                     |
+|  3 | the charm of the highway strip | lp       |   1994 | merge records      | -                     |
+|  4 | holiday                        | lp       |   1994 | feel good all over | -                     |
+|  5 | get lost                       | lp       |   1995 | merge records      | -                     |
+|  6 | 69 love songs                  | lp       |   1999 | merge records      | -                     |
+|  7 | i                              | lp       |   2004 | nonesuch records   | 152 ( billboard 200 ) |
+|  8 | distortion                     | lp       |   2008 | nonesuch records   | 77 ( billboard 200 )  |
+|  9 | realism                        | lp       |   2010 | nonesuch records   | 110 ( billboard 200 ) |
+| 10 | love at the bottom of the sea  | lp       |   2012 | merge records      | 89 ( billboard 200 )  |
++----+--------------------------------+----------+--------+--------------------+-----------------------+
+Frase: the majority of these albums were released in lp format .
+Answer [t/f/n]: t
+
+

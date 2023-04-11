@@ -1,0 +1,684 @@
+Instrucciones
+A continuación verás 30 frases acompañadas de una tabla y su título (de la tabla). Las frases dicen algo de la tabla y tendrás que decir si lo que dice es cierto (t) o falso (f) en base a la información presente en la tabla y el título. 
+Si lo que se dice en la frase no está respaldado por ningún dato de la tabla o del título, la frase se considerará falsa. 
+Si la frase menciona información que pueda ser deducida de la tabla como resultado de de sumas, restas, medias, etc... la frase se considerará correcta.
+Puede que algunas frases estén mal escritas o que digan obviedades como 'in the 1975 formula one season, the race on march 1st was the only one to take place on march 1st'. En estos casos, si la frase se puede entender y lo que dice sigue siendo cierto, se considerarán ciertas (t).
+Hay casos extremos en los que las frases pueden no tener ningún sentido y sea imposible valorar si lo que dicen es cierto o falso. En estos casos la respuesta debe ser 'n' de nonsense.
+Escribe tu respuesta t, f o n en 'Answer [t/f/n]: ' por ejemplo para una frase correcta -> Answer [t/f/n]: t
+Cuando termines, guarda el archivo de texto y evíamelo de vuelta a me@email.com o por el canal que más fácil te resulte (Telegram, etc...)
+Si tienes alguna duda durante la evaluación preguntame sin problema :)
+Te agradezco mucho la ayuda ^^
+
+PARA VER BIEN LAS TABLAS: Si usas Sublime Text (cosa que recomiendo), vete a View y desactiva Word Wrap. Así, las tablas que no quepan en horizontal no pasarán a la siguiente línea (haciéndolas muy difíciles de leer).
+Si usas otro editor y quieres saber cómo desactivarlo, busca cómo desabilitar el 'line wrap' en google o pregúntame a mí.
+
+
+# 1/30
+id: 8c20a502d41244b8d91182aeb2a1f5180bb8a143 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: vissel kobe
++----+----------+-------+-------+-------+------------------+------------------+
+|    |   season | div   |   tms |   pos |   attendance / g | emperor 's cup   |
+|----+----------+-------+-------+-------+------------------+------------------|
+|  0 |     1997 | j1    |    17 |    16 |             6567 | 4th round        |
+|  1 |     1998 | j1    |    18 |    17 |             7686 | 3rd round        |
+|  2 |     1999 | j1    |    16 |    10 |             7691 | 3rd round        |
+|  3 |     2000 | j1    |    16 |    13 |             7512 | semi - final     |
+|  4 |     2001 | j1    |    16 |    12 |            13872 | 4th round        |
+|  5 |     2002 | j1    |    16 |    14 |            10467 | 3rd round        |
+|  6 |     2003 | j1    |    16 |    13 |            11195 | quarter - final  |
+|  7 |     2004 | j1    |    16 |    11 |            15735 | 4th round        |
+|  8 |     2005 | j1    |    18 |    18 |            14913 | 4th round        |
+|  9 |     2006 | j2    |    13 |     3 |             6910 | 3rd round        |
+| 10 |     2007 | j1    |    18 |    10 |            12460 | 5th round        |
+| 11 |     2008 | j1    |    18 |    10 |            12981 | 5th round        |
+| 12 |     2009 | j1    |    18 |    14 |            13068 | 4th round        |
+| 13 |     2010 | j1    |    18 |    15 |            12824 | 3rd round        |
+| 14 |     2011 | j1    |    18 |     9 |            13233 | 3rd round        |
+| 15 |     2012 | j1    |    18 |    16 |            14638 | 2nd round        |
++----+----------+-------+-------+-------+------------------+------------------+
+Frase: the average attendance for vissel kobe during his career is 11360 .
+Answer [t/f/n]: t 
+
+
+# 2/30
+id: e2a8e1b85e4ce6f94e56d69bd71736e91b533ff7 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: claudia hoffmann
++----+--------+-------------------------------+-----------------------------+------------+---------------+
+|    |   year | competition                   | venue                       | position   | event         |
+|----+--------+-------------------------------+-----------------------------+------------+---------------|
+|  0 |   2000 | world junior championships    | santiago , chile            | 5th        | 4 400 m relay |
+|  1 |   2001 | european junior championships | grosseto , italy            | 4th        | 400 m         |
+|  2 |   2005 | world championships           | helsinki , finland          | 6th        | 4 400 m relay |
+|  3 |   2006 | european championships        | gothenburg , sweden         | 5th        | 4 400 m relay |
+|  4 |   2007 | european indoor championships | birmingham , united kingdom | 5th        | 4 400 m relay |
+|  5 |   2010 | european championships        | barcelona , spain           | 2nd        | 4 400 m relay |
++----+--------+-------------------------------+-----------------------------+------------+---------------+
+Frase: claudia hoffmann placed in the 6th position at the 2005 competition .
+Answer [t/f/n]: t
+
+
+# 3/30
+id: d8dcaf50fc291ad4d4b8e8a763d1e63a7cd7cd34 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: eurovision song contest 1963
++----+--------+------------------+-------------------------+---------------------------------+-----------------------------+---------+----------+
+|    |   draw | language         | artist                  | song                            | english translation         |   place |   points |
+|----+--------+------------------+-------------------------+---------------------------------+-----------------------------+---------+----------|
+|  0 |     01 | english          | ronnie carroll          | say wonderful things            | -                           |       4 |       28 |
+|  1 |     02 | dutch            | annie palmen            | een speeldoos                   | a musical box               |      13 |        0 |
+|  2 |     03 | german           | heidi brühl             | marcel                          | -                           |       9 |        5 |
+|  3 |     04 | german , english | carmela corren          | vielleicht geschieht ein wunder | maybe a miracle will happen |       7 |       16 |
+|  4 |     05 | norwegian        | anita thallaug          | solhverv                        | solstice                    |      13 |        0 |
+|  5 |     06 | italian          | emilio pericoli         | uno per tutte                   | one for all                 |       3 |       37 |
+|  6 |     07 | finnish          | laila halme             | muistojeni laulu                | the song of my memories     |      13 |        0 |
+|  7 |     08 | danish           | grethe & jørgen ingmann | dansevise                       | dance ballad                |       1 |       42 |
+|  8 |     09 | croatian         | vice vukov              | brodovi                         | ships                       |      11 |        3 |
+|  9 |     10 | french           | esther ofarim           | t ' en va pas                   | do n't go away              |       2 |       40 |
+| 10 |     11 | french           | alain barrière          | elle était si jolie             | she was so pretty           |       5 |       25 |
+| 11 |     12 | spanish          | josé guardiola          | algo prodigioso                 | something marvellous        |      12 |        2 |
+| 12 |     13 | swedish          | monica zetterlund       | en gång i stockholm             | once in stockholm           |      13 |        0 |
+| 13 |     14 | dutch            | jacques raymond         | waarom                          | why                         |      10 |        4 |
+| 14 |     15 | french           | françoise hardy         | l'amour s ' en va               | love goes away              |       5 |       25 |
+| 15 |     16 | french           | nana mouskouri          | à force de prier                | by the might of prayer      |       8 |       13 |
++----+--------+------------------+-------------------------+---------------------------------+-----------------------------+---------+----------+
+Frase: in the 1963 eurovision song contest the song sung " ronnie carroll " earned 12 more points than the song " carmela corren . " .
+Answer [t/f/n]: t
+
+
+# 4/30
+id: ad3003c6a2c1820f4b2814b46f5aa17af1930ff4 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 1981 toronto blue jays season
++----+-----------+------------+------------------------------------+------------------------------------+------------------------------------+
+|    | date      | opponent   | score                              | loss                               | record                             |
+|----+-----------+------------+------------------------------------+------------------------------------+------------------------------------|
+|  0 | august 10 | tigers     | 4 - 3                              | mclaughlin ( 0 - 5 )               | 16 - 43                            |
+|  1 | august 11 | tigers     | 6 - 4                              | schatzeder ( 3 - 5 )               | 17 - 43                            |
+|  2 | august 12 | tigers     | 4 - 3                              | morris ( 9 - 4 )                   | 18 - 43                            |
+|  3 | august 14 | brewers    | 5 - 4                              | easterly ( 2 - 2 )                 | 19 - 43                            |
+|  4 | august 15 | brewers    | 4 - 3                              | cleveland ( 2 - 2 )                | 20 - 43                            |
+|  5 | august 16 | brewers    | 6 - 2                              | stieb ( 5 - 8 )                    | 20 - 44                            |
+|  6 | august 16 | brewers    | 2 - 0                              | todd ( 2 - 6 )                     | 20 - 45                            |
+|  7 | august 17 | royals     | 5 - 3                              | clancy ( 3 - 6 )                   | 20 - 46                            |
+|  8 | august 18 | royals     | 5 - 3                              | jones ( 1 - 1 )                    | 21 - 46                            |
+|  9 | august 19 | royals     | 9 - 4                              | leonard ( 7 - 8 )                  | 22 - 46                            |
+| 10 | august 21 | white sox  | 5 - 4                              | farmer ( 2 - 3 )                   | 23 - 46                            |
+| 11 | august 22 | white sox  | 8 - 0                              | clancy ( 3 - 7 )                   | 23 - 47                            |
+| 12 | august 23 | white sox  | 13 - 2                             | leal ( 4 - 9 )                     | 23 - 48                            |
+| 13 | august 24 | rangers    | 3 - 0                              | berenguer ( 2 - 5 )                | 23 - 49                            |
+| 14 | august 25 | rangers    | 6 - 1                              | stieb ( 6 - 9 )                    | 23 - 50                            |
+| 15 | august 27 | royals     | 11 - 5                             | clancy ( 3 - 8 )                   | 23 - 51                            |
+| 16 | august 28 | royals     | 4 - 3                              | brett ( 1 - 1 )                    | 24 - 51                            |
+| 17 | august 29 | royals     | 2 - 0                              | berenguer ( 2 - 6 )                | 24 - 52                            |
+| 18 | august 30 | royals     | postponed ( rain ) not rescheduled | postponed ( rain ) not rescheduled | postponed ( rain ) not rescheduled |
+| 19 | august 31 | rangers    | 3 - 0                              | jenkins ( 5 - 7 )                  | 25 - 52                            |
++----+-----------+------------+------------------------------------+------------------------------------+------------------------------------+
+Frase: in the 1981 toronto blue jays season , the toronto blue jays lost 7 games .
+Answer [t/f/n]: f
+
+
+# 5/30
+id: e1d87486ff3b2ea5003fcb14be351618d0aa456f - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: deccan chargers
++----+----------+--------+----------+--------+---------+
+|    | played   | wins   | losses   | tied   | win %   |
+|----+----------+--------+----------+--------+---------|
+|  0 | ipl      | ipl    | ipl      | ipl    | ipl     |
+|  1 | 14       | 2      | 12       | 0      | 14 %    |
+|  2 | 16       | 9      | 7        | 0      | 56 %    |
+|  3 | 16       | 8      | 8        | 0      | 50 %    |
+|  4 | 14       | 6      | 8        | 0      | 42 %    |
+|  5 | 15       | 4      | 11       | 0      | 26.67 % |
+|  6 | 75       | 29     | 46       | 0      | 38.67 % |
+|  7 | 2        | 0      | 2        | 0      | 0 %     |
+|  8 | 77       | 29     | 48       | 0      | 37.67 % |
++----+----------+--------+----------+--------+---------+
+Frase: the deccan chargers had the highest win percentage of 16 games played .
+Answer [t/f/n]: t
+
+
+# 6/30
+id: d56af4b99f9c79e689c62df9449416b088ea952c - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 2008 nascar craftsman truck series
++----+-------+-------+---------------+-----------+----------------------------+
+|    |   pos |   car | driver        | make      | team                       |
+|----+-------+-------+---------------+-----------+----------------------------|
+|  0 |     1 |     5 | mike skinner  | toyota    | bill davis racing          |
+|  1 |     2 |    99 | erik darnell  | ford      | roush fenway racing        |
+|  2 |     3 |    88 | matt crafton  | chevrolet | thorsport racing           |
+|  3 |     4 |    15 | john andretti | toyota    | billy ballew motorsports   |
+|  4 |     5 |    33 | ron hornaday  | chevrolet | kevin harvick incorporated |
+|  5 |     6 |    51 | kyle busch    | toyota    | billy ballew motorsports   |
+|  6 |     7 |    40 | jeff green    | chevrolet | key motorsports            |
+|  7 |     8 |     7 | t j bell      | chevrolet | the racer 's group         |
+|  8 |     9 |    30 | todd bodine   | toyota    | germain racing             |
+|  9 |    10 |    81 | donny lia r   | chevrolet | randy moss motorsports     |
++----+-------+-------+---------------+-----------+----------------------------+
+Frase: 4 cars in the 2008 nascar craftsman truck series were made by toyota .
+Answer [t/f/n]: t
+
+
+# 7/30
+id: 75fe8178634d74fddf78f716f6144a0beec80497 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: croatian bol ladies open
++----+--------+------------+------------------------------------+-------------------------------------+-----------------------+
+|    |   year | category   | champions                          | runners - up                        | score                 |
+|----+--------+------------+------------------------------------+-------------------------------------+-----------------------|
+|  0 |   1991 | v          | laura golarsa magdalena maleeva    | sandra cecchini laura garrone       | walkover              |
+|  1 |   1995 | iii        | mercedes paz rene simpson          | laura golarsa irina spîrlea         | 7 - 5 , 6 - 2         |
+|  2 |   1996 | iv         | laura montalvo paola suárez        | alexia dechaume alexandra fusai     | 6 - 7 , 6 - 3 , 6 - 4 |
+|  3 |   1997 | iv         | laura montalvo henrieta nagyová    | maría josé gaidano marion maruska   | 6 - 3 , 6 - 1         |
+|  4 |   1998 | iva        | laura montalvo paola suárez        | joannette kruger mirjana lučić      | walkover              |
+|  5 |   1999 | iv         | jelena kostanić michaela paštiková | meghann shaughnessy andreea vanc    | 7 - 5 , 6 - 7 , 6 - 2 |
+|  6 |   2000 | iii        | julie halard corina morariu        | tina križan katarina srebotnik      | 6 - 2 , 6 - 2         |
+|  7 |   2001 | iii        | maría martínez anabel medina       | nadia petrova tina pisnik           | 7 - 5 , 6 - 4         |
+|  8 |   2002 | iii        | tathiana garbin angelique widjaja  | elena bovina henrieta nagyová       | 7 - 5 , 3 - 6 , 6 - 4 |
+|  9 |   2003 | iii        | petra mandula patricia wartusch    | emmanuelle gagliardi patty schnyder | 6 - 3 , 6 - 2         |
++----+--------+------------+------------------------------------+-------------------------------------+-----------------------+
+Frase: 1995 was the only year that the runner up was mercedes paz rene simpson .
+Answer [t/f/n]: f
+
+
+# 8/30
+id: 7627738b57e48911bbc6f9054f251edd85e824e5 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: list of south american countries by gdp ( ppp ) per capita
++----+-----------------------+--------------+-----------+----------------+-------------------------+
+|    |   south american rank |   world rank | nation    |   2011 ( imf ) |   2008 ( cia factbook ) |
+|----+-----------------------+--------------+-----------+----------------+-------------------------|
+|  0 |                     1 |           51 | argentina |          17376 |                   14500 |
+|  1 |                     2 |           55 | chile     |          16171 |                   15400 |
+|  2 |                     3 |           59 | uruguay   |          15469 |                   12300 |
+|  3 |                     4 |           71 | venezuela |          12407 |                   13500 |
+|  4 |                     5 |           74 | brazil    |          11845 |                   10513 |
+|  5 |                     6 |           82 | colombia  |          10155 |                    9000 |
+|  6 |                     7 |           83 | peru      |          10000 |                    8500 |
+|  7 |                     8 |           86 | suriname  |           9492 |                    8900 |
+|  8 |                     9 |           91 | ecuador   |           8335 |                    7700 |
+|  9 |                    10 |           96 | guyana    |           7541 |                    4000 |
+| 10 |                    11 |          110 | paraguay  |           5548 |                    4400 |
++----+-----------------------+--------------+-----------+----------------+-------------------------+
+Frase: chile is the country with the highest amount of people in the south american countries by gdp .
+Answer [t/f/n]: n (Habitante por GDP no tiene sentido, la estadística es GDP per cápita)
+
+
+# 9/30
+id: e57d3f9bbcb140da3ee8f20ea89157d0550b7cc5 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: ali al saadi
++----+------------------+-----------+---------+----------+-----------------------------------+
+|    | date             | venue     | score   | result   | competition                       |
+|----+------------------+-----------+---------+----------+-----------------------------------|
+|  0 | 19 august 2009   | new delhi | 1 - 0   | win      | 2009 nehru cup                    |
+|  1 | 22 august 2009   | new delhi | 3 - 4   | loss     | 2009 nehru cup                    |
+|  2 | 23 july 2011     | beirut    | 4 - 0   | win      | 2014 fifa world cup qualification |
+|  3 | 15 november 2011 | beirut    | 2 - 1   | win      | 2014 fifa world cup qualification |
+|  4 | 18 may 2012      | beirut    | 1 - 2   | loss     | friendly                          |
+|  5 | 8 june 2012      | beirut    | 1 - 1   | draw     | 2014 fifa world cup qualification |
++----+------------------+-----------+---------+----------+-----------------------------------+
+Frase: ali al saadi had a win result in the majority of games she played in from beirut .
+Answer [t/f/n]: f
+
+
+# 10/30
+id: ad9405c80daba720c59bda8f63e7af8eed2fc5ce - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: list of awards and nominations received by renée zellweger
++----+--------+----------------------------------+------------------------------------+-----------+----------------------------------------+
+|    |   year | category                         | film                               | result    | lost to                                |
+|----+--------+----------------------------------+------------------------------------+-----------+----------------------------------------|
+|  0 |   2000 | best actress - musical or comedy | nurse betty                        | won       | -                                      |
+|  1 |   2001 | best actress - musical or comedy | bridget jones 's diary             | nominated | nicole kidman ( moulin rouge ! )       |
+|  2 |   2002 | best actress - musical or comedy | chicago                            | won       | -                                      |
+|  3 |   2003 | best supporting actress          | cold mountain                      | won       | -                                      |
+|  4 |   2004 | best actress - musical or comedy | bridget jones : the edge of reason | nominated | annette bening ( being julia )         |
+|  5 |   2006 | best actress - musical or comedy | miss potter                        | nominated | meryl streep ( the devil wears prada ) |
++----+--------+----------------------------------+------------------------------------+-----------+----------------------------------------+
+Frase: six of renée zellweger 's nominations and awards were for the film " renée zellweger " .
+Answer [t/f/n]: f
+
+
+# 11/30
+id: 8942614f3c646318c162b98e1b14c60e811fb893 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 2004 cfl draft
++----+--------+--------------------------+-------------------------+------------+-------------------+
+|    |   pick | cfl team                 | player                  | position   | college           |
+|----+--------+--------------------------+-------------------------+------------+-------------------|
+|  0 |      1 | hamilton tiger - cats    | wayne smith             | ol         | appalachian state |
+|  1 |      2 | ottawa renegades         | ibrahim khan            | ol         | simon fraser      |
+|  2 |      3 | ottawa renegades         | david azzi              | wr         | ottawa            |
+|  3 |      4 | toronto argonauts        | mark moroz              | ol         | wake forest       |
+|  4 |      5 | bc lions                 | oj atogwe               | s          | stanford          |
+|  5 |      6 | saskatchewan roughriders | ducamel augustin        | fb         | villanova         |
+|  6 |      7 | toronto argonauts        | jean - fredric tremblay | wr         | laval             |
+|  7 |      8 | montreal alouettes       | alain kashama           | dl         | michigan          |
+|  8 |      9 | edmonton eskimos         | amarpreet sanghera      | ol         | british columbia  |
++----+--------+--------------------------+-------------------------+------------+-------------------+
+Frase: markmoroz was the only player drafted from wake forest college in the 2004 cfl draft .
+Answer [t/f/n]: t
+
+
+# 12/30
+id: 82df83554fc31ac5755d1d84d46225d1a10918a6 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: geography of moldova
++----+--------------------------+--------------------+------------------------------------------+-------------+----------------+
+|    | land formation           |   area , km square |   of which currently forests , km square | % forests   | habitat type   |
+|----+--------------------------+--------------------+------------------------------------------+-------------+----------------|
+|  0 | northern moldavian hills |               4630 |                                      476 | 10.3 %      | forest steppe  |
+|  1 | dniester - rāut ridge    |               2480 |                                      363 | 14.6 %      | forest steppe  |
+|  2 | middle prut valley       |               2930 |                                      312 | 10.6 %      | forest steppe  |
+|  3 | bălţi steppe             |               1920 |                                       51 | 2.7 %       | steppe         |
+|  4 | ciuluc - soloneţ hills   |               1690 |                                      169 | 10.0 %      | forest steppe  |
+|  5 | corneşti hills ( codru ) |               4740 |                                     1300 | 27.5 %      | forest         |
+|  6 | lower dniester hills     |               3040 |                                      371 | 12.2 %      | forest steppe  |
+|  7 | lower prut valley        |               1810 |                                      144 | 8.0 %       | forest steppe  |
+|  8 | tigheci hills            |               3550 |                                      533 | 15.0 %      | forest steppe  |
+|  9 | bugeac plain             |               3210 |                                      195 | 6.1 %       | steppe         |
+| 10 | part of podolian plateau |               1920 |                                      175 | 9.1 %       | forest steppe  |
+| 11 | part of eurasian steppe  |               1920 |                                      140 | 7.3 %       | steppe         |
++----+--------------------------+--------------------+------------------------------------------+-------------+----------------+
+Frase: 8 of the regions of moldova are located in the forest steppe .
+Answer [t/f/n]: t
+
+
+# 13/30
+id: 3716d9b6f9b6311236072fd07f8426a8f5a793f8 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 2010 afc champions league
++----+-------+----------------------+------------------------+---------+---------------+--------------+-----------+
+|    |   pos | member association   |   points ( total 500 ) |   clubs |   group stage |   play - off |   afc cup |
+|----+-------+----------------------+------------------------+---------+---------------+--------------+-----------|
+|  0 |     4 | saudi arabia         |                    365 |      12 |             4 |            0 |         0 |
+|  1 |     5 | uae                  |                    356 |      12 |             3 |            1 |         0 |
+|  2 |     7 | iran                 |                    340 |      18 |             4 |            0 |         0 |
+|  3 |     9 | uzbekistan           |                    289 |      16 |             2 |            0 |         1 |
+|  4 |    10 | qatar                |                    270 |      10 |             2 |            0 |         0 |
++----+-------+----------------------+------------------------+---------+---------------+--------------+-----------+
+Frase: in the 2010 afc champions league , for teams that had under 300 points , there were 3 times where the group stage was group stage .
+Answer [t/f/n]: n
+
+
+# 14/30
+id: 92fdd289388a4689e75fe180057da154b9e06eb6 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: locomotives of the southern railway
++----+-----------+-----------+---------------------+---------+-------------+------------------+
+|    | iwcr no   | name      | wheel arrangement   | sr no   |   year made |   year withdrawn |
+|----+-----------+-----------+---------------------+---------+-------------+------------------|
+|  0 | 1 ( 1st ) | pioneer   | 2 - 2 - 2t          | -       |        1861 |             1904 |
+|  1 | 2 ( 1st ) | precursor | 2 - 2 - 2t          | -       |        1861 |             1904 |
+|  2 | 1 ( 2nd ) | -         | 0 - 4 - 0t          | -       |        1906 |             1918 |
+|  3 | 2 ( 2nd ) | -         | 0 - 4 - 4t          | -       |        1895 |             1917 |
+|  4 | 3         | -         | 0 - 4 - 2t          | -       |        1870 |             1918 |
+|  5 | 4         | cowes     | 2 - 4 - 0t          | w4      |        1876 |             1925 |
+|  6 | 5         | osborne   | 2 - 4 - 0t          | w5      |        1876 |             1926 |
+|  7 | 6 ( 1st ) | newport   | 2 - 2 - 2t          | -       |        1861 |             1895 |
+|  8 | 6 ( 2nd ) | -         | 4 - 4 - 0t          | w6      |        1890 |             1926 |
+|  9 | 7 ( 1st ) | -         | 4 - 4 - 0t          | -       |        1861 |             1906 |
+| 10 | 7 ( 2nd ) | -         | 2 - 4 - 0t          | w7      |        1882 |             1926 |
+| 11 | 8         | -         | 2 - 4 - 0t          | w8      |        1898 |             1929 |
+| 12 | 9         | -         | 0 - 6 - 0t          | w9      |        1872 |             1927 |
+| 13 | 10        | -         | 0 - 6 - 0t          | w10     |        1874 |             1936 |
+| 14 | 11        | -         | 0 - 6 - 0t          | w11     |        1878 |             1963 |
+| 15 | 12        | -         | 0 - 6 - 0t          | w12     |        1880 |             1936 |
++----+-----------+-----------+---------------------+---------+-------------+------------------+
+Frase: two of the earliest withdrawn locomotives of the southern railway were made in the year 1936 .
+Answer [t/f/n]: f
+
+
+# 15/30
+id: a5935565ee6ea2fc1899138df558d035b9219221 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: fifa beach soccer world cup
++----+--------------+-----------------------------------------------+-------------------------+----------------------------------+-------------------------+-------------------+
+|    | year         | location                                      | number of teams         | player of the tournament         | top goalscorer ( s )    | best goalkeeper   |
+|----+--------------+-----------------------------------------------+-------------------------+----------------------------------+-------------------------+-------------------|
+|  0 | 2009 details | jumeirah beach , dubai , united arab emirates | dejan stankovic ( sui ) | 16 goals dejan stankovic ( sui ) | mão ( bra )             | 269 ( 8.7 )       |
+|  1 | 2008 details | plage du prado , marseille , france           | amarelle ( esp )        | 13 goals madjer ( por )          | roberto valeiro ( esp ) | 258 ( 8.3 )       |
+|  2 | 2007 details | copacabana beach , rio de janeiro , brazil    | buru ( bra )            | 10 goals buru ( bra )            | not awarded             | 261 ( 8.2 )       |
+|  3 | 2006 details | copacabana beach , rio de janeiro , brazil    | madjer ( por )          | 21 goals madjer ( por )          | not awarded             | 286 ( 8.9 )       |
+|  4 | 2005 details | copacabana beach , rio de janeiro , brazil    | madjer ( por )          | 12 goals madjer ( por )          | not awarded             | 164 ( 8.2 )       |
++----+--------------+-----------------------------------------------+-------------------------+----------------------------------+-------------------------+-------------------+
+Frase: in the fifa beach soccer world cup , the total number of players from 2006 is 33 .
+Answer [t/f/n]: n
+
+
+# 16/30
+id: e0371b3044dca224b4c6fa09bd67385b2cb2e26a - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: indiana high school athletics conferences : ohio river valley - western indiana
++----+-----------------+---------------+-------------+--------+---------------+---------------+
+|    | school          | location      | mascot      |   size | ihsaa class   | county        |
+|----+-----------------+---------------+-------------+--------+---------------+---------------|
+|  0 | crawford county | marengo       | wolfpack    |    487 | aa            | 13 crawford   |
+|  1 | mitchell        | mitchell      | bluejackets |    620 | aaa           | 47 lawrence   |
+|  2 | orleans         | orleans       | bulldogs    |    258 | a             | 59 orange     |
+|  3 | paoli           | paoli         | rams        |    511 | aa            | 59 orange     |
+|  4 | perry central   | leopold       | commodores  |    334 | aa            | 62 perry      |
+|  5 | springs valley  | french lick   | blackhawks  |    319 | a             | 59 orange     |
+|  6 | west washington | campbellsburg | senators    |    307 | a             | 88 washington |
++----+-----------------+---------------+-------------+--------+---------------+---------------+
+Frase: mitchell has the highest size among all schools in the indiana high school athletics conference .
+Answer [t/f/n]: t
+
+
+# 17/30
+id: 9c580d913cca12b5a4c552da7de17a222e08d54c - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 2009 - 10 temple owls men 's basketball team
++----+--------+-------------+-------------------+-----------+------------------+------------------+--------------------+-----------------------------------------------+----------+
+|    |   game | date        | team              | score     | high points      | high rebounds    | high assists       | location attendance                           | record   |
+|----+--------+-------------+-------------------+-----------+------------------+------------------+--------------------+-----------------------------------------------+----------|
+|  0 |      1 | november 14 | delaware          | w 76 - 56 | ryan brooks - 23 | lavoy allen - 15 | juan fernandez - 5 | bob carpenter center , newark , de ( 3080 )   | 1 - 0    |
+|  1 |      2 | november 17 | georgetown ( 19 ) | l 46 - 45 | allen - 12       | allen - 14       | luiz guzman - 6    | verizon center , washington , dc ( 8712 )     | 1 - 1    |
+|  2 |      3 | november 21 | siena             | w 73 - 69 | fernandez - 20   | allen - 7        | allen - 5          | liacouras center , philadelphia , pa ( 6759 ) | 2 - 1    |
+|  3 |      4 | november 24 | ball state        | w 66 - 46 | brooks - 17      | allen - 9        | allen / brooks - 7 | liacouras center , philadelphia , pa ( 3597 ) | 3 - 1    |
+|  4 |      5 | november 27 | virginia tech     | w 61 - 50 | allen - 18       | allen - 10       | fernandez - 6      | palestra , philadelphia , pa ( 3750 )         | 4 - 1    |
++----+--------+-------------+-------------------+-----------+------------------+------------------+--------------------+-----------------------------------------------+----------+
+Frase: the 2009-10 temple owls basketball team won most of their games .
+Answer [t/f/n]: t
+
+
+# 18/30
+id: 473d3b0e806517dc4b21cf2c97c97a75a91d6f2c - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: sans contrefaçon
++----+-----------------------------------+----------+-----------------------------------+-------------------+--------+
+|    | version                           | length   | album                             | remixed by        |   year |
+|----+-----------------------------------+----------+-----------------------------------+-------------------+--------|
+|  0 | album version                     | 4:07     | ainsi soit je                     | -                 |   1987 |
+|  1 | single version                    | 3:50     | -                                 | laurent boutonnat |   1987 |
+|  2 | boy remix                         | 5:55     | dance remixes                     | thierry rogen     |   1987 |
+|  3 | girl remix                        | 4:20     | -                                 | thierry rogen     |   1987 |
+|  4 | music video                       | 8:43     | les clips vol ii , music videos i | -                 |   1987 |
+|  5 | live version ( recorded in 1989 ) | 6:10     | en concert                        | -                 |   1989 |
+|  6 | live version ( recorded in 1996 ) | 4:23     | live à bercy                      | -                 |   1996 |
+|  7 | live version ( recorded in 2000 ) | 0:34     | mylenium tour                     | -                 |   2000 |
+|  8 | album version                     | 4:15     | les mots                          | laurent boutonnat |   2001 |
+|  9 | jca remix                         | 5:52     | remixes                           | jca               |   2003 |
+| 10 | live version ( recorded in 2006 ) | 4:46     | avant que l'ombre à bercy         | -                 |   2006 |
+| 11 | live version ( recorded in 2009 ) | 4:09     | n degree5 on tour                 | -                 |   2009 |
++----+-----------------------------------+----------+-----------------------------------+-------------------+--------+
+Frase: sans contrefaçon 's version of the song he was in for the longest time in 1987 .
+Answer [t/f/n]: t
+
+
+# 19/30
+id: 9ac3a6ab4dc0f7c936a5717ef9fe62c6320bfd91 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: list of presidents of fifa
++----+--------------+------------------------+--------------------+---------------+---------------+
+|    |   presidency | president              | date of birth      |   took office | left office   |
+|----+--------------+------------------------+--------------------+---------------+---------------|
+|  0 |            1 | robert guérin          | 1876               |          1904 | 1906          |
+|  1 |            2 | daniel burley woolfall | june 15 , 1852     |          1906 | 1918          |
+|  2 |            3 | jules rimet            | october 14 , 1873  |          1921 | 1954          |
+|  3 |            4 | rodolphe seeldrayers   | december 16 , 1876 |          1954 | 1955          |
+|  4 |            5 | arthur drewry          | march 3 , 1891     |          1955 | 1961          |
+|  5 |            6 | stanley rous           | april 25 , 1895    |          1961 | 1974          |
+|  6 |            7 | joão havelange         | may 8 , 1916       |          1974 | 1998          |
+|  7 |            8 | sepp blatter           | march 10 , 1936    |          1998 | incumbent     |
++----+--------------+------------------------+--------------------+---------------+---------------+
+Frase: two of the presidents of fifa took office in the 1970s .
+Answer [t/f/n]: f
+
+
+# 20/30
+id: 3b1e3287b8f9db13a7656cf0e2a2f631d4f200ea - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 2007 u.s. women 's open golf championship
++----+---------+-----------------+---------------+-------------------------+----------+---------+
+|    | place   | player          | country       | score                   | to par   |   money |
+|----+---------+-----------------+---------------+-------------------------+----------+---------|
+|  0 | 1       | cristie kerr    | united states | 71 + 72 + 66 + 70 = 279 | - 5      |  560000 |
+|  1 | t2      | angela park     | brazil        | 68 + 69 + 74 + 70 = 281 | - 3      |  271022 |
+|  2 | t2      | lorena ochoa    | mexico        | 71 + 71 + 68 + 71 = 281 | - 3      |  271022 |
+|  3 | t4      | se ri pak       | south korea   | 74 + 72 + 68 + 68 = 282 | - 2      |  130549 |
+|  4 | t4      | inbee park      | south korea   | 69 + 73 + 71 + 69 = 282 | - 2      |  130549 |
+|  5 | 6       | jiyai shin      | south korea   | 70 + 69 + 71 + 74 = 284 | e        |  103581 |
+|  6 | 7       | jee young lee   | south korea   | 72 + 71 + 71 + 71 = 285 | + 1      |   93031 |
+|  7 | t8      | mi hyun kim     | south korea   | 71 + 75 + 70 + 70 = 286 | + 2      |   82464 |
+|  8 | t8      | jeong jang      | south korea   | 72 + 71 + 70 + 73 = 286 | + 2      |   82464 |
+|  9 | t10     | ai miyazato     | japan         | 73 + 73 + 72 + 69 = 287 | + 3      |   66177 |
+| 10 | t10     | kyeong bae      | south korea   | 74 + 71 + 72 + 70 = 287 | + 3      |   66177 |
+| 11 | t10     | julieta granada | paraguay      | 70 + 69 + 75 + 73 = 287 | + 3      |   66177 |
+| 12 | t10     | morgan pressel  | united states | 71 + 70 + 69 + 77 = 287 | + 3      |   66177 |
++----+---------+-----------------+---------------+-------------------------+----------+---------+
+Frase: in the 2007 u.s. women 's open , most of the players were from south korea .
+Answer [t/f/n]: t
+
+
+# 21/30
+id: 29db4fb601b8154cb359f460407b1440404d50f0 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: atlanta falcons draft history
++----+---------+--------+-----------+-----------------+------------------+-------------------+
+|    |   round |   pick |   overall | name            | position         | college           |
+|----+---------+--------+-----------+-----------------+------------------+-------------------|
+|  0 |       1 |      6 |         6 | warren bryant   | offensive tackle | kentucky          |
+|  1 |       1 |     20 |        20 | wilson faumuina | defensive tackle | san josã state    |
+|  2 |       2 |      8 |        36 | r c thielemann  | guard            | arkansas          |
+|  3 |       4 |      6 |        90 | allan leavitt   | kicker           | georgia           |
+|  4 |       5 |      8 |       120 | shelton diggs   | wide receiver    | usc               |
+|  5 |       6 |     22 |       161 | keith jenkins   | defensive back   | cincinnati        |
+|  6 |       8 |      8 |       203 | walter packer   | wide receiver    | mississippi state |
+|  7 |       9 |      7 |       230 | john maxwell    | offensive tackle | boston college    |
+|  8 |       9 |     19 |       242 | robert speer    | defensive end    | arkansas state    |
+|  9 |      10 |      6 |       257 | billy ryckman   | wide receiver    | louisiana tech    |
+| 10 |      11 |      8 |       287 | dave farmer     | running back     | usc               |
+| 11 |      12 |      7 |       312 | don parrish     | defensive tackle | pittsburgh        |
++----+---------+--------+-----------+-----------------+------------------+-------------------+
+Frase: dave farmer was drafted in an earlier round by the atlanta falcons than don parrish .
+Answer [t/f/n]: t
+
+
+# 22/30
+id: 9ff1fecf859fd74f830402fe8b6df1b595ecdbf0 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: uk singles chart records and statistics
++----+------------+--------------------------+-------------------------------------+-----------------------+----------+
+|    | position   | artist                   | single                              | year                  | weeks    |
+|----+------------+--------------------------+-------------------------------------+-----------------------+----------|
+|  0 | 1st        | frankie laine            | i believe                           | 1953                  | 18 weeks |
+|  1 | 2nd        | bryan adams              | ( everything i do ) i do it for you | 1991                  | 16 weeks |
+|  2 | 3rd        | wet wet wet              | love is all around                  | 1994                  | 15 weeks |
+|  3 | 4th        | queen                    | bohemian rhapsody                   | 1975 / 76 & 1991 / 92 | 14 weeks |
+|  4 | 5th        | slim whitman             | rose marie                          | 1955                  | 11 weeks |
+|  5 | 6th        | david whitfield          | cara mia                            | 1954                  | 10 weeks |
+|  6 | 6th        | whitney houston          | i will always love you              | 1992                  | 10 weeks |
+|  7 | 6th        | rihanna ( feat jay - z ) | umbrella                            | 2007                  | 10 weeks |
++----+------------+--------------------------+-------------------------------------+-----------------------+----------+
+Frase: the average weeks spent in the uk singles chart and statistics is 16 .
+Answer [t/f/n]: f
+
+
+# 23/30
+id: 748027879a1607c658dbed4be3ccb6079fce9a98 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: eurovision song contest 1961
++----+--------+-----------------+----------------------+-----------------------------------------+----------------------------+---------+----------+
+|    |   draw | language        | artist               | song                                    | english translation        |   place |   points |
+|----+--------+-----------------+----------------------+-----------------------------------------+----------------------------+---------+----------|
+|  0 |     01 | spanish         | conchita bautista    | estando contigo                         | when i 'm with you         |       9 |        8 |
+|  1 |     02 | french          | colette deréal       | allons , allons les enfants             | come on , come on children |      10 |        6 |
+|  2 |     03 | german          | jimmy makulis        | sehnsucht                               | longing                    |      15 |        1 |
+|  3 |     04 | finnish         | laila kinnunen       | valoa ikkunassa                         | the lights in the window   |      10 |        6 |
+|  4 |     05 | serbian         | ljiljana petrović    | neke davne zvezde ( неке давне звезде ) | some ancient stars         |       8 |        9 |
+|  5 |     06 | dutch           | greetje kauffeld     | wat een dag                             | what a day                 |      10 |        6 |
+|  6 |     07 | swedish         | lill - babs          | april , april                           | -                          |      14 |        2 |
+|  7 |     08 | german , french | lale andersen        | einmal sehen wir uns wieder             | we will meet again         |      13 |        3 |
+|  8 |     09 | french          | jean - paul mauric   | printemps , avril carillonne            | spring , april rings       |       4 |       13 |
+|  9 |     10 | french          | franca di rienzo     | nous aurons demain                      | we 'll have tomorrow       |       3 |       16 |
+| 10 |     11 | dutch           | bob benny            | september , gouden roos                 | september , golden rose    |      15 |        1 |
+| 11 |     12 | norwegian       | nora brockstedt      | sommer i palma                          | summer in palma            |       7 |       10 |
+| 12 |     13 | danish          | dario campeotto      | angelique                               | -                          |       5 |       12 |
+| 13 |     14 | french          | jean - claude pascal | nous les amoureux                       | we the lovers              |       1 |       31 |
+| 14 |     15 | english         | the allisons         | are you sure                            | -                          |       2 |       24 |
+| 15 |     16 | italian         | betty curtis         | al di là                                | beyond                     |       5 |       12 |
++----+--------+-----------------+----------------------+-----------------------------------------+----------------------------+---------+----------+
+Frase: sommer i palma was the only song to be translated from norwegian .
+Answer [t/f/n]: t
+
+
+# 24/30
+id: feb255058cf63850631843f101daa5e94d95c5d2 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: list of sons of anarchy episodes
++----+----------------+----------------+--------------+-------------------------+-----------------------------+---------------------+-------------------+-------------------------+
+|    |   no in series |   no in season | title        | directedby              | writtenby                   | originalairdate     | production code   | usviewers ( million )   |
+|----+----------------+----------------+--------------+-------------------------+-----------------------------+---------------------+-------------------+-------------------------|
+|  0 |             14 |              1 | albification | guy ferland             | kurt sutter                 | september 8 , 2009  | 2wab01            | 4.29                    |
+|  1 |             15 |              2 | small tears  | stephen kay             | jack logiudice              | september 15 , 2009 | 2wab02            | n / a                   |
+|  2 |             16 |              3 | fix          | gwyneth horder - payton | dave erickson               | september 22 , 2009 | 2wab03            | 3.49                    |
+|  3 |             17 |              4 | eureka       | guy ferland             | kurt sutter & brett conrad  | september 29 , 2009 | 2wab04            | 3.76                    |
+|  4 |             18 |              5 | smite        | terrence o'hara         | chris collins               | october 6 , 2009    | 2wab05            | n / a                   |
+|  5 |             19 |              6 | falx cerebri | billy gierhart          | regina corrado              | october 13 , 2009   | 2wab06            | n / a                   |
+|  6 |             20 |              7 | gilead       | gwyneth horder - payton | kurt sutter & chris collins | october 20 , 2009   | 2wab07            | 3.70                    |
+|  7 |             21 |              8 | potlatch     | paul maibaum            | kurt sutter & misha green   | october 27 , 2009   | 2wab08            | 3.39                    |
+|  8 |             22 |              9 | fa guan      | stephen kay             | brett conrad & liz sagal    | november 3 , 2009   | 2wab09            | 3.52                    |
+|  9 |             23 |             10 | balm         | paris barclay           | dave erickson & stevie long | november 10 , 2009  | 2wab10            | 3.38                    |
+| 10 |             25 |             12 | the culling  | gwyneth horder - payton | kurt sutter & dave erickson | november 24 , 2009  | 2wab12            | n / a                   |
++----+----------------+----------------+--------------+-------------------------+-----------------------------+---------------------+-------------------+-------------------------+
+Frase: in the list of sons of anarchy episodes , the one titled " gilead " had more viewers than the episode titled " fa guan . " .
+Answer [t/f/n]: t
+
+
+# 25/30
+id: 7c123f2c6a170fa7b0b5298bfef03cdf0ddb8eee - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 1993 san diego chargers season
++----+--------+---------------------+----------------------+-----------+--------------+
+|    |   week | date                | opponent             | result    |   attendance |
+|----+--------+---------------------+----------------------+-----------+--------------|
+|  0 |      1 | september 5 , 1993  | seattle seahawks     | w 18 - 12 |        58039 |
+|  1 |      2 | september 12 , 1993 | denver broncos       | l 34 - 17 |        75074 |
+|  2 |      3 | september 19 , 1993 | houston oilers       | w 18 - 17 |        58519 |
+|  3 |      5 | october 3 , 1993    | seattle seahawks     | l 31 - 14 |        54778 |
+|  4 |      6 | october 10 , 1993   | pittsburgh steelers  | l 16 - 3  |        55264 |
+|  5 |      7 | october 17 , 1993   | kansas city chiefs   | l 17 - 14 |        60729 |
+|  6 |      9 | october 31 , 1993   | los angeles raiders  | w 30 - 23 |        45122 |
+|  7 |     10 | november 7 , 1993   | minnesota vikings    | w 30 - 17 |        55527 |
+|  8 |     11 | november 14 , 1993  | chicago bears        | l 16 - 13 |        58459 |
+|  9 |     12 | november 21 , 1993  | los angeles raiders  | l 12 - 7  |        60615 |
+| 10 |     13 | november 29 , 1993  | indianapolis colts   | w 31 - 0  |        54110 |
+| 11 |     14 | december 5 , 1993   | denver broncos       | w 13 - 10 |        60233 |
+| 12 |     15 | december 12 , 1993  | green bay packers    | l 20 - 13 |        57930 |
+| 13 |     16 | december 19 , 1993  | kansas city chiefs   | l 28 - 24 |        74778 |
+| 14 |     17 | december 27 , 1993  | miami dolphins       | w 45 - 20 |        60311 |
+| 15 |     18 | january 2 , 1994    | tampa bay buccaneers | w 32 - 17 |        35587 |
++----+--------+---------------------+----------------------+-----------+--------------+
+Frase: the game played on week 18 of the san diego chargers ' in the 1993 season had a higher attendance than the game played on week 18 .
+Answer [t/f/n]: n
+
+
+# 26/30
+id: 66f8e3a4a0276ba52c1998a221b8dffdb310764e - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 2008 chicago bears season
++----+-------------------------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------+
+|    | round                         | pick                          | player                        | position                      | college                       |
+|----+-------------------------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------|
+|  0 | 1                             | 14                            | chris williams                | ot                            | vanderbilt                    |
+|  1 | 2                             | 44                            | matt forte                    | rb                            | tulane                        |
+|  2 | 3                             | 70                            | earl bennett                  | wr                            | vanderbilt                    |
+|  3 | 3                             | 90                            | marcus harrison               | dt                            | arkansas                      |
+|  4 | 4                             | 120                           | craig steltz                  | s                             | lsu                           |
+|  5 | 5                             | 142                           | zack bowman                   | cb                            | nebraska                      |
+|  6 | 5                             | 158                           | kellen davis                  | te                            | michigan state                |
+|  7 | 7                             | 208                           | ervin baldwin                 | de                            | michigan state                |
+|  8 | 7                             | 222                           | chester adams                 | og                            | georgia                       |
+|  9 | 7                             | 243                           | joey larocque                 | lb                            | oregon state                  |
+| 10 | 7                             | 247                           | kirk barton                   | ot                            | ohio state                    |
+| 11 | 7                             | 248                           | marcus monk                   | wr                            | arkansas                      |
+| 12 | according to official website | according to official website | according to official website | according to official website | according to official website |
++----+-------------------------------+-------------------------------+-------------------------------+-------------------------------+-------------------------------+
+Frase: marcus harrison was the fourth highest drafted player for the 2008 chicago bears .
+Answer [t/f/n]: t
+
+
+# 27/30
+id: 0b825400929286c794f10cec2a312f038cae2779 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: dick rathmann
++----+--------+---------+----------+----------+----------+
+|    |   year |    qual | rank     | finish   | laps     |
+|----+--------+---------+----------+----------+----------|
+|  0 |   1950 | 130.928 | 17       | 32       | 25       |
+|  1 |   1956 | 144.471 | 6        | 5        | 200      |
+|  2 |   1957 | 140.78  | withdrew | withdrew | withdrew |
+|  3 |   1958 | 145.974 | 1        | 27       | 0        |
+|  4 |   1959 | 144.248 | 5        | 20       | 150      |
+|  5 |   1960 | 145.543 | 6        | 31       | 42       |
+|  6 |   1961 | 146.033 | 8        | 13       | 164      |
+|  7 |   1962 | 147.161 | 13       | 24       | 51       |
+|  8 |   1963 | 149.13  | 14       | 10       | 200      |
+|  9 |   1964 | 151.86  | 17       | 7        | 197      |
++----+--------+---------+----------+----------+----------+
+Frase: dick rathmann had a lower rank in 1956 than he did in 1959 .
+Answer [t/f/n]: t
+
+
+# 28/30
+id: dee3159055a46f9e8b848ee8ee5664322c1b3045 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 2004 buffalo bills season
++----+---------+--------+-----------------+------------------+--------------+
+|    |   round |   pick | player          | position         | college      |
+|----+---------+--------+-----------------+------------------+--------------|
+|  0 |       1 |     13 | lee evans       | wide receiver    | wisconsin    |
+|  1 |       1 |     22 | jp losman       | quarterback      | tulane       |
+|  2 |       3 |     74 | tim anderson    | defensive tackle | ohio state   |
+|  3 |       4 |    109 | tim euhus       | tight end        | oregon state |
+|  4 |       7 |    207 | dylan mcfarland | offensive tackle | montana      |
+|  5 |       7 |    214 | jonathan smith  | wide receiver    | georgia tech |
++----+---------+--------+-----------------+------------------+--------------+
+Frase: in the 2004 buffalo bills season , there were 2 players picked in round 7 .
+Answer [t/f/n]: t
+
+
+# 29/30
+id: cd7d1ce12592ff99d8a6287b5f85d1575e8347a3 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: list of european ultra prominent peaks
++----+-------------------+-----------+-------------------+--------------------+-------------+
+|    | peak              | country   |   elevation ( m ) |   prominence ( m ) |   col ( m ) |
+|----+-------------------+-----------+-------------------+--------------------+-------------|
+|  0 | gerlachovský štít | slovakia  |              2655 |               2355 |         300 |
+|  1 | parngu mare       | romania   |              2519 |               2103 |         416 |
+|  2 | moldoveanu peak   | romania   |              2544 |               2046 |         498 |
+|  3 | peleaga           | romania   |              2509 |               1759 |         750 |
+|  4 | pietrosul rodnei  | romania   |              2303 |               1565 |         738 |
++----+-------------------+-----------+-------------------+--------------------+-------------+
+Frase: moldoveanu peak has the highest elevation of all european ultra prominent peaks .
+Answer [t/f/n]: f
+
+
+# 30/30
+id: bdb91826c79b3afe1347e097718836b36ecedbfa - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: kjrt
++----+-------------+-----------------+---------------------+---------+---------+------------+
+|    | call sign   |   frequency mhz | city of license     |   erp w | class   | fcc info   |
+|----+-------------+-----------------+---------------------+---------+---------+------------|
+|  0 | k201bm      |            88.1 | canadian , texas    |      74 | d       | fcc        |
+|  1 | k202ck      |            88.3 | childress , texas   |     200 | d       | fcc        |
+|  2 | k216 gg     |            91.1 | plainview , texas   |      40 | a       | fcc        |
+|  3 | k220cp      |            91.9 | pampa , texas       |      67 | d       | fcc        |
+|  4 | k220iz      |            91.9 | perryton , texas    |     250 | d       | fcc        |
+|  5 | k220jz      |            91.9 | memphis , texas     |      25 | d       | fcc        |
+|  6 | k219lo      |            91.7 | hereford , texas    |      10 | d       | fcc        |
+|  7 | k229by      |            93.7 | tulia , texas       |     100 | d       | fcc        |
+|  8 | k291aq      |           106.1 | dumas , texas       |      92 | d       | fcc        |
+|  9 | k202ag      |            88.3 | elk city , oklahoma |      38 | d       | fcc        |
++----+-------------+-----------------+---------------------+---------+---------+------------+
+Frase: the frequency of plainview , texas has a lower frequency than the frequency of pampa , texas .
+Answer [t/f/n]: t
+
+

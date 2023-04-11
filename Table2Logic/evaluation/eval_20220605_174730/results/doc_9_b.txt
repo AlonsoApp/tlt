@@ -1,0 +1,634 @@
+Instrucciones
+A continuación verás 30 frases acompañadas de una tabla y su título (de la tabla). Las frases dicen algo de la tabla y tendrás que decir si lo que dice es cierto (t) o falso (f) en base a la información presente en la tabla y el título. 
+Si lo que se dice en la frase no está respaldado por ningún dato de la tabla o del título, la frase se considerará falsa. 
+Si la frase menciona información que pueda ser deducida de la tabla como resultado de de sumas, restas, medias, etc... la frase se considerará correcta.
+Puede que algunas frases estén mal escritas o que digan obviedades como 'in the 1975 formula one season, the race on march 1st was the only one to take place on march 1st'. En estos casos, si la frase se puede entender y lo que dice sigue siendo cierto, se considerarán ciertas (t).
+Hay casos extremos en los que las frases pueden no tener ningún sentido y sea imposible valorar si lo que dicen es cierto o falso. En estos casos la respuesta debe ser 'n' de nonsense.
+Escribe tu respuesta t, f o n en 'Answer [t/f/n]: ' por ejemplo para una frase correcta -> Answer [t/f/n]: t
+Cuando termines, guarda el archivo de texto y evíamelo de vuelta a me@email.com o por el canal que más fácil te resulte (Telegram, etc...)
+Si tienes alguna duda durante la evaluación preguntame sin problema :)
+Te agradezco mucho la ayuda ^^
+
+PARA VER BIEN LAS TABLAS: Si usas Sublime Text (cosa que recomiendo), vete a View y desactiva Word Wrap. Así, las tablas que no quepan en horizontal no pasarán a la siguiente línea (haciéndolas muy difíciles de leer).
+Si usas otro editor y quieres saber cómo desactivarlo, busca cómo desabilitar el 'line wrap' en google o pregúntame a mí.
+
+
+# 1/30
+id: ee0410a6f1e44c7249d285b13c65f4c1c2f0fad6 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: tri - eastern conference ( ihsaa )
++----+----------------+----------------+-------------+-------------+---------------+----------------------------------+-------------+-----------------------------------------+
+|    | school         | location       | mascot      | county      |   year joined | previous conference              |   year left | conference joined                       |
+|----+----------------+----------------+-------------+-------------+---------------+----------------------------------+-------------+-----------------------------------------|
+|  0 | cambridge city | cambridge city | wampus cats | 89 wayne    |          1962 | eastern indiana                  |        1965 | none ( consolidated into lincoln )      |
+|  1 | knightstown    | knightstown    | panthers    | 32 henry    |          1962 | east central                     |        1969 | big blue river                          |
+|  2 | liberty        | liberty        | lancers     | 81 union    |          1962 | east central / whitewater valley |        1965 | none ( consolidated into short )        |
+|  3 | short          | liberty        | lancers     | 81 union    |          1965 | none ( new school )              |        1973 | none ( consolidated into union county ) |
+|  4 | brookville     | brookville     | greyhounds  | 24 franklin |          1966 | eastern indiana                  |        1973 | eastern indiana                         |
++----+----------------+----------------+-------------+-------------+---------------+----------------------------------+-------------+-----------------------------------------+
+Frase: the majority of schools in the tri-eastern conference in 1962 joined the conference .
+Answer [t/f/n]: t
+
+
+# 2/30
+id: edf91356af5394dea1d7fd34d82a5d2f07362678 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 1955 vfl season
++----+-----------------+-------------------+-----------------+-------------------+-----------------------+---------+---------------+
+|    | home team       | home team score   | away team       | away team score   | venue                 |   crowd | date          |
+|----+-----------------+-------------------+-----------------+-------------------+-----------------------+---------+---------------|
+|  0 | st kilda        | 8.5 ( 53 )        | south melbourne | 11.16 ( 82 )      | junction oval         |   10150 | 6 august 1955 |
+|  1 | footscray       | 10.13 ( 73 )      | geelong         | 10.16 ( 76 )      | western oval          |   33902 | 6 august 1955 |
+|  2 | fitzroy         | 6.17 ( 53 )       | richmond        | 11.9 ( 75 )       | brunswick street oval |   14000 | 6 august 1955 |
+|  3 | north melbourne | 8.12 ( 60 )       | hawthorn        | 8.5 ( 53 )        | arden street oval     |    9000 | 6 august 1955 |
+|  4 | melbourne       | 16.23 ( 119 )     | essendon        | 7.12 ( 54 )       | mcg                   |   49352 | 6 august 1955 |
+|  5 | collingwood     | 12.17 ( 89 )      | carlton         | 7.10 ( 52 )       | victoria park         |   28000 | 6 august 1955 |
++----+-----------------+-------------------+-----------------+-------------------+-----------------------+---------+---------------+
+Frase: the average crowd size during the 1955 vfl season was 24067 .
+Answer [t/f/n]: t
+
+
+# 3/30
+id: 8ef5f530d717f1822faa48175192664026115a66 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: northern nevada 4a region
++----+-----------------+-----------+----------------------+-------------+--------------+
+|    | school          | mascot    | location             | league      |   enrollment |
+|----+-----------------+-----------+----------------------+-------------+--------------|
+|  0 | carson          | senators  | carson city , nevada | sierra      |         2503 |
+|  1 | damonte ranch   | mustangs  | reno , nevada        | sierra      |         1253 |
+|  2 | douglas         | tigers    | minden , nevada      | sierra      |         1522 |
+|  3 | galena          | grizzlies | reno , nevada        | sierra      |         1510 |
+|  4 | hug             | hawks     | reno , nevada        | high desert |         1266 |
+|  5 | manogue         | miners    | reno , nevada        | sierra      |          650 |
+|  6 | mcqueen         | lancers   | reno , nevada        | high desert |         1945 |
+|  7 | north valleys   | panthers  | reno , nevada        | high desert |         2227 |
+|  8 | reed            | raiders   | sparks , nevada      | high desert |         2464 |
+|  9 | reno            | huskies   | reno , nevada        | high desert |         1896 |
+| 10 | spanish springs | cougars   | sparks , nevada      | high desert |         2186 |
+| 11 | wooster         | colts     | reno , nevada        | sierra      |         1519 |
++----+-----------------+-----------+----------------------+-------------+--------------+
+Frase: 6 schools in the northern nevada 4a region play in the high desert league .
+Answer [t/f/n]: t
+
+
+# 4/30
+id: 23646d39a036714cb1042b78667dd76981c60a90 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 2007 - 08 fis ski jumping world cup
++----+--------+-----------------------+---------------+-------------+-------------+----------+------------------------------+
+|    |   rank | name                  | nationality   |   1st ( m ) |   2nd ( m ) |   points | overall wc points ( rank )   |
+|----+--------+-----------------------+---------------+-------------+-------------+----------+------------------------------|
+|  0 |      1 | thomas morgenstern    | aut           |       132   |       128.5 |    272.4 | 1555 ( 1 )                   |
+|  1 |      2 | gregor schlierenzauer | aut           |       130.5 |       129   |    268.1 | 919 ( 2 )                    |
+|  2 |      3 | andreas kã ¼ ttel     | sui           |       128   |       130.5 |    260.8 | 584 ( 7 )                    |
+|  3 |      4 | janne ahonen          | fin           |       127.5 |       128.5 |    258.8 | 895 ( 3 )                    |
+|  4 |      5 | anders bardal         | nor           |       124.5 |       129.5 |    255.7 | 592 ( 6 )                    |
++----+--------+-----------------------+---------------+-------------+-------------+----------+------------------------------+
+Frase: thomas morgenstern had the highest overall wc points in the 2007 - 08 fis ski jumping world cup .
+Answer [t/f/n]: t
+
+
+# 5/30
+id: 70e3a75db000a758d18a71b6a2041ae5804ad5f6 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: james calado
++----+----------+----------------------------------------------+-------------------+---------+--------+---------+------------+-----------+----------+------------+
+|    |   season | series                                       | team              |   races |   wins |   poles |   f / laps |   podiums |   points | position   |
+|----+----------+----------------------------------------------+-------------------+---------+--------+---------+------------+-----------+----------+------------|
+|  0 |     2008 | british formula renault 2.0                  | fortec motorsport |      20 |      1 |       2 |          0 |         4 |      292 | 7th        |
+|  1 |     2008 | formula renault 2.0 nec                      | fortec motorsport |       3 |      0 |       0 |          0 |         0 |       38 | 25th       |
+|  2 |     2008 | british formula renault 2.0 winter series    | fortec motorsport |       4 |      2 |       3 |          4 |         3 |      116 | 1st        |
+|  3 |     2008 | portuguese formula renault 2.0 winter series | fortec motorsport |       4 |      3 |       2 |          2 |         4 |       60 | 1st        |
+|  4 |     2009 | british formula renault 2.0                  | fortec motorsport |      20 |      8 |      10 |          7 |        12 |      457 | 2nd        |
+|  5 |     2009 | formula renault 2.0 eurocup                  | fortec motorsport |       6 |      0 |       0 |          1 |         0 |       10 | 17th       |
+|  6 |     2010 | british formula three championship           | carlin            |      30 |      5 |       2 |          4 |        12 |      293 | 2nd        |
+|  7 |     2011 | gp3 series                                   | lotus art         |      16 |      1 |       1 |          2 |         6 |       55 | 2nd        |
+|  8 |     2011 | gp2 final                                    | lotus art         |       2 |      1 |       0 |          0 |         1 |        7 | 5th        |
+|  9 |     2012 | gp2 series                                   | lotus gp          |      24 |      2 |       2 |          1 |         7 |      160 | 5th        |
++----+----------+----------------------------------------------+-------------------+---------+--------+---------+------------+-----------+----------+------------+
+Frase: james calado had the highest number of races in the 2010 season .
+Answer [t/f/n]: t
+
+
+# 6/30
+id: 4041b1d4e44f258206184cab0d90181c9c6474fe - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: united states house of representatives elections , 1946
++----+-------------+------------------+------------+-----------------+--------------+--------------------------------------------------------+
+|    | district    | incumbent        | party      |   first elected | result       | candidates                                             |
+|----+-------------+------------------+------------+-----------------+--------------+--------------------------------------------------------|
+|  0 | new york 16 | ellsworth b buck | republican |            1944 | re - elected | ellsworth b buck ( r ) 61.2 % john burry ( d ) 38.8 %  |
+|  1 | new york 20 | sol bloom        | democratic |            1923 | re - elected | sol bloom ( d ) 61.1 % jules j justin ( r ) 38.9 %     |
+|  2 | new york 28 | ralph a gamble   | republican |            1937 | re - elected | ralph a gamble ( r ) 75.4 % morris karnes ( d ) 24.6 % |
+|  3 | new york 30 | jay le fevre     | republican |            1942 | re - elected | jay le fevre ( r ) 69.5 % john f killgrew ( d ) 30.5 % |
+|  4 | new york 35 | hadwen c fuller  | republican |            1943 | re - elected | hadwen c fuller ( r ) 54.3 % frank a emma ( d ) 45.7 % |
++----+-------------+------------------+------------+-----------------+--------------+--------------------------------------------------------+
+Frase: all of the incumbents in the election of 1946 for united states house of representatives , were re-elected .
+Answer [t/f/n]: t
+
+
+# 7/30
+id: bf6f658dc68e0c120c9c85b113424f845ca99d58 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: lark rise to candleford ( tv series )
++----+----+---------------------------------------------+------------------+------------------+---------------------+------------------+
+|    |    | episode                                     | writer           | director         | original air date   | viewing figure   |
+|----+----+---------------------------------------------+------------------+------------------+---------------------+------------------|
+|  0 | 11 | episode 1 ( 75 - minute christmas special ) | bill gallagher   | alan grint       | 21 december 2008    | 6.58 million     |
+|  1 | 12 | episode 2                                   | bill gallagher   | alan grint       | 4 january 2009      | 6.53 million     |
+|  2 | 13 | episode 3                                   | bill gallagher   | alan grint       | 11 january 2009     | 6.13 million     |
+|  3 | 14 | episode 4                                   | carolyn bonnyman | maurice phillips | 18 january 2009     | 6.49 million     |
+|  4 | 15 | episode 5                                   | bill gallagher   | julian holmes    | 25 january 2009     | 6.31 million     |
+|  5 | 16 | episode 6                                   | gaby chiappe     | moira armstrong  | 1 february 2009     | 6.54 million     |
+|  6 | 17 | episode 7                                   | gaby chiappe     | sue tully        | 8 february 2009     | 6.14 million     |
+|  7 | 18 | episode 8                                   | kate gartside    | alan grint       | 15 february 2009    | 6.20 million     |
+|  8 | 19 | episode 9                                   | kate gartside    | david tucker     | 22 february 2009    | 6.32 million     |
+|  9 | 20 | episode 10                                  | carolyn bonnyman | patrick lau      | 1 march 2009        | 6.34 million     |
+| 10 | 21 | episode 11                                  | gaby chiappe     | paul marcus      | 8 march 2009        | 6.78 million     |
++----+----+---------------------------------------------+------------------+------------------+---------------------+------------------+
+Frase: the episode 5 lark rise to candleford had a higher viewing figure than the episode 7 .
+Answer [t/f/n]: t
+
+
+# 8/30
+id: e57d3f9bbcb140da3ee8f20ea89157d0550b7cc5 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: ali al saadi
++----+------------------+-----------+---------+----------+-----------------------------------+
+|    | date             | venue     | score   | result   | competition                       |
+|----+------------------+-----------+---------+----------+-----------------------------------|
+|  0 | 19 august 2009   | new delhi | 1 - 0   | win      | 2009 nehru cup                    |
+|  1 | 22 august 2009   | new delhi | 3 - 4   | loss     | 2009 nehru cup                    |
+|  2 | 23 july 2011     | beirut    | 4 - 0   | win      | 2014 fifa world cup qualification |
+|  3 | 15 november 2011 | beirut    | 2 - 1   | win      | 2014 fifa world cup qualification |
+|  4 | 18 may 2012      | beirut    | 1 - 2   | loss     | friendly                          |
+|  5 | 8 june 2012      | beirut    | 1 - 1   | draw     | 2014 fifa world cup qualification |
++----+------------------+-----------+---------+----------+-----------------------------------+
+Frase: ali al saadi won 2 of the competitions that were held in beirut .
+Answer [t/f/n]: t
+
+
+# 9/30
+id: a9ea13f0419e3c17a0feb7b817734eb5b1e7a192 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: television in the united kingdom
++----+--------+-------------------------------------------------+---------------------+------------------+-----------+
+|    |   rank | show                                            | number of viewers   | date             | network   |
+|----+--------+-------------------------------------------------+---------------------+------------------+-----------|
+|  0 |      1 | 1966 world cup final                            | 32.30 million       | 30 july 1966     | bbc one   |
+|  1 |      2 | funeral of princess diana                       | 32.10 million       | 6 september 1997 | bbc one   |
+|  2 |      3 | british royal family documentary                | 30.69 million       | 1969             | bbc1      |
+|  3 |      4 | eastenders                                      | 30.15 million       | 25 december 1986 | bbc one   |
+|  4 |      5 | apollo 13 splashdown                            | 28.60 million       | 17 april 1970    | bbc one   |
+|  5 |      6 | fa cup replay : chelsea vs leeds                | 28.49 million       | 29 april 1970    | bbc one   |
+|  6 |      7 | royal wedding of charles & diana                | 28.40 million       | 29 july 1981     | bbc one   |
+|  7 |      8 | wedding of princess anne and mark phillips      | 27.60 million       | 14 november 1973 | bbc one   |
+|  8 |      9 | coronation street                               | 26.65 million       | 25 december 1987 | itv       |
+|  9 |     10 | 2012 summer olympics closing ceremony in london | 24.46 million       | 12 august 2012   | bbc one   |
++----+--------+-------------------------------------------------+---------------------+------------------+-----------+
+Frase: apollo 13 splashdown had the 5th highest number of viewers among all the other shows .
+Answer [t/f/n]: t
+
+
+# 10/30
+id: 87928c7b0622798da79b8a0febc248adc56e444d - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: the universal masters collection ( grace jones album )
++----+-----------+--------+----------------------------------------+----------------+----------------------+
+|    | region    |   year | name                                   | format ( s )   | label                |
+|----+-----------+--------+----------------------------------------+----------------+----------------------|
+|  0 | worldwide |   2003 | the universal masters collection       | cd             | universal            |
+|  1 | japan     |   2005 | best 1200                              | cd             | universal            |
+|  2 | worldwide |   2006 | colour collection                      | cd             | universal            |
+|  3 | germany   |   2008 | star - club prã ¤ sentiert grace jones | cd             | universal            |
+|  4 | worldwide |   2008 | classic grace jones                    | cd , download  | universal , spectrum |
++----+-----------+--------+----------------------------------------+----------------+----------------------+
+Frase: 2008 was the only year that the universal masters collection was released on a sb download format .
+Answer [t/f/n]: t
+
+
+# 11/30
+id: 473d3b0e806517dc4b21cf2c97c97a75a91d6f2c - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: sans contrefaçon
++----+-----------------------------------+----------+-----------------------------------+-------------------+--------+
+|    | version                           | length   | album                             | remixed by        |   year |
+|----+-----------------------------------+----------+-----------------------------------+-------------------+--------|
+|  0 | album version                     | 4:07     | ainsi soit je                     | -                 |   1987 |
+|  1 | single version                    | 3:50     | -                                 | laurent boutonnat |   1987 |
+|  2 | boy remix                         | 5:55     | dance remixes                     | thierry rogen     |   1987 |
+|  3 | girl remix                        | 4:20     | -                                 | thierry rogen     |   1987 |
+|  4 | music video                       | 8:43     | les clips vol ii , music videos i | -                 |   1987 |
+|  5 | live version ( recorded in 1989 ) | 6:10     | en concert                        | -                 |   1989 |
+|  6 | live version ( recorded in 1996 ) | 4:23     | live à bercy                      | -                 |   1996 |
+|  7 | live version ( recorded in 2000 ) | 0:34     | mylenium tour                     | -                 |   2000 |
+|  8 | album version                     | 4:15     | les mots                          | laurent boutonnat |   2001 |
+|  9 | jca remix                         | 5:52     | remixes                           | jca               |   2003 |
+| 10 | live version ( recorded in 2006 ) | 4:46     | avant que l'ombre à bercy         | -                 |   2006 |
+| 11 | live version ( recorded in 2009 ) | 4:09     | n degree5 on tour                 | -                 |   2009 |
++----+-----------------------------------+----------+-----------------------------------+-------------------+--------+
+Frase: 5 of the songs on the album sans contrefaçon were released in 1987 .
+Answer [t/f/n]: t
+
+
+# 12/30
+id: ce83b72fefd8db63dbd75936f551324a1fd92604 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: canon open
++----+--------+------------+-----------------+-----------+--------------+-----------+-------------------+
+|    |   year | dates      | champion        | country   | score        |     purse |   winner 's share |
+|----+--------+------------+-----------------+-----------+--------------+-----------+-------------------|
+|  0 |   2012 | oct 4 - 7  | yuta ikeda      | japan     | 271 ( - 17 ) | 150000000 |          30000000 |
+|  1 |   2011 | oct 6 - 9  | kenichi kuboya  | japan     | 274 ( - 14 ) | 150000000 |          30000000 |
+|  2 |   2010 | oct 7 - 10 | shinichi yokota | japan     | 274 ( - 14 ) | 150000000 |          30000000 |
+|  3 |   2009 | oct 8 - 11 | yuta ikeda      | japan     | 200 ( - 16 ) | 150000000 |          30000000 |
+|  4 |   2008 | oct 9 - 12 | makoto inoue    | japan     | 275 ( - 13 ) | 200000000 |          40000000 |
++----+--------+------------+-----------------+-----------+--------------+-----------+-------------------+
+Frase: 2009 was the only year that canon open had a winner 's share of 271 .
+Answer [t/f/n]: f
+
+
+# 13/30
+id: a40306cc4d53d26c36fb50716252a74e005276d0 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 2008 formula 3 euro series season
++----+----------------------+---------+---------+---------+---------+---------+---------+
+|    | driver               | nor 1   | nor 2   | zan 1   | zan 2   | nür 1   | nür 2   |
+|----+----------------------+---------+---------+---------+---------+---------+---------|
+|  0 | erik janiš           | 8       | 22      | 12      | 10      | ret     | 12      |
+|  1 | mika mäki            | ret     | 18      | 2       | 5       | 4       | ret     |
+|  2 | jules bianchi        | ret     | 9       | 3       | 9       | 2       | 3       |
+|  3 | jon lancaster        | 5       | ret     | ret     | ret     | 7       | 1       |
+|  4 | richard philippe     | 22      | 16      | 16      | 12      | 10      | 18      |
+|  5 | robert wickens       | 7       | 2       | 8       | ret     | 12      | 16      |
+|  6 | stefano coletti      | 11      | 6       | 19      | ret     | 9       | ret     |
+|  7 | daniel campos - hull | 17      | 11      | 23      | 14      | 20      | 8       |
+|  8 | henkie waldschmidt   | 9       | ret     | 17      | ret     | 15      | 17      |
+|  9 | jens klingmann       | 15      | 10      | 21      | 18      | 16      | 10      |
+| 10 | martin plowman       | ret     | ret     | 20      | 17      | 17      | 21      |
+| 11 | driver               | nor 1   | nor 2   | zan 1   | zan 2   | nür 1   | nür 2   |
++----+----------------------+---------+---------+---------+---------+---------+---------+
+Frase: richard philippe had a higher zan number than stefano coletti in the 2008 formula 3 euro series .
+Answer [t/f/n]: t
+
+
+# 14/30
+id: 209a7e19717f28bbaa86d0aa56dbd3f2431fa876 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: catalina sandino moreno
++----+--------+---------------------------------------------+---------------------+------------------------------------------+-----------+
+|    |   year | award                                       | nominated work      | category                                 | result    |
+|----+--------+---------------------------------------------+---------------------+------------------------------------------+-----------|
+|  0 |   2004 | academy awards                              | maria full of grace | best actress                             | nominated |
+|  1 |   2004 | screen actors guild awards                  | maria full of grace | best actress                             | nominated |
+|  2 |   2004 | independent spirit awards                   | maria full of grace | best female lead                         | won       |
+|  3 |   2004 | chicago film critics association            | maria full of grace | most promising performer                 | won       |
+|  4 |   2004 | colombian cinema award                      | maria full of grace | best actress                             | won       |
+|  5 |   2004 | gotham awards                               | maria full of grace | breakthrough performance                 | won       |
+|  6 |   2004 | imagen foundation awards                    | maria full of grace | best actress - film                      | won       |
+|  7 |   2004 | los angeles film critics association awards | maria full of grace | award for new generation                 | won       |
+|  8 |   2004 | online film critics society awards          | maria full of grace | best breakthrough performance            | won       |
+|  9 |   2004 | premios ace                                 | maria full of grace | best actress                             | won       |
+| 10 |   2004 | seattle international film festival         | maria full of grace | best actress                             | won       |
+| 11 |   2004 | showest award                               | maria full of grace | international star of the year           | won       |
+| 12 |   2004 | berlin international film festival          | maria full of grace | best actress                             | won       |
+| 13 |   2004 | broadcast film critics association          | maria full of grace | best actress                             | nominated |
+| 14 |   2004 | chlotrudis awards                           | maria full of grace | best actress                             | nominated |
+| 15 |   2004 | satellite awards                            | maria full of grace | best actress in a motion picture , drama | nominated |
+| 16 |   2005 | london critics circle film awards           | maria full of grace | actress of the year                      | nominated |
++----+--------+---------------------------------------------+---------------------+------------------------------------------+-----------+
+Frase: catalina sandino moreno has been nominated 6 times .
+Answer [t/f/n]: f
+
+
+# 15/30
+id: 1a4610275faffd0afcf54aad272cfc5033f76f17 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: 1990 masters tournament
++----+---------+------------------+---------------+-------------------------+----------+---------+
+|    | place   | player           | country       | score                   | to par   | money   |
+|----+---------+------------------+---------------+-------------------------+----------+---------|
+|  0 | t1      | nick faldo       | england       | 71 + 72 + 66 + 69 = 278 | - 10     | playoff |
+|  1 | t1      | raymond floyd    | united states | 70 + 68 + 68 + 72 = 278 | - 10     | playoff |
+|  2 | t3      | john huston      | united states | 66 + 74 + 68 + 75 = 283 | - 5      | 72500   |
+|  3 | t3      | lanny wadkins    | united states | 72 + 73 + 70 + 68 = 283 | - 5      | 72500   |
+|  4 | 5       | fred couples     | united states | 74 + 69 + 72 + 69 = 284 | - 4      | 50000   |
+|  5 | 6       | jack nicklaus    | united states | 72 + 70 + 69 + 74 = 285 | - 3      | 45000   |
+|  6 | t7      | seve ballesteros | spain         | 74 + 73 + 68 + 71 = 286 | - 2      | 35150   |
+|  7 | t7      | bill britton     | united states | 68 + 74 + 71 + 73 = 286 | - 2      | 35150   |
+|  8 | t7      | bernhard langer  | west germany  | 70 + 73 + 69 + 74 = 286 | - 2      | 35150   |
+|  9 | t7      | scott simpson    | united states | 74 + 71 + 68 + 73 = 286 | - 2      | 35150   |
+| 10 | t7      | curtis strange   | united states | 70 + 73 + 71 + 72 = 286 | - 2      | 35150   |
+| 11 | t7      | tom watson       | united states | 77 + 71 + 67 + 71 = 286 | - 2      | 35150   |
++----+---------+------------------+---------------+-------------------------+----------+---------+
+Frase: in the 1990 masters tournament , the player with the highest money was fred couples .
+Answer [t/f/n]: f
+
+
+# 16/30
+id: 0b0ad23652065569c9869438537b66a05aff9ccf - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: seattle supersonics all - time roster
++----+-----------------+---------------+-----------------------+------------+-------------------------+------------------+
+|    | player          | nationality   | jersey number ( s )   | position   | years                   | from             |
+|----+-----------------+---------------+-----------------------+------------+-------------------------+------------------|
+|  0 | craig ehlo      | united states | 3                     | sg         | 1996 - 1997             | washington state |
+|  1 | dale ellis      | united states | 3                     | sg / sf    | 1986 - 1991 1997 - 1999 | tennessee        |
+|  2 | pervis ellison  | united states | 29                    | c          | 2000                    | louisville       |
+|  3 | francisco elson | netherlands   | 16                    | c          | 2008                    | california       |
+|  4 | reggie evans    | united states | 34 , 30               | pf         | 2002 - 2006             | iowa             |
+|  5 | patrick ewing   | united states | 33                    | center     | 2000 - 2001             | georgetown       |
++----+-----------------+---------------+-----------------------+------------+-------------------------+------------------+
+Frase: francisco elson was the only player on the all-time supersonics roster from the pervis ellison country .
+Answer [t/f/n]: n
+
+
+# 17/30
+id: 3669398f725602684f891cce7765a1b4a83d9dac - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: indiana high school athletics conferences : ohio river valley - western indiana
++----+-----------------+---------------+-------------+--------+---------------+---------------+
+|    | school          | location      | mascot      |   size | ihsaa class   | county        |
+|----+-----------------+---------------+-------------+--------+---------------+---------------|
+|  0 | crawford county | marengo       | wolfpack    |    487 | aa            | 13 crawford   |
+|  1 | mitchell        | mitchell      | bluejackets |    620 | aaa           | 47 lawrence   |
+|  2 | orleans         | orleans       | bulldogs    |    258 | a             | 59 orange     |
+|  3 | paoli           | paoli         | rams        |    511 | aa            | 59 orange     |
+|  4 | perry central   | leopold       | commodores  |    334 | aa            | 62 perry      |
+|  5 | springs valley  | french lick   | blackhawks  |    319 | a             | 59 orange     |
+|  6 | west washington | campbellsburg | senators    |    307 | a             | 88 washington |
++----+-----------------+---------------+-------------+--------+---------------+---------------+
+Frase: for the schools in the ohio river valley - western indiana , perry central is 15 smaller than springs valley .
+Answer [t/f/n]: t
+
+
+# 18/30
+id: feb255058cf63850631843f101daa5e94d95c5d2 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: list of sons of anarchy episodes
++----+----------------+----------------+--------------+-------------------------+-----------------------------+---------------------+-------------------+-------------------------+
+|    |   no in series |   no in season | title        | directedby              | writtenby                   | originalairdate     | production code   | usviewers ( million )   |
+|----+----------------+----------------+--------------+-------------------------+-----------------------------+---------------------+-------------------+-------------------------|
+|  0 |             14 |              1 | albification | guy ferland             | kurt sutter                 | september 8 , 2009  | 2wab01            | 4.29                    |
+|  1 |             15 |              2 | small tears  | stephen kay             | jack logiudice              | september 15 , 2009 | 2wab02            | n / a                   |
+|  2 |             16 |              3 | fix          | gwyneth horder - payton | dave erickson               | september 22 , 2009 | 2wab03            | 3.49                    |
+|  3 |             17 |              4 | eureka       | guy ferland             | kurt sutter & brett conrad  | september 29 , 2009 | 2wab04            | 3.76                    |
+|  4 |             18 |              5 | smite        | terrence o'hara         | chris collins               | october 6 , 2009    | 2wab05            | n / a                   |
+|  5 |             19 |              6 | falx cerebri | billy gierhart          | regina corrado              | october 13 , 2009   | 2wab06            | n / a                   |
+|  6 |             20 |              7 | gilead       | gwyneth horder - payton | kurt sutter & chris collins | october 20 , 2009   | 2wab07            | 3.70                    |
+|  7 |             21 |              8 | potlatch     | paul maibaum            | kurt sutter & misha green   | october 27 , 2009   | 2wab08            | 3.39                    |
+|  8 |             22 |              9 | fa guan      | stephen kay             | brett conrad & liz sagal    | november 3 , 2009   | 2wab09            | 3.52                    |
+|  9 |             23 |             10 | balm         | paris barclay           | dave erickson & stevie long | november 10 , 2009  | 2wab10            | 3.38                    |
+| 10 |             25 |             12 | the culling  | gwyneth horder - payton | kurt sutter & dave erickson | november 24 , 2009  | 2wab12            | n / a                   |
++----+----------------+----------------+--------------+-------------------------+-----------------------------+---------------------+-------------------+-------------------------+
+Frase: gilead was the episode of the season of sons of anarchy earlier than fa guan .
+Answer [t/f/n]: t
+
+
+# 19/30
+id: dee3159055a46f9e8b848ee8ee5664322c1b3045 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 2004 buffalo bills season
++----+---------+--------+-----------------+------------------+--------------+
+|    |   round |   pick | player          | position         | college      |
+|----+---------+--------+-----------------+------------------+--------------|
+|  0 |       1 |     13 | lee evans       | wide receiver    | wisconsin    |
+|  1 |       1 |     22 | jp losman       | quarterback      | tulane       |
+|  2 |       3 |     74 | tim anderson    | defensive tackle | ohio state   |
+|  3 |       4 |    109 | tim euhus       | tight end        | oregon state |
+|  4 |       7 |    207 | dylan mcfarland | offensive tackle | montana      |
+|  5 |       7 |    214 | jonathan smith  | wide receiver    | georgia tech |
++----+---------+--------+-----------------+------------------+--------------+
+Frase: in the 2004 buffalo bills season , 2 players were picked in round 7 .
+Answer [t/f/n]: t
+
+
+# 20/30
+id: cd7d1ce12592ff99d8a6287b5f85d1575e8347a3 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: list of european ultra prominent peaks
++----+-------------------+-----------+-------------------+--------------------+-------------+
+|    | peak              | country   |   elevation ( m ) |   prominence ( m ) |   col ( m ) |
+|----+-------------------+-----------+-------------------+--------------------+-------------|
+|  0 | gerlachovský štít | slovakia  |              2655 |               2355 |         300 |
+|  1 | parngu mare       | romania   |              2519 |               2103 |         416 |
+|  2 | moldoveanu peak   | romania   |              2544 |               2046 |         498 |
+|  3 | peleaga           | romania   |              2509 |               1759 |         750 |
+|  4 | pietrosul rodnei  | romania   |              2303 |               1565 |         738 |
++----+-------------------+-----------+-------------------+--------------------+-------------+
+Frase: the moldoveanu peak has the second highest elevation of all european ultra prominent peaks .
+Answer [t/f/n]: t
+
+
+# 21/30
+id: fcbb19065ffd435f47fac807bf5613e9f1f5fe92 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 1947 baa draft
++----+---------+--------+-----------------+------------+-------------------------+----------------+
+|    |   round |   pick | player          | position   | team                    | college        |
+|----+---------+--------+-----------------+------------+-------------------------+----------------|
+|  0 |       1 |      1 | clifton mcneely | -          | pittsburgh ironmen      | texas wesleyan |
+|  1 |       1 |      2 | glen selbo      | g / f      | toronto huskies         | wisconsin      |
+|  2 |       1 |      3 | bulbs ehlers    | g / f      | boston celtics          | purdue         |
+|  3 |       1 |      4 | walt dropo      | -          | providence steamrollers | connecticut    |
+|  4 |       1 |      5 | dick holub      | c          | new york knicks         | long island    |
+|  5 |       1 |      6 | chink crossin   | g          | philadelphia warriors   | pennsylvania   |
+|  6 |       1 |      7 | jack underman   | -          | st louis bombers        | ohio state     |
+|  7 |       1 |      8 | paul huston     | f          | chicago stags           | ohio state     |
+|  8 |       1 |      9 | dick o'keefe    | g / f      | washington capitols     | santa clara    |
+|  9 |       1 |     10 | larry killick   | -          | baltimore bullets       | vermont        |
++----+---------+--------+-----------------+------------+-------------------------+----------------+
+Frase: in the 1947 baa draft , dick o'keefe was the 9th pick .
+Answer [t/f/n]: t
+
+
+# 22/30
+id: b17bffb4f3b5c539824c0af5645c6cc509b01d39 - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: juan bravo murillo
++----+-------------------+-----------------+-----------------------+------------+----------------+----------------+
+|    |   election number | election date   | district              | province   | took office    | left office    |
+|----+-------------------+-----------------+-----------------------+------------+----------------+----------------|
+|  0 |                 9 | 1837 - 9 - 22   | large                 | seville    | 1837 - 12 - 19 | 1839 - 06 - 01 |
+|  1 |                11 | 1840 - 1 - 19   | large                 | ávila      | 1840 - 02 - 21 | 1840 - 10 - 11 |
+|  2 |                14 | 1843 - 9 - 15   | large                 | badajoz    | 1843 - 10 - 18 | 1844 - 07 - 10 |
+|  3 |                15 | 1844 - 9 - 3    | large                 | badajoz    | 1844 - 10 - 14 | 1846 - 10 - 31 |
+|  4 |                16 | 1846 - 6 - 21   | fregenal de la sierra | badajoz    | 1847 - 01 - 03 | 1848 - 12 - 18 |
+|  5 |                16 | 1846 - 6 - 21   | fregenal de la sierra | badajoz    | 1847 - 12 - 20 | 1850 - 08 - 04 |
+|  6 |                17 | 1850 - 8 - 31   | fregenal de la sierra | badajoz    | 1850 - 11 - 06 | 1851 - 04 - 07 |
+|  7 |                17 | 1850 - 8 - 31   | huelva                | huelva     | 1850 - 11 - 06 | 1850 - 11 - 15 |
+|  8 |                18 | 1851 - 5 - 10   | elche de la sierra    | albacete   | 1851 - 06 - 04 | 1851 - 06 - 17 |
+|  9 |                18 | 1851 - 5 - 10   | fregenal de la sierra | badajoz    | 1851 - 06 - 04 | 1852 - 12 - 02 |
+| 10 |                19 | 1853 - 2 - 4    | fregenal de la sierra | badajoz    | 1853 - 03 - 15 | 1853 - 12 - 10 |
++----+-------------------+-----------------+-----------------------+------------+----------------+----------------+
+Frase: juan bravo murillo took office in badajoz earlier than he did in fregenal de la sierra .
+Answer [t/f/n]: n
+
+
+# 23/30
+id: c23eb3cc7fae1252946b395bcceff0e4c4642abc - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: list of hewitts and nuttalls in england
++----+--------------------------+----------------+--------------+---------+-----------------------+
+|    | peak                     |   height ( m ) |   prom ( m ) | class   | parent                |
+|----+--------------------------+----------------+--------------+---------+-----------------------|
+|  0 | whernside                |            736 |          408 | marilyn | cross fell            |
+|  1 | ingleborough             |            724 |          428 | marilyn | cross fell            |
+|  2 | great whernside          |            704 |          288 | marilyn | whernside             |
+|  3 | buckden pike             |            702 |          207 | marilyn | great whernside       |
+|  4 | pen - y - ghent          |            694 |          306 | marilyn | whernside             |
+|  5 | great coum               |            687 |          221 | marilyn | whernside             |
+|  6 | plover hill              |            680 |           59 | hewitt  | pen - y - ghent       |
+|  7 | great knoutberry hill    |            672 |          254 | marilyn | great whernside       |
+|  8 | dodd fell hill           |            668 |          230 | marilyn | great knoutberry hill |
+|  9 | fountains fell           |            668 |          243 | marilyn | pen - y - ghent       |
+| 10 | fountains fell south top |            662 |           15 | nuttall | fountains fell        |
+| 11 | simon fell               |            650 |           35 | hewitt  | ingleborough          |
+| 12 | yockenthwaite moor       |            643 |           86 | hewitt  | dodd fell hill        |
+| 13 | green hill               |            628 |           24 | nuttall | great coum            |
+| 14 | gragareth                |            627 |           30 | hewitt  | great coum            |
+| 15 | darnbrook fell           |            624 |           40 | hewitt  | fountains fell        |
+| 16 | drumaldrace              |            614 |           66 | hewitt  | dodd fell hill        |
+| 17 | birks fell               |            610 |          158 | marilyn | pen - y - ghent       |
++----+--------------------------+----------------+--------------+---------+-----------------------+
+Frase: the average height of hewitts and nuttalls in england is 670 meters .
+Answer [t/f/n]: f
+
+
+# 24/30
+id: f4b03e0cc16c29330323fe4c0cc0f3d9c9de7e9c - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 1914 in brazilian football
++----+------------+--------------------+----------+----------+-------+---------+--------+-------+-----------+--------------+
+|    |   position | team               |   points |   played |   won |   drawn |   lost |   for |   against | difference   |
+|----+------------+--------------------+----------+----------+-------+---------+--------+-------+-----------+--------------|
+|  0 |          1 | aa são bento       |       15 |       10 |     7 |       1 |      2 |    21 |        16 | 5            |
+|  1 |          2 | paulistano         |       14 |       10 |     7 |       0 |      3 |    22 |        15 | 7            |
+|  2 |          3 | mackenzie          |       11 |       10 |     5 |       1 |      4 |    20 |        14 | 6            |
+|  3 |          4 | ypiranga - sp      |       11 |       10 |     4 |       3 |      3 |    19 |        15 | 4            |
+|  4 |          5 | scottish wanderers |        5 |       10 |     2 |       1 |      7 |    13 |        23 | - 10         |
++----+------------+--------------------+----------+----------+-------+---------+--------+-------+-----------+--------------+
+Frase: the average points earned by brazilian football teams in the 1914 season was 11 .
+Answer [t/f/n]: t
+
+
+# 25/30
+id: 0d440b3836d95ecf17149609fc91038933c86eca - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: dwbl
++----+------------------+------------+-------------+---------+----------------+
+|    | branding         | callsign   | frequency   | power   | location       |
+|----+------------------+------------+-------------+---------+----------------|
+|  0 | dwbl 1242        | dwbl       | 1242 khz    | 20 kw   | metro manila   |
+|  1 | mellow 947       | dwll       | 94.7 mhz    | 20 kw   | metro manila   |
+|  2 | mellow 887       | dyku       | 88.7 mhz    | 10 kw   | iloilo city    |
+|  3 | mellow 957       | dxbl       | 95.7 mhz    | 10 kw   | cagayan de oro |
+|  4 | mellow 947 davao | dxll       | 94.7 mhz    | 20 kw   | davao city     |
++----+------------------+------------+-------------+---------+----------------+
+Frase: the dwll callsign for dwbl is the only one with a dwll callsign .
+Answer [t/f/n]: n
+
+
+# 26/30
+id: 6764a7b2b18cf8e0dda0c0416f8f7b3089dfd168 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: 2008 - 09 detroit red wings season
++----+--------+-----------+---------+---------+------------+--------------+----------+
+|    | date   | visitor   | score   | home    | decision   |   attendance | series   |
+|----+--------+-----------+---------+---------+------------+--------------+----------|
+|  0 | may 17 | chicago   | 2 - 5   | detroit | osgood     |        20066 | 1 - 0    |
+|  1 | may 19 | chicago   | 2 - 3   | detroit | osgood     |        20066 | 2 - 0    |
+|  2 | may 22 | detroit   | 3 - 4   | chicago | osgood     |        22678 | 2 - 1    |
+|  3 | may 24 | detroit   | 6 - 1   | chicago | conklin    |        22663 | 3 - 1    |
+|  4 | may 27 | chicago   | 1 - 2   | detroit | osgood     |        20066 | 4 - 1    |
++----+--------+-----------+---------+---------+------------+--------------+----------+
+Frase: in the 2008 - 09 detroit red wings season , there were three home games .
+Answer [t/f/n]: t
+
+
+# 27/30
+id: 47e9745076cad3673f6fbc01466469d93506d3af - d16de02eb256128d1b4fcd83f0da92976ef7a575
+
+Título: hatem aqel
++----+------------------+-----------+---------+----------+-----------------------------------+
+|    | date             | venue     | score   | result   | competition                       |
+|----+------------------+-----------+---------+----------+-----------------------------------|
+|  0 | 16 december 2002 | kuwait    | 1 - 1   | draw     | 2002 arab nations cup             |
+|  1 | 17 october 2003  | amman     | 1 - 0   | win      | 2004 afc asian cup qualification  |
+|  2 | 18 february 2004 | amman     | 5 - 0   | win      | 2006 fifa world cup qualification |
+|  3 | 18 august 2004   | amman     | 1 - 1   | draw     | friendly                          |
+|  4 | 14 february 2006 | amman     | 2 - 0   | win      | friendly                          |
+|  5 | 22 february 2006 | amman     | 3 - 0   | win      | 2007 afc asian cup qualification  |
+|  6 | 28 january 2009  | singapore | 2 - 1   | loss     | 2011 afc asian cup qualification  |
+|  7 | 9 september 2009 | amman     | 1 - 3   | loss     | friendly                          |
+|  8 | 28 october 2013  | amman     | 1 - 0   | win      | friendly                          |
++----+------------------+-----------+---------+----------+-----------------------------------+
+Frase: the 2002 arab nations cup was the first competition that hatem aqel played in .
+Answer [t/f/n]: t
+
+
+# 28/30
+id: fe72d1a269f2f9bd7cde1601349c4951a66f84e1 - 7a619b8d155d0a3c571a386a66c824a44ebc1eab
+
+Título: 2005 houston astros season
++----+---------+----------------+---------+-------------------+-------------------+--------------+------------+
+|    | date    | winning team   | score   | winning pitcher   | losing pitcher    |   attendance | location   |
+|----+---------+----------------+---------+-------------------+-------------------+--------------+------------|
+|  0 | may 20  | texas          | 7 - 3   | kenny rogers      | brandon backe     |        38109 | arlington  |
+|  1 | may 21  | texas          | 18 - 3  | chris young       | ezequiel astacio  |        35781 | arlington  |
+|  2 | may 22  | texas          | 2 - 0   | chan ho park      | roy oswalt        |        40583 | arlington  |
+|  3 | june 24 | houston        | 5 - 2   | roy oswalt        | ricardo rodriguez |        36199 | houston    |
+|  4 | june 25 | texas          | 6 - 5   | chris young       | brandon backe     |        41868 | houston    |
++----+---------+----------------+---------+-------------------+-------------------+--------------+------------+
+Frase: most of the games were played in the location of arlington .
+Answer [t/f/n]: t
+
+
+# 29/30
+id: f2676bd62e35a938d014920cb633b82613a014c7 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: list of inter milan records and statistics
++----+--------+----------------------+-------------------------------------+----------+---------+
+|    |   rank | name                 | years                               |   league |   total |
+|----+--------+----------------------+-------------------------------------+----------+---------|
+|  0 |      1 | giuseppe meazza      | 1927 - 1940 1946 - 1947             |      247 |     284 |
+|  1 |      2 | alessandro altobelli | 1977 - 1988                         |      128 |     209 |
+|  2 |      3 | roberto boninsegna   | 1969 - 1976                         |      113 |     171 |
+|  3 |      4 | sandro mazzola       | 1960 - 1977                         |      116 |     160 |
+|  4 |      5 | luigi cevenini       | 1912 - 1915 1919 - 1921 1922 - 1927 |      158 |     158 |
+|  5 |      6 | benito lorenzi       | 1947 - 1958                         |      138 |     143 |
+|  6 |      7 | istván nyers         | 1948 - 1954                         |      133 |     133 |
+|  7 |      8 | christian vieri      | 1999 - 2005                         |      103 |     123 |
+|  8 |      9 | ermanno aebi         | 1909 - 1915 1919 - 1923             |      106 |     106 |
+|  9 |     10 | mario corso          | 1958 - 1973                         |       75 |      94 |
++----+--------+----------------------+-------------------------------------+----------+---------+
+Frase: in the list of inter milan records and statistics , benito lorenzi ranks 2nd .
+Answer [t/f/n]: f
+
+
+# 30/30
+id: 32ea4136fb9bc77e81a85d417cbb8b712af75930 - 6c4ae78c3b04d07d820e7f4aaa90aa47465729b8
+
+Título: list of schools in the hawke 's bay region
++----+------------------------------------+---------+----------+------------+------------------+----------+--------+
+|    | name                               | years   | gender   | area       | authority        |   decile |   roll |
+|----+------------------------------------+---------+----------+------------+------------------+----------+--------|
+|  0 | frasertown school                  | 1 - 6   | coed     | frasertown | state            |        4 |    107 |
+|  1 | kotemaori school                   | 1 - 8   | coed     | kotemaori  | state            |        4 |      6 |
+|  2 | mohaka school                      | 1 - 8   | coed     | mohaka     | state            |        1 |     36 |
+|  3 | nuhaka school                      | 1 - 8   | coed     | nuhaka     | state            |        2 |    123 |
+|  4 | ohuka school                       | 1 - 8   | coed     | ohuka      | state            |       10 |     12 |
+|  5 | putere school                      | 1 - 8   | coed     | putere     | state            |        2 |     12 |
+|  6 | ruakituri school                   | 1 - 8   | coed     | ruakituri  | state            |        7 |      9 |
+|  7 | st joseph 's school                | 1 - 8   | coed     | wairoa     | state integrated |        3 |    122 |
+|  8 | te kura o waikaremoana             | 1 - 8   | coed     | tuai       | state            |        2 |     27 |
+|  9 | te mahia school                    | 1 - 8   | coed     | mahia      | state            |        1 |     48 |
+| 10 | tiaho primary school               | 1 - 6   | coed     | wairoa     | state            |        2 |    150 |
+| 11 | tkkm o ngati kahungunu o te wairoa | 1 - 8   | coed     | wairoa     | state            |        1 |     61 |
+| 12 | wairoa college                     | 7 - 15  | coed     | wairoa     | state            |        2 |    544 |
+| 13 | wairoa primary school              | 1 - 6   | coed     | wairoa     | state            |        2 |    228 |
++----+------------------------------------+---------+----------+------------+------------------+----------+--------+
+Frase: one of the schools in the hawke 's bay region are under state integrated authority .
+Answer [t/f/n]: t
+
