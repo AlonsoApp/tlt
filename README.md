@@ -216,3 +216,22 @@ Read _Fidelity evaluation_ section of this README to understand where this sampl
 ## Acknowledgements
 This project makes use of the code from [Valuenet](https://github.com/brunnurs/valuenet) and 
 [Logic2Text](https://github.com/czyssrs/Logic2Text).
+
+## Reference
+If you find this project useful, please cite it using the following format
+
+```
+@article{ALONSO2024121869,
+  title = {Automatic Logical Forms improve fidelity in Table-to-Text generation},
+  journal = {Expert Systems with Applications},
+  volume = {238},
+  pages = {121869},
+  year = {2024},
+  issn = {0957-4174},
+  doi = {https://doi.org/10.1016/j.eswa.2023.121869},
+  url = {https://www.sciencedirect.com/science/article/pii/S0957417423023710},
+  author = {Iñigo Alonso and Eneko Agirre},
+  keywords = {Natural Language Generation, Table-to-Text, Deep learning, Logical forms, Faithfulness, Hallucinations}
+}
+```
+
